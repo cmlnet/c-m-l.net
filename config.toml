@@ -1,0 +1,72 @@
+title = "c-m-l.net - ein Sammelsurium"
+baseURL = "https://www.c-m-l.net/"
+theme = ["hugo-highcharts", "blogwind"]
+DefaultContentLanguage  = "de"
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+
+[build]
+writeStats = true
+
+[module]
+  [[module.imports]]
+    disable = false
+    ignoreConfig = false
+    path = "github.com/cmlnet/blogwind"
+
+[params]
+  author = "Christian Humm"
+  description = "Privates Blog von Christian Humm und ein buntes Sammelsurium aus IT, Technik, Wissenschaft und anderem..."
+  HighchartsLocal = true
+
+# The number of articles to be displayed on a single page.
+paginator_pages = "5"
+
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "false"
+
+# Default Date Format
+dateFormat = "02.01.2006"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+  [privacy.instagram]
+    disabled = false
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+  [services.twitter]
+    disableInlineCSS = true
+
+[languages]
+  [languages.de]
+    languageCode = "de"
+    languageName = "Deutsch"
+    weight = 1
+  [languages.en]
+    weight = 2
+    languageCode = "en"
+    languageName = "English"
+    [languages.en.params]
+      dateFormat = "02/01/2006"
+
+[permalinks]
+    posts = "/:year/:month/:title/"
+    pages = ":slug"

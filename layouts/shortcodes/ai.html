@@ -1,0 +1,8 @@
+<i class="ai {{ range $iconName := .Params }} ai-{{ $iconName }} {{ end }}">
+  <!-- Load font awesome only once per page, load it inside the <i> element
+    so it does not disturb the text flow (like removing spaces) -->
+  {{ if not (.Page.Scratch.Get "academiconsLoaded") }}
+    {{ .Page.Scratch.Set "academiconsLoaded" true }}
+    <link href="/css/academicons.min.css" rel="stylesheet">
+  {{ end }}
+</i>

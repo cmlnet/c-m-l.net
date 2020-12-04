@@ -1,0 +1,13 @@
+<!-- based on: https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/ -->
+{{ $htmlTable := .Inner | markdownify }}
+<!-- add class to table -->
+{{ $class := "w-100 collapse ph2 ba b--moon-gray" }}
+{{ $old := "<table>" }}
+{{ $new := printf "<table class=\"%s\">" $class }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+<!-- add class to tr -->
+{{ $class := "bb b--moon-gray hover-bg-light-gray" }}
+{{ $old := "<tr>" }}
+{{ $new := printf "<tr class=\"%s\">" $class }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable | safeHTML }}

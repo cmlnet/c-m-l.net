@@ -1,0 +1,24 @@
+{
+ "comments": {
+  "dependencies": {},
+  "devDependencies": {
+   "@tailwindcss/typography": "blogwind",
+   "autoprefixer": "blogwind",
+   "postcss": "blogwind",
+   "postcss-cli": "blogwind",
+   "postcss-purgecss": "blogwind",
+   "tailwindcss": "blogwind"
+  }
+ },
+ "dependencies": {},
+ "devDependencies": {
+  "@tailwindcss/typography": "^0.3.0",
+  "autoprefixer": "^10.0.4",
+  "postcss": "^8.1.10",
+  "postcss-cli": "^8.3.0",
+  "postcss-purgecss": "^2.0.3",
+  "tailwindcss": "^2.0.1"
+ },
+ "name": "test",
+ "version": "0.1.0"
+}

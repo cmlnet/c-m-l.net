@@ -1,0 +1,27 @@
+---
+title: Legal Notice
+author: Christian Humm
+date: 2020-04-01T13:42:31+00:00
+slug: "legal-notice"
+
+type: page
+menu: main
+---
+## Service provider
+
+Christian Humm\
+Werderstr. 58\
+76137 Karlsruhe\
+Germany
+
+## Contact
+
+**E-mail address**: mail@c-m-l.net
+
+## Responsible for content
+
+Christian Humm (address as above)
+
+---
+
+_[Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke](https://datenschutz-generator.de/)_
