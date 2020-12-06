@@ -1,6 +1,6 @@
 title = "c-m-l.net - ein Sammelsurium"
 baseURL = "https://www.c-m-l.net/"
-theme = ["hugo-highcharts", "blogwind"]
+#theme = ["hugo-highcharts", "blogwind"]
 DefaultContentLanguage  = "de"
 
 enableInlineShortcodes = true
@@ -10,6 +10,10 @@ enableRobotsTXT = true
 writeStats = true
 
 [module]
+  [[module.imports]]
+    disable = false
+    ignoreConfig = false
+    path = "github.com/cmlnet/hugo-highcharts"
   [[module.imports]]
     disable = false
     ignoreConfig = false
