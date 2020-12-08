@@ -2,12 +2,12 @@
  "comments": {
   "dependencies": {},
   "devDependencies": {
-   "@tailwindcss/typography": "blogwind",
-   "autoprefixer": "blogwind",
-   "postcss": "blogwind",
-   "postcss-cli": "blogwind",
-   "postcss-purgecss": "blogwind",
-   "tailwindcss": "blogwind"
+   "@tailwindcss/typography": "github.com/cmlnet/blogwind",
+   "autoprefixer": "github.com/cmlnet/blogwind",
+   "postcss": "github.com/cmlnet/blogwind",
+   "postcss-cli": "github.com/cmlnet/blogwind",
+   "postcss-purgecss": "github.com/cmlnet/blogwind",
+   "tailwindcss": "github.com/cmlnet/blogwind"
   }
  },
  "dependencies": {},

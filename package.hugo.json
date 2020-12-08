@@ -1,4 +1,9 @@
 {
-  "name": "test",
-  "version": "0.1.0"
+  "name": "blogwind",
+  "version": "0.1.0",
+  "licence": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/cmlnet/c-m-l.net.git"
+	}
 }
