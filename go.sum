@@ -6,3 +6,5 @@ github.com/cmlnet/hugo-highcharts v0.0.0-20201207201621-d331af6d0375 h1:U20Ft6nb
 github.com/cmlnet/hugo-highcharts v0.0.0-20201207201621-d331af6d0375/go.mod h1:wLkroqA2/bma+lv4cfRqE/alSjE+b50IKgeTHov0frA=
 github.com/cmlnet/hugo-highcharts v0.0.0-20201208085948-1b3d2ae99a56 h1:ajFhqf8Uiw7XOyMpU53okOx4iIx3xy0yOg35N1AN9SU=
 github.com/cmlnet/hugo-highcharts v0.0.0-20201208085948-1b3d2ae99a56/go.mod h1:wLkroqA2/bma+lv4cfRqE/alSjE+b50IKgeTHov0frA=
+github.com/cmlnet/hugo-highcharts v0.0.0-20201208135502-1765d558c874 h1:iYp6H6PUcxjrSCDZB9aSujkShTqc+z9rizVFf5ykTQ4=
+github.com/cmlnet/hugo-highcharts v0.0.0-20201208135502-1765d558c874/go.mod h1:wLkroqA2/bma+lv4cfRqE/alSjE+b50IKgeTHov0frA=

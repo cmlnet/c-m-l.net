@@ -19,6 +19,11 @@
   "postcss-purgecss": "^2.0.3",
   "tailwindcss": "^2.0.1"
  },
- "name": "test",
+ "licence": "MIT",
+ "name": "c-m-l.net",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/cmlnet/c-m-l.net.git"
+ },
  "version": "0.1.0"
 }
