@@ -2,6 +2,7 @@ title = "c-m-l.net - ein Sammelsurium"
 baseURL = "https://www.c-m-l.net/"
 #theme = ["hugo-highcharts", "blogwind"]
 DefaultContentLanguage  = "de"
+Paginate = 5
 
 enableInlineShortcodes = true
 enableRobotsTXT = true
@@ -21,8 +22,7 @@ writeStats = true
 
 [params]
   author = "Christian Humm"
-  description = "Privates Blog von Christian Humm und ein buntes Sammelsurium aus IT, Technik, Wissenschaft und anderem..."
-  HighchartsLocal = true
+  description = "Blog von Christian Humm. Ein buntes Sammelsurium aus IT, Technik, Wissenschaft und anderem..."
 
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
@@ -68,8 +68,10 @@ archive = "archives"
     weight = 2
     languageCode = "en"
     languageName = "English"
+    title = "c-m-l.net – a omnium-gatherum"
     [languages.en.params]
       dateFormat = "02/01/2006"
+      description = "Blog by Christian Humm. A colourful omnium-gatherum of IT, technology, science and other..."
 
 [permalinks]
     posts = "/:year/:month/:title/"
