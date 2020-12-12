@@ -23,6 +23,7 @@ writeStats = true
 [params]
   author = "Christian Humm"
   description = "Blog von Christian Humm. Ein buntes Sammelsurium aus IT, Technik, Wissenschaft und anderem..."
+  logo = "logo-path.svg"
 
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
