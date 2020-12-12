@@ -13,11 +13,11 @@
  "dependencies": {},
  "devDependencies": {
   "@tailwindcss/typography": "^0.3.0",
-  "autoprefixer": "^10.0.4",
-  "postcss": "^8.1.10",
-  "postcss-cli": "^8.3.0",
+  "autoprefixer": "^10.1.0",
+  "postcss": "^8.2.1",
+  "postcss-cli": "^8.3.1",
   "postcss-purgecss": "^2.0.3",
-  "tailwindcss": "^2.0.1"
+  "tailwindcss": "^2.0.2"
  },
  "licence": "MIT",
  "name": "c-m-l.net",

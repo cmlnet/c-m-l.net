@@ -2,6 +2,8 @@ github.com/cmlnet/blogwind v0.0.0-20201203190316-13a946d473cb h1:cEvCBgcBgHC4utq
 github.com/cmlnet/blogwind v0.0.0-20201203190316-13a946d473cb/go.mod h1:QKwAURPiPFR9W4LVZ5zNbb0jcOFTJHt0RDtFBpZlvB0=
 github.com/cmlnet/blogwind v0.0.0-20201208183120-4d47e81b5911 h1:GTpl09mnfSq5WFsp5HlD0qy/pdPXqQwbETYTeDfajiE=
 github.com/cmlnet/blogwind v0.0.0-20201208183120-4d47e81b5911/go.mod h1:QKwAURPiPFR9W4LVZ5zNbb0jcOFTJHt0RDtFBpZlvB0=
+github.com/cmlnet/blogwind v0.1.0 h1:zds9rQStNxN/E33RkIWBgYhMBCFI9JV0YtU0xds7Q64=
+github.com/cmlnet/blogwind v0.1.0/go.mod h1:QKwAURPiPFR9W4LVZ5zNbb0jcOFTJHt0RDtFBpZlvB0=
 github.com/cmlnet/hugo-highcharts v0.0.0-20201207090532-44c0c0500244 h1:s9hrkP7lciA8gorQDMM+oVuUW7rQYG2ysPa62/vlOMk=
 github.com/cmlnet/hugo-highcharts v0.0.0-20201207090532-44c0c0500244/go.mod h1:wLkroqA2/bma+lv4cfRqE/alSjE+b50IKgeTHov0frA=
 github.com/cmlnet/hugo-highcharts v0.0.0-20201207201621-d331af6d0375 h1:U20Ft6nbiVIpyiABZkdp8fVO0uyCVgAhOXXM/9Loxus=

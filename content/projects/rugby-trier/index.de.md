@@ -4,6 +4,10 @@ author: Christian Humm
 categories:
   - IT
 cover: img/rugby-trier-logo.png
+tags:
+  - WordPress
+  - Rugby
+  - Administration
 ---
 
 Administration und inhatliche Betreuung der Homepage der Rugbyabteilung des [FSV Trier-Tarforst](https://fsv-trier-tarforst.de/).
