@@ -9,7 +9,6 @@ tags:
   - Lehre
   - Lektüre
   - Offene Wissenschaft
-  - Open Science
   - Seminar
   - Wissenschaftskommunikation
 toc: true
