@@ -11,6 +11,7 @@ tags:
   - R
   - YouTube
 cover: cover.png
+licence: cc-by
 vgwort: 89d72ce261e94496b9064c2ac8df2ed3
 ---
 YouTube ist eine enorm populäre Seite und entsprechend interessant auch für die Forschung. Egal ob es dabei um Wissenschaftskommunikation, die Erforschung von Verschwörungstheorien oder Jugendkultur geht, nicht nur die Videos selbst sind relevant, sondern auch die Kommentarspalte unter selbigen.
