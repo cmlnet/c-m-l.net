@@ -17,7 +17,28 @@ cover: cover.png
 vgwort: 
 ---
 
-Für die Fallstudie [„Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“](https://www.frontiersin.org/articles/10.3389/fcomm.2020.601177/full) brauchte ich die durchschnittliche Anzahl an Views für einen YouTube-Kanal. Erfreulicherweise lassen sich diese mit *R* und dem Paket *tuber* einfach ermitteln.
+Um den Erfolg eines Videos bei YouTube einzuschätzen, ist es interessant zu schauen, ob es mehr oder weniger Views generiert als die anderen Videos des Kanals. Die dafür notwendigen durchschnitten Views pro Video lassen sich mit *R* und dem Paket *tuber* einfach ermitteln.
 
 <!--more-->
 
+Vorraussetzung für die Anleitung sind Grundkenntnisse in *R* und eine funktionierte *R*-Installation.
+
+## Pakete installieren
+
+Benötigt werden die Pakte [*tuber*](https://github.com/soodoku/tuber), 
+
+```R
+install.package("tuber")
+```
+
+## Pakte laden
+
+Danach müssen die Pakete noch in die laufende *R*-Session geladen werden:
+
+```R
+library(tuber)
+```
+
+## API-Schlüssel für YouTube
+
+Damit *tuber* die nötigen Daten auslesen kann, muss ein API-Schlüssel für YouTube erzeugt werden. 
