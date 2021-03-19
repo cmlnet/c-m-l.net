@@ -42,3 +42,5 @@ library(tuber)
 ## API-Schlüssel für YouTube
 
 Damit *tuber* die nötigen Daten auslesen kann, muss ein API-Schlüssel für YouTube erzeugt werden. 
+
+https://developers.google.com/youtube/v3/getting-started
