@@ -1,5 +1,5 @@
 ---
-title: "UseTheNews - Informationsverhalten und Wissenschaftskommunikation"
+title: "UseTheNews: Informationsverhalten und Wissenschaftskommunikation"
 author: Christian Humm
 date: 2021-04-30
 categories:
@@ -16,17 +16,17 @@ coverCaption: Photo [Claudio Schwarz | @purzlbaum](https://unsplash.com/@purzlba
 vgwort: 
 ---
 
-Ein kleiner Blick auf die #UseTheNews Studie zum Informationsverhalten von Jugendlichen mit Fokus auf den Bereich Wissenschaftskommunikation.
+Ein kleiner Blick auf die letzte Woche erschiene [*#UseTheNews* Studie zum Informationsverhalten von Jugendlichen](https://doi.org/10.21241/ssoar.72822) mit Fokus auf den Bereich Wissenschaftskommunikation.
 
 <!--more-->
 
 ## Die Studie
 
-Für die [Studie des Leibniz-Instituts für Medienforschung](https://doi.org/10.21241/ssoar.72822) wurden „eine Reihe von qualitativen Gruppendiskussionen mit Jugendlichen und jungen Erwachsenen sowie eine Repräsentativbefragung zur Nachrichtennutzung und Nachrichtenkompetenz bei drei Altersgruppen (14 bis 17 Jahre, 18 bis 24 Jahre, 40 bis 50 Jahre)„ (S. 5) durchgeführt.
+Für die [Studie des Leibniz-Instituts für Medienforschung](https://doi.org/10.21241/ssoar.72822) wurden „eine Reihe von qualitativen Gruppendiskussionen mit Jugendlichen und jungen Erwachsenen sowie eine Repräsentativbefragung zur Nachrichtennutzung und Nachrichtenkompetenz bei drei Altersgruppen (14 bis 17 Jahre, 18 bis 24 Jahre, 40 bis 50 Jahre)“ (S. 5) durchgeführt.
 
 Uwe Hasebrink, Sasche Hörig und Leonie Wunderlich differenzieren in der Studie zwischen vier Nutzungsgruppen: „journalistisch Informationsorientierte”, „umfassend Informationsorientierte”, „gering Informationsorientierte” und „nicht-journalistisch Informationsorientierte” (S. 20-26).
 
-Hinsichtlich der Anteile der Gruppen im untersuchten Sample „zeigen sich deutliche Unterschiede der jeweiligen Anteile mit Bezug auf Alter und Bildung”. Da es im folgenden nur um die 14-17 jährigen gehen sollen, können die Unterschiede zwischen den Altersgruppen ignoriert werden. Die Unterschiede hinsichtlich der formalen Bildung sind hingegen deutlich.
+Hinsichtlich der Anteile der Gruppen im untersuchten Sample „zeigen sich deutliche Unterschiede der jeweiligen Anteile mit Bezug auf Alter und Bildung”. Da es im folgenden nur um die 14-17 jährigen gehen sollen, können die Unterschiede zwischen den Altersgruppen ignoriert werden. Die Unterschiede hinsichtlich der formalen Bildung sind hingegen in dieser Altersgruppe besonders deutlich.
 
 Während unter der Gruppe der Jugendlichen mit „formale hoher Bildung” — gemeint sind diejenigen, die Abitur oder Studium besitzen oder anstreben — nur 32 % den „gering Informationsorientierten” und „nicht-journalistisch Informationsorientierten” zugeordnet wurden, waren es bei denjenigen mit „formal niedriger Bildung” 65 % (S. 11). Also durchaus relevante Gruppengrößen[^1].
 
@@ -48,7 +48,7 @@ Konkret nutzen die beiden Gruppen vor allem WhatsApp (68 bzw. 91 %), YouTube (60
 
 Wenn man die Jugendlichen — aller vier Gruppen — dort abholen möchte, wo sie sind, dann böte sich Social Media also an. Allerdings folgen die Jugendlichen dort äußerst selten Wissenschafler\*innen. Nur bei den „umfassend Informationsorientierten” haben 15 % solche Akteur*innen abonniert, bei allen anderen Nutzer\*innengruppen liegen die Zahlen im niedrigen einstelligen Bereich.
 
-Auch das aktuelle Lieblingsmedium der deutschen WissKomm-Landschaft — Podcasts — bietet auf den ersten Blick keinen einfachen Ausweg. Zwar sind die Nutzungzahlen erstaunlich hoch — jeweils 35 % bei den „umfassend Informationsorientierte” und den „nicht-journalistisch Informationsorientierten” (S. 30). Wissenschaftler\*innen spielen als Akteur\*innen dieser Podcasts aber nur eine kleine Rolle (S. 32):
+Auch das aktuelle Lieblingsmedium der deutschen WissKomm-Landschaft — Podcasts — bietet auf den ersten Blick keinen einfachen Ausweg. Zwar sind die Nutzungszahlen erstaunlich hoch — jeweils 35 % bei den „umfassend Informationsorientierte” und den „nicht-journalistisch Informationsorientierten” (S. 30). Wissenschaftler\*innen machen aber nur einen geringen Anteil der Akteur\*innen in den gehörten Podcasts aus, wie die folgenden Zahlen zeigen (S. 32):
 
 - Journalistisch Informationsorientierte: 8 %
 - Umfassend Informationsorientierte: 18 %
@@ -73,7 +73,7 @@ Bei der einzigen Frage bei der ein klarer Wissenschaftsbezug gegeben ist („Fra
 
 \#UseTheNews liefert einige interessante Einsichten hinsichtlich des Informationsverhalten von Jugendlichen, die auch für den Bereich der Wissenschaftskommunikation relevant sind:
 
-1. Berichte über Wissenschaft und Technologie stoßen bei Jugendliche insgesamt auf ein — im Vergleich zu anderen Themen — geringes Interesse.
-2. Insbesondere die
+1. Berichte über Wissenschaft und Technologie stoßen bei Jugendliche insgesamt auf ein — im Vergleich zu anderen Themen — geringeres Interesse.
+2. Insbesondere in den beiden Nutzer\*innengruppen, die am wenigsten Nachrichten mit Bezug zu Wissenschaft und Technik nutzen, scheint Personen mit „niedriger formaler Bildung“ überrepräsentiert zu sein. Es liegt also die Annahmen nahe, dass es hier bei der Nutzung von Wissenschaftskommunikation einen Bildungseffekt gibt. Ein weiterer Hinweis darauf, dass es formale Bildung als Exklusionsfaktor wirkt (Humm et al. 2020).
 
 Leider stehen die Daten zur Studie nicht offen zur Verfügung — ein weiteres Indiz dafür, dass es bezüglich Open Data in der deutschen Sozial- und inbesondere der Kommunikationswissenschaft noch ein großes Potenzial für Verbesserung gibt. Mit den Daten wären weitergehende und zielgerichtetere Auswertungen — bspw. Berechnungen der Signifikanz des Bildungseffekts — sowie das leichtere Erstellen von Visualisierungen möglich gewesen.
