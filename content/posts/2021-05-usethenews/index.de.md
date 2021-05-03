@@ -1,7 +1,7 @@
 ---
 title: "UseTheNews: Informationsverhalten und Wissenschaftskommunikation"
 author: Christian Humm
-date: 2021-04-30
+date: 2021-05-03
 categories:
   - Wissenschaft
 tags:
@@ -74,6 +74,7 @@ Bei der einzigen Frage bei der ein klarer Wissenschaftsbezug gegeben ist („Fra
 \#UseTheNews liefert einige interessante Einsichten hinsichtlich des Informationsverhalten von Jugendlichen, die auch für den Bereich der Wissenschaftskommunikation relevant sind:
 
 1. Berichte über Wissenschaft und Technologie stoßen bei Jugendliche insgesamt auf ein — im Vergleich zu anderen Themen — geringeres Interesse.
-2. Insbesondere in den beiden Nutzer\*innengruppen, die am wenigsten Nachrichten mit Bezug zu Wissenschaft und Technik nutzen, scheint Personen mit „niedriger formaler Bildung“ überrepräsentiert zu sein. Es liegt also die Annahmen nahe, dass es hier bei der Nutzung von Wissenschaftskommunikation einen Bildungseffekt gibt. Ein weiterer Hinweis darauf, dass es formale Bildung als Exklusionsfaktor wirkt (Humm et al. 2020).
+2. Insbesondere in den beiden Nutzer\*innengruppen, die am wenigsten Nachrichten mit Bezug zu Wissenschaft und Technik nutzen, scheint Personen mit „niedriger formaler Bildung“ überrepräsentiert zu sein. Es liegt also die Annahmen nahe, dass es hier bei der Nutzung von Wissenschaftskommunikation einen Bildungseffekt gibt und formale Bildung ein Exklusionsfaktor ist (Humm et al. 2020).
+3. Social Media ist der meist genutzte Informationskanal dieser Gruppen. Wissenschaft wird aber auch darüber vergleichsweise selten rezipiert.
 
 Leider stehen die Daten zur Studie nicht offen zur Verfügung — ein weiteres Indiz dafür, dass es bezüglich Open Data in der deutschen Sozial- und inbesondere der Kommunikationswissenschaft noch ein großes Potenzial für Verbesserung gibt. Mit den Daten wären weitergehende und zielgerichtetere Auswertungen — bspw. Berechnungen der Signifikanz des Bildungseffekts — sowie das leichtere Erstellen von Visualisierungen möglich gewesen.
