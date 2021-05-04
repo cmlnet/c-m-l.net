@@ -78,3 +78,5 @@ Bei der einzigen Frage bei der ein klarer Wissenschaftsbezug gegeben ist („Fra
 3. Social Media ist der meist genutzte Informationskanal dieser Gruppen. Wissenschaft wird aber auch darüber vergleichsweise selten rezipiert.
 
 Leider stehen die Daten zur Studie nicht offen zur Verfügung — ein weiteres Indiz dafür, dass es bezüglich Open Data in der deutschen Sozial- und inbesondere der Kommunikationswissenschaft noch ein großes Potenzial für Verbesserung gibt. Mit den Daten wären weitergehende und zielgerichtetere Auswertungen — bspw. Berechnungen der Signifikanz des Bildungseffekts — sowie das leichtere Erstellen von Visualisierungen möglich gewesen.
+
+Außerdem unterliegt natürlich auch diese Studie methodisch bedingten Einschränkungen. Wichtig hier ist insbesondere der Studienfokus auf „Nachrichten“, da es natürlich auch Wissenschaftskommunikation außerhalb des nachrichtlichen Kontext gibt.
