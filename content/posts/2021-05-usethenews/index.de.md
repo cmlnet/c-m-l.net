@@ -26,9 +26,11 @@ Für die [Studie des Leibniz-Instituts für Medienforschung](https://doi.org/10.
 
 Uwe Hasebrink, Sasche Hörig und Leonie Wunderlich differenzieren in der Studie zwischen vier Nutzungsgruppen: „journalistisch Informationsorientierte”, „umfassend Informationsorientierte”, „gering Informationsorientierte” und „nicht-journalistisch Informationsorientierte” (S. 20-26).
 
-Hinsichtlich der Anteile der Gruppen im untersuchten Sample „zeigen sich deutliche Unterschiede der jeweiligen Anteile mit Bezug auf Alter und Bildung”. Da es im folgenden nur um die 14-17 jährigen gehen sollen, können die Unterschiede zwischen den Altersgruppen ignoriert werden. Die Unterschiede hinsichtlich der formalen Bildung sind hingegen in dieser Altersgruppe besonders deutlich.
+Hinsichtlich der Anteile der Gruppen im untersuchten Sample „zeigen sich deutliche Unterschiede der jeweiligen Anteile mit Bezug auf Alter und Bildung” (S. 26). Da es im folgenden nur um die 14-17 jährigen gehen sollen, können die Unterschiede zwischen den Altersgruppen ignoriert werden. Die Unterschiede hinsichtlich der formalen Bildung sind hingegen in dieser Altersgruppe besonders deutlich.
 
-Während unter der Gruppe der Jugendlichen mit „formale hoher Bildung” — gemeint sind diejenigen, die Abitur oder Studium besitzen oder anstreben — nur 32 % den „gering Informationsorientierten” und „nicht-journalistisch Informationsorientierten” zugeordnet wurden, waren es bei denjenigen mit „formal niedriger Bildung” 65 % (S. 11). Also durchaus relevante Gruppengrößen[^1].
+Während unter der Gruppe der Jugendlichen mit „formale hoher Bildung” — gemeint sind diejenigen, die Abitur oder Studium besitzen oder anstreben — nur 32 % den „gering Informationsorientierten” und „nicht-journalistisch Informationsorientierten” zugeordnet wurden, waren es bei denjenigen mit „formal niedriger Bildung” 65 % (S. 11). Also durchaus relevante Gruppengrößen[^1]:
+
+{{< figure src="img/typen_plot.png" title="Typen der Nachrichtenorientierung (14-17 Jährige)" alt="Balkendiagramm mit den Anteilen der vier verschiedenen Typen der Nachrichtenorientierung in der Altersgruppe 14-17 Jahre und getrennt nach formal niedriger und hoher Bildung" caption="Anteile in der Altersgruppe 14-17 Jahre und getrennt nach formal niedriger und hoher Bildung. Grafik: Christian Humm; Quelle: Hasebrink et al. 2021, S. 11; Lizenz: CC-BY 4.0" >}}
 
 [^1]: Bei den anderen Altersgruppen der Studie (18-24 und 40-50 Jahre), sind die Unterschiede geringer. Dies könnte eventuell mit einem mit dem Alter sich verändernden Informationsverhalten oder mit Befragungseffekten - Stichwort Soziale Erwünschtheit - zu tun haben.
 

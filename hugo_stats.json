@@ -1,15 +1,13 @@
 {
   "htmlElements": {
     "tags": [
-      "!--",
-      "!doctype",
+      "",
       "a",
       "article",
       "b",
       "blockquote",
       "body",
       "br",
-      "br/",
       "button",
       "cite",
       "code",
@@ -47,7 +45,6 @@
       "table",
       "tbody",
       "td",
-      "th",
       "thead",
       "time",
       "title",
