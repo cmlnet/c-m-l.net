@@ -16,7 +16,7 @@ coverCaption: Photo [Claudio Schwarz | @purzlbaum](https://unsplash.com/@purzlba
 vgwort: c6d0e2085555477d80714841e0e7af29
 ---
 
-Ein kleiner Blick auf die letzte Woche erschiene [*#UseTheNews* Studie zum Informationsverhalten von Jugendlichen](https://doi.org/10.21241/ssoar.72822) mit Fokus auf den Bereich Wissenschaftskommunikation.
+Ein kleiner Blick auf die kürzlich erschiene [*#UseTheNews* Studie zum Informationsverhalten von Jugendlichen](https://doi.org/10.21241/ssoar.72822) mit Fokus auf den Bereich Wissenschaftskommunikation.
 
 <!--more-->
 

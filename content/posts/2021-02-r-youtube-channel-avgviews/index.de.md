@@ -11,6 +11,7 @@ tags:
   - YouTube
 licence: cc-by
 toc: true
+draft: yes
 
 # Cover picture
 cover: cover.png
