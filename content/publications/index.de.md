@@ -15,6 +15,7 @@ Liste meiner (wissenschaftlichen) Publikationen und Vorträge bzw. Workshops. Di
 
 ## Publikationen
 
+- Humm, C., Niemann, P., Schrögel, P., & Hauser, C. (2021). [**Ringvorlesung: Eine klassische Präsentationsform der Wissenschaftskommunikation.**](https://doi.org/10.5445/IR/1000132256) Karlsruhe: Karlsruher Institut für Technologie (KIT).
 - Kaul, L., Schrögel, P., & Humm, C. (2020). [**Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube.**](https://doi.org/10.3389/fcomm.2020.601177) Frontiers in Communication, 5, 1–17.
 - Schrögel, P., Humm, C., Adler, J., & Färber, M. (2020). [**Who does science communication not reach?**](https://doi.org/10.5281/ZENODO.4173029)
 - Schrögel, P., Humm, C., Adler, J., & Färber, M. (2020). [**Wen erreicht Wissenschaftskommunikation nicht?**](https://doi.org/10.5281/ZENODO.3937516)
@@ -32,6 +33,11 @@ Liste meiner (wissenschaftlichen) Publikationen und Vorträge bzw. Workshops. Di
 - Humm, C., & Schrögel, P. (2018). [**Wissenschaft für alle?! Das sagt die Forschung.**](https://www.wissenschaftskommunikation.de/wissenschaft-fuer-alle-das-sagt-die-forschung-12907/) Wissenschaftskommunikation.de.
 
 ## Vorträge
+
+- **Preaching to the choir? Science communication and the audiences not reached**
+  - 24.-27. Mai 2021
+  - Public Communication of Science and Technology Conference (PCST 2020 + 1)
+  - [Aufzeichnung des Vortrags auf YouTube](https://www.youtube.com/watch?v=V1hrZeDg2TA)
 
 - **Transformation für alle? Nicht erreichte gesellschaftliche Gruppen in Partizipations- und Kommunikationsprozessen.**
   - 06.-08. November 2018

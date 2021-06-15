@@ -14,7 +14,7 @@ toc: true
 
 # Cover picture
 cover: cover.png
-vgwort: 99dc6316fdd64cfaafac27b87257fcc8
+vgwort: d8b8568ad88b45198cd15fbb01a33ff8
 ---
 
 Kooperationen mit Influencern sind inzwischen auch in der Wissenschaftskommunikation angekommen – wurden aber bisher wissenschaftlich wenig in den Blick genommen. Lena Kaul, Philipp Schrögel und ich wollen mit unserer Fallstudie [„Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“](https://www.frontiersin.org/articles/10.3389/fcomm.2020.601177/full) zur Schließung dieser Forschungslücke beitragen. Dazu haben wir uns YouTube-Videos aus der WWF-Kampagne zum #EarthOvershootDay näher angeschaut.

@@ -14,7 +14,7 @@ toc: true
 
 # Cover picture
 cover: cover.png
-vgwort: 42194f5ac3ce48ed99dfd8e4f45f7d9f
+vgwort: dd41249d2e694dfa83ec6daea0f98287
 ---
 
 Cooperations with influencers have now also arrived in science communication - but have not been given much scientific attention so far. Lena Kaul, Philipp Schrögel and I want to contribute to closing this research gap with our case study [„Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“](https://www.frontiersin.org/articles/10.3389/fcomm.2020.601177/full). To do this, we took a closer look at YouTube videos from WWF's #EarthOvershootDay campaign.
