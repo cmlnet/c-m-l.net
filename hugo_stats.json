@@ -1,10 +1,8 @@
 {
   "htmlElements": {
     "tags": [
-      "",
       "a",
       "article",
-      "b",
       "blockquote",
       "body",
       "br",
@@ -45,6 +43,7 @@
       "table",
       "tbody",
       "td",
+      "th",
       "thead",
       "time",
       "title",
@@ -133,10 +132,6 @@
       "items-center",
       "justify-between",
       "justify-center",
-      "language-bash",
-      "language-latex",
-      "language-r",
-      "language-shell",
       "leading-4",
       "leading-none",
       "leading-normal",

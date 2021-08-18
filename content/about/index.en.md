@@ -59,7 +59,7 @@ In my spare time I play rugby. Currently, rather sporadically at [Karlsruher SV]
 
 [1]: https://www.uni-trier.de/ "University Trier"
 [2]: https://www.lancaster.ac.uk/ "Lancaster University"
-[3]: https://wmk.itz.kit.edu/1320_1856.php "Employee page"
+[3]: https://wmk.itz.kit.edu/1320_christian_humm.php "Employee page"
 [4]: https://wmk.itz.kit.edu/ "Department of Science Communication"
 [5]: https://wmk.itz.kit.edu/2118.php
 [6]: https://wmk.itz.kit.edu/2943.php

@@ -61,7 +61,7 @@ In meiner Freizeit spiele ich Rugby. Aktuelle eher unregelmäßig beim [Karlsruh
 
  [1]: https://www.uni-trier.de/
  [2]: https://www.lancaster.ac.uk/
- [3]: https://wmk.itz.kit.edu/1320_1856.php
+ [3]: https://wmk.itz.kit.edu/1320_christian_humm.php
  [4]: https://wmk.itz.kit.edu/
  [5]: http://www.wmk-karlsruhe.de
  [6]: https://wmk.itz.kit.edu/2943.php
