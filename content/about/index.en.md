@@ -19,11 +19,11 @@ Hello, my name is Christian Humm and this is my private blog.
 
 As the subtitle already promises, the blog is a colorful hotchpotch. Here you can find things from my everyday life that might be interesting or helpful for other people.
 
-I studied media and political science at the [University of Trier][1] and [Lancaster University][2]. Currently, I am working as [a research assistant at the Karlsruhe Institute of Technology (KIT)][3], more precisely in the [Department of Science Communication at the Institute of Technology Futures][4].
+I studied media and political science at the [University of Trier][1] and [Lancaster University][2]. Till the end of 2021 I worked as [a research assistant at the Karlsruhe Institute of Technology (KIT)][3], more precisely in the [Department of Science Communication at the Institute of Technology Futures][4]. Since then, I am employed at the President's Office at the [Saarland University](https://www.uni-saarland.de/).
 
 Before that, I worked at the University of Trier and headed the constituency office of a member of the Bundestag.
 
-At KIT, I teach in the study program _[Science – Media – Communication][5]_ and do research in the project [&#8220;Science for All: How can science communication succeed with target groups not yet reached?&#8221;][6].
+At KIT, I taught in the study program _[Science – Media – Communication][5]_ and did research in the project [&#8220;Science for All: How can science communication succeed with target groups not yet reached?&#8221;][6].
 
 Furthermore, I was also involved in setting up the portal _[wissenschaftskommunikation.de][7]_ as editor for the research section.
 
@@ -49,7 +49,9 @@ In my spare time I play rugby. Currently, rather sporadically at [Karlsruher SV]
 
 ### Social Networks
 
-{{< fa instagram fw >}} [Instagram](https://www.instagram.com/cml_0815/)
+{{< fa instagram fw >}} [Instagram](https://www.instagram.com/ch_humm)
+
+{{< fa mastodon fw >}} [Mastodon](https://social.tchncs.de/@cml_net)
 
 {{< fa twitter fw >}} [Twitter](https://twitter.com/cml_net)
 

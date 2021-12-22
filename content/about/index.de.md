@@ -19,11 +19,11 @@ Hallo, ich heiße Christian Humm und dies ist mein privates Blog.
 
 Wie der Untertitel schon verheißt, ist das Blog ein buntes Sammelsurium. Hier finden sich Dinge aus meinem Alltag, die vielleicht auch für andere Menschen interessant oder hilfreich sind.
 
-Ich habe Medien- und Politikwissenschaft an der [Universität Trier][1] und der [Lancaster University][2] studiert. Aktuell arbeite ich als [Wissenschaftlicher Mitarbeiter am Karlsruher Institut für Technologie (KIT)][3], genauer gesagt im [Department für Wissenschaftskommunikation][4] am Institut für Technikzukünfte.
+Ich habe Medien- und Politikwissenschaft an der [Universität Trier][1] und der [Lancaster University][2] studiert. Bis Ende 2021 arbeitete ich als [Wissenschaftlicher Mitarbeiter am Karlsruher Institut für Technologie (KIT)][3], genauer gesagt im [Department für Wissenschaftskommunikation][4] am Institut für Technikzukünfte. Seitdem bin ich im Büro des Präsidenten der [Universität des Saarlandes](https://www.uni-saarland.de/) beschäftigt.
 
-Zuvor habe ich an der Universität Trier gearbeitet und das Wahlkreisbüro einer Bundestagsabgeordneten geleitet.
+Zuvor war ich an der Universität Trier angestellt und habe das Wahlkreisbüro einer Bundestagsabgeordneten geleitet.
 
-Am KIT lehre ich im [Studiengang][5] _[Wissenschaft &#8211; Medien &#8211; Kommunikation][5]_ und forsche im Projekt [&#8220;Wissenschaft für alle: Wie kann Wissenschaftskommunikation mit bisher nicht erreichten Zielgruppen gelingen?&#8221;][6].
+Am KIT lehrte ich im [Studiengang][5] _[Wissenschaft &#8211; Medien &#8211; Kommunikation][5]_ und forschte im Projekt [&#8220;Wissenschaft für alle: Wie kann Wissenschaftskommunikation mit bisher nicht erreichten Zielgruppen gelingen?&#8221;][6].
 
 Außerdem war ich am Aufbau des Portals _[wissenschaftskommunikation.de][7]_ als Redakteur für die Rubrik Forschung beteiligt.
 
@@ -49,7 +49,7 @@ In meiner Freizeit spiele ich Rugby. Aktuelle eher unregelmäßig beim [Karlsruh
 
 ### Soziale Netzwerke
 
-<!--{{< fa instagram fw >}} [Instagram](https://www.instagram.com/cml_0815/)-->
+{{< fa instagram fw >}} [Instagram](https://www.instagram.com/ch_humm/)
 
 {{< fa mastodon fw >}} [Mastodon](https://social.tchncs.de/@cml_net)
 

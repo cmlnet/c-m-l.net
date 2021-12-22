@@ -1,7 +1,7 @@
 ---
 title: Publikationen & Vorträge
 author: Christian Humm
-date: 2021-05-23
+date: 2021-12-22
 url: "publikationen"
 aliases: ["publikationen-vortraege"]
 
@@ -11,10 +11,10 @@ menu: main
 weight: 3
 ---
 
-Liste meiner (wissenschaftlichen) Publikationen und Vorträge bzw. Workshops. Die Liste wird regelmäßig aktualisiert.
+Liste meiner (wissenschaftlichen) Publikationen und Vorträge bzw. Workshops.
 
 ## Publikationen
-
+- Klein, M., Humm, C., Köllenberger, L., Niemann, P., Scheuermann, Y., Schrögel, P., & Valerius, K. (2021). [**Virtual tours to the KATRIN experiment**](https://doi.org/10.22323/1.395.1376). Proceedings of 37th International Cosmic Ray Conference — PoS(ICRC2021), 1376. 
 - Humm, C., Niemann, P., Schrögel, P., & Hauser, C. (2021). [**Ringvorlesung: Eine klassische Präsentationsform der Wissenschaftskommunikation.**](https://doi.org/10.5445/IR/1000132256) Karlsruhe: Karlsruher Institut für Technologie (KIT).
 - Kaul, L., Schrögel, P., & Humm, C. (2020). [**Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube.**](https://doi.org/10.3389/fcomm.2020.601177) Frontiers in Communication, 5, 1–17.
 - Schrögel, P., Humm, C., Adler, J., & Färber, M. (2020). [**Who does science communication not reach?**](https://doi.org/10.5281/ZENODO.4173029)
@@ -33,6 +33,11 @@ Liste meiner (wissenschaftlichen) Publikationen und Vorträge bzw. Workshops. Di
 - Humm, C., & Schrögel, P. (2018). [**Wissenschaft für alle?! Das sagt die Forschung.**](https://www.wissenschaftskommunikation.de/wissenschaft-fuer-alle-das-sagt-die-forschung-12907/) Wissenschaftskommunikation.de.
 
 ## Vorträge
+
+- **„People like us“ – A Science Poetry Slam for Young Muslims**
+  - 14.-16. Oktober 2021
+  - Inclusive SciComm Symposium 2021
+  - [Aufzeichnung des Vortrags auf YouTube](https://www.youtube.com/watch?v=xdKH5OGkVzI)
 
 - **Preaching to the choir? Science communication and the audiences not reached**
   - 24.-27. Mai 2021
