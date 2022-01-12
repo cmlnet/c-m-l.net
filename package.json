@@ -2,28 +2,26 @@
  "comments": {
   "dependencies": {},
   "devDependencies": {
-   "@fullhuman/postcss-purgecss": "github.com/cmlnet/blogwind",
-   "@tailwindcss/typography": "github.com/cmlnet/blogwind",
-   "autoprefixer": "github.com/cmlnet/blogwind",
-   "postcss": "github.com/cmlnet/blogwind",
-   "postcss-cli": "github.com/cmlnet/blogwind",
-   "stylelint": "github.com/cmlnet/blogwind",
-   "stylelint-config-standard": "github.com/cmlnet/blogwind",
-   "tailwindcss": "github.com/cmlnet/blogwind"
+   "@fullhuman/postcss-purgecss": "/home/cmh/Dokumente/Development/hugo/blogwind/",
+   "@tailwindcss/typography": "/home/cmh/Dokumente/Development/hugo/blogwind/",
+   "autoprefixer": "/home/cmh/Dokumente/Development/hugo/blogwind/",
+   "postcss": "/home/cmh/Dokumente/Development/hugo/blogwind/",
+   "postcss-cli": "/home/cmh/Dokumente/Development/hugo/blogwind/",
+   "stylelint": "/home/cmh/Dokumente/Development/hugo/blogwind/",
+   "stylelint-config-standard": "/home/cmh/Dokumente/Development/hugo/blogwind/",
+   "tailwindcss": "/home/cmh/Dokumente/Development/hugo/blogwind/"
   }
  },
- "dependencies": {
-  "package.json": "^2.0.1"
- },
+ "dependencies": {},
  "devDependencies": {
-  "@fullhuman/postcss-purgecss": "^4.0.3",
-  "@tailwindcss/typography": "^0.4.0",
-  "autoprefixer": "^10.2.5",
-  "postcss": "^8.2.15",
-  "postcss-cli": "^8.3.1",
-  "stylelint": "^13.13.1",
-  "stylelint-config-standard": "^22.0.0",
-  "tailwindcss": "^2.1.2"
+  "@fullhuman/postcss-purgecss": "^4.1.3",
+  "@tailwindcss/typography": "^0.5.0",
+  "autoprefixer": "^10.1.0",
+  "postcss": "^8.4.5",
+  "postcss-cli": "^9.1.0",
+  "stylelint": "^14.2.0",
+  "stylelint-config-standard": "^24.0.0",
+  "tailwindcss": "^3.0.7"
  },
  "licence": "MIT",
  "name": "c-m-l.net",

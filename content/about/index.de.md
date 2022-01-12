@@ -53,7 +53,7 @@ In meiner Freizeit spiele ich Rugby. Aktuelle eher unregelmäßig beim [Karlsruh
 
 {{< fa mastodon fw >}} [Mastodon](https://social.tchncs.de/@cml_net)
 
-{{< fa twitter fw >}} [Twitter](https://twitter.com/cml_net)
+{{< fa twitter fw >}} [Twitter](https://twitter.com/ch_humm)
 
 ### Andere Seiten
 

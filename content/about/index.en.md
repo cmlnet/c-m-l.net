@@ -53,7 +53,7 @@ In my spare time I play rugby. Currently, rather sporadically at [Karlsruher SV]
 
 {{< fa mastodon fw >}} [Mastodon](https://social.tchncs.de/@cml_net)
 
-{{< fa twitter fw >}} [Twitter](https://twitter.com/cml_net)
+{{< fa twitter fw >}} [Twitter](https://twitter.com/ch_humm)
 
 ### Other Sites
 
