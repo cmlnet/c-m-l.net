@@ -62,4 +62,4 @@ Wie zu den Wahlen zum Studierendenparlament der Universität Trier [im letzten J
     }]
 {{< /highcharts-custom >}}
 
- [1]: http://www.c-m-l.net/2013/01/stupa-wahlbeteiligung-2005-bis-2012/ "StuPa Wahlbeteiligung 2005 bis 2012"
+ [1]: https://www.c-m-l.net/2013/01/10/stupa-wahlbeteiligung-2005-bis-2012/ "StuPa Wahlbeteiligung 2005 bis 2012"

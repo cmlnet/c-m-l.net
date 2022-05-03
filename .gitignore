@@ -5,3 +5,4 @@ themes/hugo-notice
 themes/blogwind
 themes/highcharts
 resources
+assets/js/highcharts.js
