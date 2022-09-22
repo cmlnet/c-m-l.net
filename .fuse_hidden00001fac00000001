@@ -7,6 +7,7 @@
       "autoprefixer": "/home/cmh/Dokumente/Development/hugo/blogwind",
       "postcss": "/home/cmh/Dokumente/Development/hugo/blogwind",
       "postcss-cli": "/home/cmh/Dokumente/Development/hugo/blogwind",
+      "postcss-import": "/home/cmh/Dokumente/Development/hugo/blogwind",
       "stylelint": "/home/cmh/Dokumente/Development/hugo/blogwind",
       "stylelint-config-standard": "/home/cmh/Dokumente/Development/hugo/blogwind",
       "tailwindcss": "/home/cmh/Dokumente/Development/hugo/blogwind"
@@ -15,13 +16,14 @@
   "dependencies": {},
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.1.3",
-    "@tailwindcss/typography": "0.4.x",
+    "@tailwindcss/typography": "^0.5.7",
     "autoprefixer": "^10.4.4",
     "postcss": "^8.4.12",
     "postcss-cli": "^9.1.0",
+    "postcss-import": "^15.0.0",
     "stylelint": "^14.6.1",
     "stylelint-config-standard": "^25.0.0",
-    "tailwindcss": "2.x"
+    "tailwindcss": "^3.1.8"
   },
   "licence": "MIT",
   "name": "c-m-l.net",

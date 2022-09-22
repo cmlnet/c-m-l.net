@@ -8,5 +8,6 @@
   ],
   "frontMatter.content.publicFolder": "static",
   "frontMatter.dashboard.openOnStart": true,
-  "frontMatter.framework.id": "hugo"
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.templates.enabled": true
 }

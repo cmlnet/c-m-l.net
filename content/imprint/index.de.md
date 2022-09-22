@@ -10,8 +10,8 @@ menu: main
 ## Diensteanbieter (Angaben gemäß § 5 TMG)
 
 Christian Humm\
-Werderstr. 58\
-76137 Karlsruhe\
+Edenstr. 17\
+66113 Saarbrücken\
 Deutschland
 
 ## Kontaktmöglichkeiten

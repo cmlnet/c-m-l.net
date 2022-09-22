@@ -13,7 +13,7 @@ weight: 2
 layout: about
 ---
 
-{{< figure src="christian_humm.jpg" alt="Picture of Christian Humm. Photographer: Nikola Haubner - www.haubnerfotografie.de" caption="Photographer: [Nikola Haubner](https://www.haubnerfotografie.de/)" width="280" class="float-left my-0 mr-3" >}}
+{{< figure src="christian_humm.jpg" alt="Picture of Christian Humm. Photographer: Nikola Haubner - www.haubnerfotografie.de" caption="Photographer: [Nikola Haubner](https://www.haubnerfotografie.de/)" width="280" class="float-right px-3 align-top" >}}
 
 Hello, my name is Christian Humm and this is my private blog.
 

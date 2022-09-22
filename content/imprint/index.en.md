@@ -10,8 +10,8 @@ menu: main
 ## Service provider
 
 Christian Humm\
-Werderstr. 58\
-76137 Karlsruhe\
+Edenstr. 17\
+66113 Saarbrücken\
 Germany
 
 ## Contact
