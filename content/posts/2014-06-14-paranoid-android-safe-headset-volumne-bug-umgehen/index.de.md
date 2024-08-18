@@ -13,10 +13,9 @@ tags:
 toc: false
 cover: cover.jpg
 vgwort: f281f8ed8f5e41c6ac429facc8d151e1
+summary: "Momentan läuft auf meinem Smartphone das Custom Rom Paranoid Android. Eigentlich ein recht stabiles Rom, mit einigen netten Features wie Hover oder Peek und einer durchdachten Benutzeroberfläche. In der aktuellen Version 4.4 RC 1 hat sich allerdings ein fieser Bug eingeschlichen: Sobald man per Kopfhörer Musik oder ähnliches hört und die Lautstärke über das sog. &#8220;Safe Headset Volume&#8221; &#8211; was etwa der Hälfte der möglichen Lautstärke entspricht &#8211; angehoben wird, startet Android neu."
 ---
 Momentan läuft auf meinem Smartphone das Custom Rom [Paranoid Android][1]. Eigentlich ein recht stabiles Rom, mit einigen netten Features wie Hover oder Peek und einer durchdachten Benutzeroberfläche. In der aktuellen Version 4.4 RC 1 hat sich allerdings ein fieser Bug eingeschlichen: Sobald man per Kopfhörer Musik oder ähnliches hört und die Lautstärke über das sog. &#8220;Safe Headset Volume&#8221; &#8211; was etwa der Hälfte der möglichen Lautstärke entspricht &#8211; angehoben wird, startet Android neu.
-
-<!--more-->
 
 Wenn man die Lautstärke zum ersten Mal über diese Lautsstärkegrenze anhebt und dabei einen Kopfhörer eingesteckt hat, blendet Android eine Warnung ein. Bestätigt man diese mit &#8220;OK&#8221;, dann kann man die Lautstärke weiter anheben. Der Vorgang muss unter normalen Androidversionen nach jedem Neustart wiederholt werden &#8211; was ziemlich nervig sein kann. Paranoid Android bietet deshalb nach der Warnung die Möglichkeit diese dauerhaft auszuschalten und genau an dieser Stelle kommt es zum &#8220;Soft Reboot&#8221;.
 
@@ -35,3 +34,5 @@ Zwar ist davon auszugehen, dass der [Bug][2] in der nächsten Version behoben is
  [1]: https://plus.google.com/+ParanoidAndroidCorner/
  [2]: https://paranoidandroid.atlassian.net/browse/AOSPA-527 "Bug im Tracker von Paranoid Android"
  [3]: https://f-droid.org/repository/browse/?fdfilter=terminal&fdid=jackpal.androidterm "Terminal Emulator im F-Droid Katalog"
+
+{{< vgwort "f281f8ed8f5e41c6ac429facc8d151e1" >}}

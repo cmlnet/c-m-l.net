@@ -15,6 +15,7 @@ tags:
   - Open Access
   - präsentation
 toc: false
+summary: "Im Sinne von Open Access möchte ich in an dieser Stelle in loser Folge der Öffentlichkeit Präsentationen und Hausarbeiten zur Verfügung stellen, die ich im Rahmen von Seminaren an der Universität Trier angefertigt habe."
 ---
 Im Sinne von [Open Access][1] möchte ich in an dieser Stelle in loser Folge der Öffentlichkeit Präsentationen und Hausarbeiten zur Verfügung stellen, die ich im Rahmen von Seminaren an der Universität Trier angefertigt habe.
 

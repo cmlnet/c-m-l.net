@@ -13,10 +13,9 @@ tags:
   - WebDAV
 cover: "img/plesk_webdav_screenshot_01.png"
 vgwort: 3ae1af2ce63244a0ae184a92c8ef0081
+summary: "Zwar unterstützt Plesk 9 offiziell kein WebDAV und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und Apache2 schnell von der Hand."
 ---
 Zwar unterstützt [Plesk][1] 9 offiziell kein [WebDAV][2] und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und [Apache2][3] schnell von der Hand.
-
-<!--more-->
 
 ## 1. Aktivieren des Apache-Moduls
 
@@ -24,7 +23,7 @@ Bevor man WebDAV benutzen kann, müssen zuerst einmal die beiden Module mod\_dav
 
 Normalerweise müssten die beiden benötigten Mods schon mit dem Apache2 mitgeliefert werden, d.h.&nbsp; es müssen keine neuen Pakete installiert werden.
 
-{{< notice note >}}
+{{< alert >}}
 **UPDATE 10. August 2009**
 
 Noch einfacher geht das ganz mit dem kleinen Tool `a2enmod`, welches zumindest bei mir schon mit den Apache2 Paketen installiert wurde. Es genügt einfach folgende 2 Befehle auszuführen und man spart sich das Anlegen von symbolischen Verknüpfungen (auch die in Schritt 2):
@@ -33,7 +32,7 @@ Noch einfacher geht das ganz mit dem kleinen Tool `a2enmod`, welches zumindest b
 a2enmod dav
 a2enmod dav_fs
 ```
-{{< /notice >}}
+{{< /alert >}}
 
 Alle für Apache momentan verfügbaren Mods werden im Verzeichnis `/etc/apache2/mods-available` aufgelistet. Dort sollten sich auch die beiden Dateien `dav.load` und `dav_fs.load` finden lassen. Um diese nun zu aktivieren gilt es eine symbolische Verknüpfung zu ihnen im Verzeichnis `/etc/apache2/mods-enabled` anzulegen:
 
@@ -146,3 +145,5 @@ Besonderer Dank gilt an dieser Stelle Otto Berger der in seinem Blog bergercity.
  [3]: http://de.wikipedia.org/wiki/Apache_HTTP_Server "Wikipedia Artikel zu dem HTTP-Server Apache"
  [4]: http://www.webdav.org/cadaver/
  [5]: http://www.bergercity.de/linux/plesk-webdav-nutzen/ "Plesk: WebDAV nutzen"
+
+{{< vgwort "3ae1af2ce63244a0ae184a92c8ef0081" >}}

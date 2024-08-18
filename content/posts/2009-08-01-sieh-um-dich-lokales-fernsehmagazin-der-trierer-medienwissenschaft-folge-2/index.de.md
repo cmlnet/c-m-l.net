@@ -12,6 +12,7 @@ tags:
   - sieh um dich
   - trier
 toc: false
+summary: "Eine meiner Hauptbeschäftigungen in diesem Sommersemester war das Medienprojekt 2009 der Medienwissenschaft an der Uni Trier. Dieses findet pro Jahr einmal statt und muss von jedem Hauptfachstudenten einmal besucht werden. So dieses Jahr auch von meiner Wenigkeit."
 ---
 Eine meiner Hauptbeschäftigungen in diesem Sommersemester war das Medienprojekt 2009 der [Medienwissenschaft an der Uni Trier][1]. Dieses findet pro Jahr einmal statt und muss von jedem Hauptfachstudenten einmal besucht werden. So dieses Jahr auch von meiner Wenigkeit.
 

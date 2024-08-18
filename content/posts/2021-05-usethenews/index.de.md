@@ -14,11 +14,13 @@ toc: true
 cover: cover.jpg
 coverCaption: Photo [Claudio Schwarz | @purzlbaum](https://unsplash.com/@purzlbaum) on [Unsplash](https://unsplash.com/s/photos/printing-press)
 vgwort: c6d0e2085555477d80714841e0e7af29
+
+summary: "Ein kleiner Blick auf die kürzlich erschiene **#UseTheNews** Studie zum Informationsverhalten von Jugendlichen mit Fokus auf den Bereich Wissenschaftskommunikation."
 ---
 
-Ein kleiner Blick auf die kürzlich erschiene [*#UseTheNews* Studie zum Informationsverhalten von Jugendlichen](https://doi.org/10.21241/ssoar.72822) mit Fokus auf den Bereich Wissenschaftskommunikation.
+{{< licence name="cc-by" >}}
 
-<!--more-->
+Ein kleiner Blick auf die kürzlich erschiene [*#UseTheNews* Studie zum Informationsverhalten von Jugendlichen](https://doi.org/10.21241/ssoar.72822) mit Fokus auf den Bereich Wissenschaftskommunikation.
 
 ## Die Studie
 
@@ -86,3 +88,5 @@ Bei der einzigen Frage bei der ein klarer Wissenschaftsbezug gegeben ist („Fra
 Leider stehen die Daten der Studie nicht offen zur Verfügung — ein weiteres Indiz dafür, dass es bezüglich Open Data in der deutschen Sozial- und inbesondere der Kommunikationswissenschaft noch ein großes Potenzial für Verbesserungen gibt. Mit den Daten wären weitergehende und zielgerichtetere Auswertungen — bspw. Berechnungen der Signifikanz des Bildungseffekts — sowie das leichtere Erstellen von Visualisierungen möglich gewesen.
 
 Außerdem unterliegt natürlich auch diese Studie methodisch bedingten Einschränkungen. Wichtig ist hier insbesondere der Studienfokus auf „Nachrichten“, da es natürlich auch Wissenschaftskommunikation außerhalb des nachrichtlichen Kontext gibt.
+
+{{< vgwort "c6d0e2085555477d80714841e0e7af29" >}}

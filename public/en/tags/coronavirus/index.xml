@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coronavirus on c-m-l.net</title>
+    <link>//localhost:1313/en/tags/coronavirus/</link>
+    <description>Recent content in Coronavirus on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Thu, 09 Apr 2020 06:03:11 +0000</lastBuildDate><atom:link href="//localhost:1313/en/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collection of Surveys on the Corona Crisis</title>
+      <link>//localhost:1313/en/2020/04/09/collection-of-surveys-on-the-corona-crisis/</link>
+      <pubDate>Thu, 09 Apr 2020 06:03:11 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>//localhost:1313/en/2020/04/09/collection-of-surveys-on-the-corona-crisis/</guid>
+      <description>The spread of the coronavirus affects all areas of society, and so it is no surprise that there are now numerous social science surveys on the pandemic. &lt;br /&gt; This article is intended to serve as a collection and overview of such scientific polls. &lt;strong&gt;The focus lies on surveys about information and (media / science) communication around Covid-19.&lt;/strong&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2020/04/29/sammlung-von-umfragen-zur-corona-krise/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

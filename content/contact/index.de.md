@@ -4,8 +4,6 @@ author: Christian Humm
 date: 2008-12-27T11:36:45+00:00
 url: "kontakt"
 
-menu: main
-
 type: page
 toc: false
 ---

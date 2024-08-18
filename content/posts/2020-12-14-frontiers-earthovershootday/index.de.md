@@ -15,11 +15,13 @@ toc: true
 # Cover picture
 cover: cover.png
 vgwort: d8b8568ad88b45198cd15fbb01a33ff8
+
+summary: "Kooperationen mit Influencern sind inzwischen auch in der Wissenschaftskommunikation angekommen – wurden aber bisher wissenschaftlich wenig in den Blick genommen. Lena Kaul, Philipp Schrögel und ich wollen mit unserer Fallstudie „Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“ zur Schließung dieser Forschungslücke beitragen. Dazu haben wir uns YouTube-Videos aus der WWF-Kampagne zum #EarthOvershootDay näher angeschaut."
 ---
 
-Kooperationen mit Influencern sind inzwischen auch in der Wissenschaftskommunikation angekommen – wurden aber bisher wissenschaftlich wenig in den Blick genommen. Lena Kaul, Philipp Schrögel und ich wollen mit unserer Fallstudie [„Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“](https://www.frontiersin.org/articles/10.3389/fcomm.2020.601177/full) zur Schließung dieser Forschungslücke beitragen. Dazu haben wir uns YouTube-Videos aus der WWF-Kampagne zum #EarthOvershootDay näher angeschaut.
+{{< licence name="cc-by" >}}
 
-<!--more-->
+Kooperationen mit Influencern sind inzwischen auch in der Wissenschaftskommunikation angekommen – wurden aber bisher wissenschaftlich wenig in den Blick genommen. Lena Kaul, Philipp Schrögel und ich wollen mit unserer Fallstudie [„Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“](https://www.frontiersin.org/articles/10.3389/fcomm.2020.601177/full) zur Schließung dieser Forschungslücke beitragen. Dazu haben wir uns YouTube-Videos aus der WWF-Kampagne zum #EarthOvershootDay näher angeschaut.
 
 Konkret haben wir drei von neun Videos, die im Rahmen der Kampagne zwischen 2018 und 2019 veröffentlicht wurden, untersucht. Lena Kaul hat zudem Interviews mit den Produzent:innen und einer der beteiligten YouTuber:innen geführt. Außerdem haben Philipp Schrögel und ich die Kommentare zu den drei Videos einer quantiativen Inhaltsanalyse unterzogen.
 
@@ -71,3 +73,5 @@ Untersucht haben wir die folgenden drei Videos aus der Kampagne:
 ## Volltext (PDF)
 
 Kaul, L., Schrögel, P., & Humm, C. (2020). Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube. *Frontiers in Communication, 5,* 1–17. <https://doi.org/10.3389/fcomm.2020.601177>
+
+{{< vgwort "d8b8568ad88b45198cd15fbb01a33ff8" >}}

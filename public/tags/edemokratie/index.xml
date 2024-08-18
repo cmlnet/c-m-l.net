@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDemokratie on c-m-l.net</title>
+    <link>//localhost:1313/tags/edemokratie/</link>
+    <description>Recent content in EDemokratie on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Sun, 09 Aug 2009 09:10:06 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/edemokratie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lesetipp: Machtinstrument E-Petition – Die Online-Opposition (taz)</title>
+      <link>//localhost:1313/2009/08/09/lesetipp-machtinstrument-e-petition-die-online-opposition-taz/</link>
+      <pubDate>Sun, 09 Aug 2009 09:10:06 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>//localhost:1313/2009/08/09/lesetipp-machtinstrument-e-petition-die-online-opposition-taz/</guid>
+      <description>Onlinepetitionen sind ein relativ neues Thema, ein Thema allerdings das durch die Debatte um die Netzsperren in jüngster Zeit einige Aufmerksamkeit in der Medienöffentlichkeit erhalten hat. &lt;em&gt;die tageszeitung&lt;/em&gt; hat jetzt einen Artikel über die sog. ePetitonen veröffentlicht, der versucht das Phänomen zu erklären und einzuordnen.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,6 @@ date: 2020-04-01T13:42:31+00:00
 slug: "legal-notice"
 
 type: page
-menu: main
 ---
 ## Service provider
 

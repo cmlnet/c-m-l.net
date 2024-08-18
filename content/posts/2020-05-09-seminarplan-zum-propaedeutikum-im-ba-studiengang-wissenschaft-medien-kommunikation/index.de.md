@@ -5,12 +5,7 @@ date: 2020-05-09T16:52:41+00:00
 url: /2020/05/09/seminarplan-zum-propaedeutikum-im-ba-studiengang-wissenschaft-medien-kommunikation/
 categories:
   - Wissenschaft
-tags:
-  - Lehre
-  - Lektüre
-  - Offene Wissenschaft
-  - Seminar
-  - Wissenschaftskommunikation
+tags: ["Lehre", "Lektüre", "Offene Wissenschaft", "Seminar","Wissenschaftskommunikation"]
 toc: true
 licence: cc-by
 
@@ -18,13 +13,17 @@ licence: cc-by
 cover: cover.jpg
 coverCaption: "Photo: [Kimberly Farmer](https://unsplash.com/@kimberlyfarmer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 vgwort: 05e7eeebfb124b1eb378f9604ab83a17
+
+summary: "Seit einigen Semestern lehre ich regelmäßig das Propädeutikum im Bachelor-Studiengang „Wissenschaft – Medien – Kommunikation“ am _Department für Wissenschaftskommunikation_ des Karlsruher Instituts für Technologie (KIT).
+<br />
+Das Propädeutikum dient dort als Einführung in das wissenschaftliche Arbeiten für die Studierenden im ersten Semester. Ob es seinen Zweck erfüllt ist natürlich etwas schwierig zu beurteilen, aber da das Seminar bisher immer von den Teilnehmer*innen sehr gut evaluiert wurde, mag der folgende Seminarplan vielleicht als Inspirationsquelle für ähnliche Lehrveranstaltungen ganz interessant sein."
 ---
+
+{{< licence name="cc-by" >}}
 
 Seit einigen Semestern lehre ich regelmäßig das Propädeutikum im [Bachelor-Studiengang „Wissenschaft – Medien – Kommunikation“][1] am _Department für Wissenschaftskommunikation_ des Karlsruher Instituts für Technologie (KIT).
 
 Das Propädeutikum dient dort als Einführung in das wissenschaftliche Arbeiten für die Studierenden im ersten Semester. Ob es seinen Zweck erfüllt ist natürlich etwas schwierig zu beurteilen, aber da das Seminar bisher immer von den Teilnehmer*innen sehr gut evaluiert wurde, mag der folgende Seminarplan vielleicht als Inspirationsquelle für ähnliche Lehrveranstaltungen ganz interessant sein.
-
-<!--more-->
 
 Das Seminar ist inhaltlich eng verzahnt mit der Vorlesung „Einführung in die Wissenschaftskommunikation“ und behandelt drei größere Themenkomplexe:
 
@@ -38,7 +37,6 @@ Der Arbeitsaufwand ist mit 4 ECTS angesetzt. Das Propädeutikum hat bisher dreim
 
 ## Seminarplan
 
-{{< rawhtml >}}
 <table>
   <tr>
     <th>
@@ -217,13 +215,12 @@ Der Arbeitsaufwand ist mit 4 ECTS angesetzt. Das Propädeutikum hat bisher dreim
     </td>
   </tr>
 </table>
-{{< /rawhtml >}}
 
 ## Hausaufgaben und Leitfragen zur Lektüre
 
 ### Zur 4. Sitzung {#sitzung4}
 
-  * **Test zu Literaturangaben und Belegen** ([Datei zum Import des Tests in ILIAS][2])
+  * **Test zu Literaturangaben und Bel05e7eeebfb124b1eb378f9604ab83a17egen** ([Datei zum Import des Tests in ILIAS][2])
       * Die automatische Bewertung des Tests durch ILIAS funktioniert nicht richtig, das sollte den Studierenden vorher mitgeteilt werden.
   * **Leitfragen zur Pflichtlektüre (Schäfer et al., 2015):**
       * Wie definieren die Autoren Wissenschaftskommunikation?
@@ -237,14 +234,7 @@ Der Arbeitsaufwand ist mit 4 ECTS angesetzt. Das Propädeutikum hat bisher dreim
       * Worin unterscheiden sich Verhalten, soziales Handeln und symbolische Interaktion?
       * Was versteht man unter der Beziehungs- und Sachebene der Kommunikation?
       * Was bedeuten „Reziprozität“ und „Reflexivität“ in Bezug auf Kommunikation?
-      * Wie lautet die sog. Lasswell-Formel? Und was sind deren Vor- bzw. Nachteile?
-      * Wie definiert Gerhard Maletzke „Massenkommunikation“?
-      * Welche Funktionen übt Kommunikation für Individuen und Gesellschaft aus?
-
-### Zur 9. Sitzung {#sitzung9}
-
-  * **Leitfragen zur Pflichtlektüre (Habermas, 2010):**
-      * Welche drei Phasen unterscheidet Habermas in der Entwicklung des Zeitungswesen?
+      * Wie lautet die sog. Lasswell-F05e7eeebfb124b1eb378f9604ab83a17et Habermas in der Entwicklung des Zeitungswesen?
       * Wie reagiert der Staat auf die Vermachtung der Öffentlichkeit?
       * Wie erklärt Habermas die Zunahme von Werbung?
       * Worin unterscheiden sich Werbung und Public Relations (PR)?
@@ -275,3 +265,5 @@ Der Arbeitsaufwand ist mit 4 ECTS angesetzt. Das Propädeutikum hat bisher dreim
 
  [1]: http://wmk.itz.kit.edu/1686.php
  [2]: https://www.c-m-l.net/blog/wp-content/uploads/2020/05/1588662365__3231__tst_1456721.zip
+
+{{< vgwort "05e7eeebfb124b1eb378f9604ab83a17" >}}

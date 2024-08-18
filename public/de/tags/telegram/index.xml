@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram on c-m-l.net</title>
+    <link>http://localhost:1313/de/tags/telegram/</link>
+    <description>Recent content in Telegram on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sun, 07 Dec 2014 14:18:26 +0000</lastBuildDate><atom:link href="http://localhost:1313/de/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unterstützung für Telegram in Pidgin</title>
+      <link>http://localhost:1313/2014/12/07/unterstuetzung-fuer-telegram-pidgin/</link>
+      <pubDate>Sun, 07 Dec 2014 14:18:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/12/07/unterstuetzung-fuer-telegram-pidgin/</guid>
+      <description>&lt;p&gt;Eine aktuell angesagt Alternative zu WhatsApp, Facebook Messenger &amp;amp; Co. ist &lt;a href=&#34;https://telegram.org/&#34;   target=&#34;_blank&#34;&gt;
+    Telegram&lt;/a&gt;. Den Messenger ist nicht nur auf vielen Platformen verfügbar und kostenlos, sondern legt zumindest nach außen hin auch großen Wert auf das Thema Sicherheit und Verschlüsselung.&lt;/p&gt;
+&lt;p&gt;Möchte man Telegram unter Linux benutzen, so gibt es mehrere Möglichkeiten. Entweder man greift zur universellen &lt;a href=&#34;https://web.telegram.org/&#34;   target=&#34;_blank&#34;&gt;
+    Webversion&lt;/a&gt;, zum &lt;a href=&#34;https://desktop.telegram.org/&#34;   target=&#34;_blank&#34;&gt;
+    offiziellen Desktopclient&lt;/a&gt; oder zu alternativen Clients wie &lt;a href=&#34;http://labs.sialan.org/projects/sigram&#34;   target=&#34;_blank&#34;&gt;
+    Sigram&lt;/a&gt;. Noch ein zusätzliches Programm zum chatten? Och no, mögen vielleicht einige denken. Auch ich möchte nicht für jeden Messagingdienst ein eigenes Programm starten müssen – wozu gibt es schließlich Multiprotokoll-Messenger. Erfreulicherweise gibt es für Telegram ein Plugin für Pidgin, dessen Installation und Einrichtung ich im Folgenden kurz beschreiben möchte.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

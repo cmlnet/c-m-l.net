@@ -12,9 +12,9 @@ tags:
   - twitter
 toc: false
 vgwort: 3caa417fa5a841cf9a04ad01c8b08458
+summary: "Während der Vorsitzende der Conservative Party, David Cameron, in den letzten Wochen seine Pläne für den Fall eines Regierungswechsels vorstellte, die sich wie eine 1:1-Kopie der rot-grünen Agenda 2010 in Deutschland lesen, wird auch im Vereinigten Königreich die Rolle von neuen Kommunikationsmedien wie Twitter wichtiger."
 ---
 Während der Vorsitzende der Conservative Party, David Cameron, in den letzten Wochen seine Pläne für den Fall eines Regierungswechsels vorstellte, die sich wie eine 1:1-Kopie der rot-grünen Agenda 2010 in Deutschland lesen, wird auch im Vereinigten Königreich die Rolle von neuen Kommunikationsmedien wie Twitter wichtiger.
-<!--more-->
 
 Das jüngste Beispiel hierfür ist einen Tag alt. Am Montag berichtet der [Guardian][1] auf Seite 1, dass sie aufgrund einer einstweiligen Verfügung nicht über eine Anfrage eines Abgeordneten berichten dürfen – und zwar weder über den Inhalt, noch den Abgeordneten, der die Anfrage stellte und auch nicht über den Urheber der einstweiligen Verfügung. Dies sind die Auswüchse einer Regelung, die eigentlich zum Schutz der Privatsphäre von Personen gegenüber der Yellow Press gedacht war. Inzwischen wird diese Möglichkeit, aber primär von Firmen genutzt die sich unliebsame Presse vom Hals halten wollen. Die einstweiligen Verfügungen sind relativ leicht zu erreichen, schwer aufzuheben für den Betroffenen und oft sehr restriktiv, sodass zum Beispiel noch nicht einmal darüber berichtet werden darf, dass eine Verfügung erwirkt wurde.
 
@@ -30,3 +30,5 @@ Und auch in einem anderen Bereich dieses Falls spielt das Internet eine wichtige
  [2]: http://order-order.com/2009/10/12/guardian-gagged-from-reporting-parliament/ "Order Order: Guardian Gagged from Reporting Parliament"
  [3]: http://www.guardian.co.uk/media/2009/oct/13/trafigura-tweets-freedowm-of-speech "Zum Guardian Artikel"
  [4]: http://www.wikileaks.com/wiki/Minton_report:_Trafigura_Toxic_dumping_along_the_Ivory_Coast_broke_EU_regulations,_14_Sep_2006
+
+{{< vgwort "3caa417fa5a841cf9a04ad01c8b08458" >}}

@@ -15,13 +15,14 @@ tags:
   - ẃerbung
 cover: "images/Keine_Postwurfsendungen.png"
 vgwort: 42f6e4a0de864494bbbbfc6a27a075de
+summary: "Adblock Plus ist der unangefochtene Platzhirsch unter den Werbeblockern. Die für alle wichtigen Browser erhältliche Erweiterung ist allerdings nicht unumstritten. Größter Stein des Anstoßes sind die sogenannten Acceptable Ads. Auf diese Liste können sich Unternehmen gegen Geld setzen lassen, wenn ihre Werbebanner bestimmte Standards einhält. Diese Banner werden von Adblock Plus per Voreinstellung nicht blockiert. Kritiker sprechen gar von einem &#8220;einmalige[n] Werbenetzwerk mit Erpressungs-Potential&#8221;."
 ---
 
+{{< alert >}}
 _Dieser Beitrag wurde zuletzt am 21.02.2020 aktualisiert. Dabei wurden Informationen zu uBlock Origin hinzugefügt._
+{{< /alert >}}
 
 [Adblock Plus][1] ist der unangefochtene Platzhirsch unter den Werbeblockern. Die für alle wichtigen Browser erhältliche Erweiterung ist allerdings nicht unumstritten. Größter Stein des Anstoßes sind die sogenannten Acceptable Ads. Auf diese Liste können sich Unternehmen gegen Geld setzen lassen, wenn ihre Werbebanner bestimmte Standards einhält. Diese Banner werden von Adblock Plus per Voreinstellung nicht blockiert. Kritiker sprechen gar von einem [&#8220;einmalige[n] Werbenetzwerk mit Erpressungs-Potential&#8221;][2].
-
-<!--more-->
 
 ## AdBlock Edge
 
@@ -56,3 +57,5 @@ Leider wurde uBlock 2018 von AdBlock übernommen und [zeigt nun auch sogenannte 
  [13]: https://www.microsoft.com/store/p/app/9nblggh444l4
  [14]: https://microsoftedge.microsoft.com/insider-addons/detail/odfafepnkmbhccpbejgmiehpchacaeak
  [15]: https://addons.mozilla.org/addon/ublock-origin/
+
+{{< vgwort "42f6e4a0de864494bbbbfc6a27a075de" >}}

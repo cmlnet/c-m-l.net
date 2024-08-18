@@ -3,9 +3,12 @@ title: Science for all
 author: Christian Humm
 categories:
   - Wissenschaft
-cover: img/wfa-logo.png
 summary: Practice and research project about underserved audiences of science communication.
 toc: true
+heroStyle: big
+showDate: false
+showWordCount: false
+showReadingTime: false
 ---
 
 Since the end of 2017 I have been devoting myself to unreached groups in science communication as part of the project **Science for all**. Together with colleagues from the [Department of Science Communication](https://www.wmk-karlsruhe.de/) at KIT and from [Science in Dialogue](https://www.wissenschaft-im-dialog.de/), we are investigating who science communication does not reach, why this is the case and what can be done about.
@@ -49,4 +52,4 @@ Since the end of 2017 I have been devoting myself to unreached groups in science
 ## Links
 
 * [Project page at the Department for Science Communication](https://wmk.itz.kit.edu/2943.php)
-* [Project page at Wissenschaft im Dialog (WiD)](https://www.wissenschaft-im-dialog.de/projekte/wissenschaft-fuer-alle/)
+* [Project page at Wissenschaft im Dialog (WiD)](https://wissenschaft-im-dialog.de/projekte/ehemalige-projekte/#wissenschaft-fuer-alle)

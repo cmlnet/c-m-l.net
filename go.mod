@@ -1,8 +1,9 @@
-module github.com/cmlnet/c-m-l.net
+module github.com/cmlnet/c-m-l.net-relaunch
 
-go 1.15
+replace github.com/cmlnet/hugo-creativecommons => /home/cmh/Dokumente/Development/hugo/hugo-creativecommons
+
+go 1.22.2
 
 require (
-	github.com/cmlnet/blogwind v0.2.1 // indirect
-	github.com/cmlnet/hugo-highcharts v0.2.0 // indirect
+	github.com/nunocoracao/blowfish/v2 v2.75.0 // indirect
 )

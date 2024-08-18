@@ -15,15 +15,16 @@ tags:
   - ubuntu
 cover: cover.png
 vgwort: a650d0fa094e4f3b8ac012f377eb8999
+summary: "Ich benutze den Notizdienst Evernote eigentlich sehr gerne, lassen sich mit ihm doch Dokumente, Geistesblitze, (handschriftliche) Mitschriften etc. sehr einfach verwalten und organisieren. Zudem gibt es gute Apps für iOS und Android, sowohl Desktopclients für Windows und MacOS vom Hersteller. Nur Linux bleibt mal wieder leider außen vor."
 ---
 
-{{< notice note >}}
+{{< alert >}}
 Dieser Beitrag wurde zuletzt am 24. Februar 2020 aktualisiert: Seit Oktober 2017 ist keine neue Version von NixNote mehr erschienen. Es ist deshalb sinnvoller die Alternative [Tusk](https://klaussinani.tech/tusk/) einzusetzen.
-{{< /notice >}}
+{{< /alert >}}
 
 Ich benutze den Notizdienst Evernote eigentlich sehr gerne, lassen sich mit ihm doch Dokumente, Geistesblitze, (handschriftliche) Mitschriften etc. sehr einfach verwalten und organisieren. Zudem gibt es gute Apps für iOS und Android, sowohl Desktopclients für Windows und MacOS vom Hersteller. Nur Linux bleibt mal wieder leider außen vor.
 
-Natürlich läuft der Webclient auch im Browser unter Linux, aber manchmal hätte man halt gerne doch ein natives Desktopprogramm. Glücklicherweise gibt es für diesen Fall zwei inoffizielle Alternativen[^1]: <!--more-->
+Natürlich läuft der Webclient auch im Browser unter Linux, aber manchmal hätte man halt gerne doch ein natives Desktopprogramm. Glücklicherweise gibt es für diesen Fall zwei inoffizielle Alternativen[^1]:
 
 [^1]: Daneben gibt es natürlich als dritte Option noch die Möglichkeit den Windowsclient [mittels Wine][2] auch unter Linux zu betreiben.
 
@@ -77,3 +78,5 @@ Den Download von fertigen Paketen für die Installation von NixNote2 findet man 
  [5]: http://sourceforge.net/projects/nevernote/files/NixNote2%20-%20Beta%201/
  [6]: https://aur.archlinux.org/packages/nixnote2-git/
  [7]: https://github.com/baumgarr/nixnote2
+
+{{< vgwort "a650d0fa094e4f3b8ac012f377eb8999" >}}

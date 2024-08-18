@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NixNote on c-m-l.net</title>
+    <link>//localhost:1313/tags/nixnote/</link>
+    <description>Recent content in NixNote on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Tue, 15 Apr 2014 19:58:44 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/nixnote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evernote für Linux: NixNote2 Beta 1 erschienen</title>
+      <link>//localhost:1313/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/</link>
+      <pubDate>Tue, 15 Apr 2014 19:58:44 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>//localhost:1313/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/</guid>
+      <description>Ich benutze den Notizdienst Evernote eigentlich sehr gerne, lassen sich mit ihm doch Dokumente, Geistesblitze, (handschriftliche) Mitschriften etc. sehr einfach verwalten und organisieren. Zudem gibt es gute Apps für iOS und Android, sowohl Desktopclients für Windows und MacOS vom Hersteller. Nur Linux bleibt mal wieder leider außen vor.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

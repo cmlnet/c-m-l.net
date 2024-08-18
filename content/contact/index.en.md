@@ -6,7 +6,6 @@ url: "contact"
 
 type: page
 toc: false
-menu: main
 ---
 
 ## e-Mail

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac OS on c-m-l.net</title>
+    <link>http://localhost:1313/de/categories/mac-os/</link>
+    <description>Recent content in Mac OS on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sat, 21 Jun 2014 12:56:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/de/categories/mac-os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HowTo: EncFS unter Mac OS X 10.9 (Mavericks)</title>
+      <link>http://localhost:1313/2014/06/21/encfs-unter-mac-os-x-10-9-mavericks/</link>
+      <pubDate>Sat, 21 Jun 2014 12:56:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/06/21/encfs-unter-mac-os-x-10-9-mavericks/</guid>
+      <description>&lt;p&gt;Möchte man seine Daten sicher in bei &lt;a href=&#34;https://db.tt/u7LmdZP&#34;   target=&#34;_blank&#34;&gt;
+    Dropbox&lt;/a&gt;, Google Drive, &lt;a href=&#34;https://onedrive.live.com/?invref=07766b6fd437c2f7&amp;amp;invsrc=90&#34;   target=&#34;_blank&#34;&gt;
+    OneDrive&lt;/a&gt; oder sonst irgendeinem Clouddienst speichern, hat man prinzipiell mehrere Möglichkeiten. Man kann den Beteuerungen der Anbieter, dass sie ihre Dienste und Daten sicher speichern glauben schenken (&lt;a href=&#34;https://copy.com?r=8aUfqv&#34;   target=&#34;_blank&#34;&gt;
+    Copy&lt;/a&gt; etwa wirbt damit, dass die Daten mit 256 AES verschlüsselt würden). Man kann selbst einen Cloudspeicher hosten, etwa mittels &lt;a href=&#34;http://www.owncloud.org/&#34;   target=&#34;_blank&#34;&gt;
+    ownCloud&lt;/a&gt;. Allerdings sollte dabei beachtet werden, dass das ganze dann natürlich nicht kostenlos ist und auch nur sicher, wenn man entsprechende Ahnung von Serveradministration und -absicherung hat. Man kann aber einen der großen Dienste nutzen und die Daten dabei nochmal extra verschlüsseln.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

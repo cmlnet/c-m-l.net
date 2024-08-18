@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rugby on c-m-l.net</title>
+    <link>//localhost:1313/en/tags/rugby/</link>
+    <description>Recent content in Rugby on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <atom:link href="//localhost:1313/en/tags/rugby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rugby-trier.de</title>
+      <link>//localhost:1313/en/projects/rugby-trier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>//localhost:1313/en/projects/rugby-trier/</guid>
+      <description>Administration and maintenance of the homepage of the rugby department of FSV Trier-Tarforst.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/rugby-trier/cover_rugby-trier-logo.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skype on c-m-l.net</title>
+    <link>http://localhost:1313/de/tags/skype/</link>
+    <description>Recent content in Skype on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Wed, 13 Jul 2016 17:57:21 +0000</lastBuildDate><atom:link href="http://localhost:1313/de/tags/skype/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neuen Skype-Client auf Arch Linux installieren</title>
+      <link>http://localhost:1313/2016/07/13/neuen-skype-client-auf-arch-linux-installieren/</link>
+      <pubDate>Wed, 13 Jul 2016 17:57:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2016/07/13/neuen-skype-client-auf-arch-linux-installieren/</guid>
+      <description>Heute hat Microsoft endlich einen neuen Skype-Client für Linux veröffentlicht. Die bisherige Version wurde sehr stiefmütterlich gepflegt und hinkte den Versionen für Mac und Windows sichtbar hinterher. Nun also ein neuer Client, basierend auf WebRTC und bisland noch ohne Videotelefonie ( weitere Details bei heise online). Trotzdem lief das Programm in einem ersten Test bei mir stabil und vor allem optisch deutlich besser aus.
+Dieser Beitrag wurde zuletzt am 13. Februar 2020 aktualisiert. Dabei wurden der Paketname aktualisiert, so dass die Anleitung wieder funktionieren sollte. Erfreulicherweise gibt es im Arch User Repository (AUR) auch schon ein Paket mit dem sich der Client schnell und unkompliziert auf Arch Linux installieren lässt. Dazu einfach folgende Befehle ausführen:
+pacaur -S skypeforlinux-stable-bin Oder falls pacaur nicht installiert ist:</description>
+      
+    </item>
+    
+  </channel>
+</rss>

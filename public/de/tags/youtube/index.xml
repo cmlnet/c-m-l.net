@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YouTube on c-m-l.net</title>
+    <link>http://localhost:1313/de/tags/youtube/</link>
+    <description>Recent content in YouTube on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/de/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wissenschaftskommunikation auf YouTube: Fallstudie zum Earth Overshoot Day</title>
+      <link>http://localhost:1313/de/posts/2020-12-14-frontiers-earthovershootday/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/posts/2020-12-14-frontiers-earthovershootday/</guid>
+      <description>Kooperationen mit Influencern sind inzwischen auch in der Wissenschaftskommunikation angekommen – wurden aber bisher wissenschaftlich wenig in den Blick genommen. Lena Kaul, Philipp Schrögel und ich wollen mit unserer Fallstudie „Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“ zur Schließung dieser Forschungslücke beitragen. Dazu haben wir uns YouTube-Videos aus der WWF-Kampagne zum #EarthOvershootDay näher angeschaut.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2020-12-14-frontiers-earthovershootday/cover.png" />
+    </item>
+    
+    <item>
+      <title>R: YouTube Kommentare mit vosonSML auslesen</title>
+      <link>http://localhost:1313/2020/02/13/r-youtube-kommentare-mit-vosonsml-auslesen/</link>
+      <pubDate>Thu, 13 Feb 2020 17:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2020/02/13/r-youtube-kommentare-mit-vosonsml-auslesen/</guid>
+      <description>YouTube ist eine enorm populäre Seite und entsprechend interessant auch für die Forschung. Egal ob es dabei um Wissenschaftskommunikation, die Erforschung von Verschwörungstheorien oder Jugendkultur geht, nicht nur die Videos selbst sind relevant, sondern auch die Kommentarspalte unter selbigen. &lt;br /&gt; In den Kommentaren reagieren die Nutzer:innen auf die Videos, interagieren und diskutieren mit deren Macher:innen und anderen User:innen. Doch um YouTube Kommentare zu analysieren, muss man sie erst einmal sichern. &lt;br /&gt; Hierfür eignet sich [R] und das Paket [vosonSML] bestens. Wie man damit YouTube Kommentare sichert, zeige ich euch im Folgenden.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

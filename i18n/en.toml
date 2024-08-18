@@ -1,0 +1,20 @@
+[licenced_under]
+other = "This work is licensed under"
+
+[cc-zero]
+other = "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+
+[cc-by]
+other = "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+
+[cc-by-sa]
+other = "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+
+[cc-by-nd]
+other = "Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)"
+
+[cc-by-nc]
+other = "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+
+[cc-by-nc-nd]
+other = "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"

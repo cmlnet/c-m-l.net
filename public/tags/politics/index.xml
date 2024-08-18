@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Politics on c-m-l.net</title>
+    <link>http://localhost:1313/tags/politics/</link>
+    <description>Recent content in Politics on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Mon, 06 Apr 2020 04:58:28 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Science communication, advising, and advocacy in public debates</title>
+      <link>http://localhost:1313/en/2020/04/06/science-communication-advising-and-advocacy-in-public-debates/</link>
+      <pubDate>Mon, 06 Apr 2020 04:58:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/2020/04/06/science-communication-advising-and-advocacy-in-public-debates/</guid>
+      <description>“Science communication, advising, and advocacy in public debates” is the title of the article by Philipp Schrögel and myself in the recently published handbook “Science Communication” by Annette Leßmöllmann, Marcelo Dascal and Thomas Gloning at De Gruyter. (Unfortunately neither the book nor the article are OpenAccess.)
+The English text looks at the extent to which traditional policy advice by science has opened up and thus changed in recent years and what this has to do with science communication.
+Abstract # Traditional scientific policy advice used to happen behind closed doors in advisory bodies as a dialogue between scientists and policy-makers. The respective models for the interaction are basic linear arrangements assigning clear roles and primacy to one of the sides.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/en/2020/04/06/science-communication-advising-and-advocacy-in-public-debates/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

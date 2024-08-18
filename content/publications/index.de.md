@@ -7,8 +7,6 @@ aliases: ["publikationen-vortraege"]
 
 type: page
 toc: true
-menu: main
-weight: 3
 ---
 
 Liste meiner (wissenschaftlichen) Publikationen und Vorträge bzw. Workshops.

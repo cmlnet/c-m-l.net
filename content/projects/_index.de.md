@@ -1,5 +1,7 @@
 ---
 title: "Projekte"
-menu: main
-weight: 3
+groupByYear: false
+showHero: true
+showDate: false
+cardView: true
 ---

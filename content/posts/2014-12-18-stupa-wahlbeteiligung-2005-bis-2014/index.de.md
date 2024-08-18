@@ -11,54 +11,62 @@ tags:
   - uni trier
 toc: false
 cover: cover.jpg
+summary: "Wie jedes Jahr, gibt es auch diesmal zu den Wahlen zum Studierendenparlament der Universität Trier 2014 eine kleine Übersicht zur Entwicklung der Wahlbeteiligung."
 ---
 Wie jedes Jahr, gibt es auch diesmal zu den [Wahlen zum Studierendenparlament der Universität Trier 2014][1] eine kleine Übersicht zur Entwicklung der Wahlbeteiligung:
 
-<!--more-->
-
-{{< highcharts-custom chart="stupa2014" >}}
-    chart: {
-        type: 'line'
+{{< chart >}}
+type: 'bar',
+data: {
+    datasets: [{
+        label: 'Wahlbeteiligung (%)',
+        type: 'bar',
+        data: [14.94, 11.84, 11.8, 14.5, 9.65, 10.13, 10.94, 12.8, 10.34],
+        yAxisID: 'A',
     },
-    title: {
-        text: 'Wahlbeteiligung 2005 bis 2014'
-    },
-    subtitle: {
-        text: 'Wahlen zum Studierendenparlament an der Universität Trier'
-    },
-    xAxis: {
-        gridLineWidth: 1,
-        categories: ['2005', '2006', '2008', '2009', '2010', '2011', '2012', '2013', '2014']
-    },
-    yAxis: [{
-        title: {
-            text: 'Wahlbeteiligung (%)'
-        }
-        // min: 0
-    }, { //--- Secondary yAxis
-    title: {
-        text: 'Abgegebene Stimmen',
-    },
-    opposite: true,
-    min: 0
+    {
+        label: 'Abgegebene Stimmen (Tsd.)',
+        type: 'line',
+        data: [1969, 1591, 1655, 2034, 1397, 1506, 1633, 1907, 1494],
+        yAxisID: 'B',
     }],
-    plotOptions: {
-      line: {
-          dataLabels: {
-              enabled: true
-          },
-          enableMouseTracking: false
-      }
+    labels: ['2005', '2006', '2008', '2009', '2010', '2011', '2012', '2013', '2014'],
+},
+options: {
+    locale: 'de-DE',
+    plugins: {
+        title: {
+            display: true,
+            text: 'Wahlbeteiligung 2005 bis 2014'
+        },
+        subtitle: {
+            display: true,
+            text: 'Wahlen zum Studierendenparlament an der Universität Trier'
+        },
     },
-    series: [{
-        yAxis: 0,
-        name: 'Wahlbeteiligung (%)',
-        data: [14.94, 11.84, 11.8, 14.5, 9.65, 10.13, 10.94, 12.8, 10.34]
-    }, {
-        yAxis: 1,
-        name: 'Abgegebene Stimmen (Tsd.)',
-        data: [1969, 1591, 1655, 2034, 1397, 1506, 1633, 1907, 1494]
-    }]
-{{< /highcharts-custom >}}
+    scales: {
+        A: {
+            type: 'linear',
+            position: 'left',
+            title: {
+                display: true,
+                text: 'Wahlbeteiligung (%)'
+            },
+        },
+        B: {
+            type: 'linear',
+            position: 'right',
+            title: {
+                display: true,
+                text: 'Abgegebene Stimmen (Tsd.)'
+            },
+            // grid line settings
+            grid: {
+                drawOnChartArea: false, // only want the grid lines for one axis to show up
+            },
+        },
+    },
+}
+{{< /chart >}}
 
  [1]: https://www.uni-trier.de/fileadmin/studium/StuPa/Wahlausschuss_2014/Dokumente/Feststellungsbeschluss_2014.pdf

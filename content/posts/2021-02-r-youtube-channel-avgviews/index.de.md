@@ -15,8 +15,9 @@ draft: yes
 
 # Cover picture
 cover: cover.png
-vgwort: 
 ---
+
+{{< licence name="cc-by" >}}
 
 Um den Erfolg eines Videos bei YouTube einzuschätzen, ist es interessant zu schauen, ob es mehr oder weniger Views generiert als die anderen Videos des Kanals. Die dafür notwendigen durchschnitten Views pro Video lassen sich mit *R* und dem Paket *tuber* einfach ermitteln.
 

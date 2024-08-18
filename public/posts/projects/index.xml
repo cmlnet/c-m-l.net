@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on c-m-l.net</title>
+    <link>http://localhost:1313/posts/projects/</link>
+    <description>Recent content in Projects on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="http://localhost:1313/posts/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projekte</title>
+      <link>http://localhost:1313/posts/projects/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/_index.de/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guideline for the Preparation of a Term Paper</title>
+      <link>http://localhost:1313/posts/projects/leitfaden-hausarbeiten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/leitfaden-hausarbeiten/</guid>
+      <description>&lt;p&gt;The guideline is intended to help students of the Bachelor&amp;rsquo;s and Master&amp;rsquo;s programs &lt;a href=&#34;https://www.wmk-karlsruhe.de&#34;   target=&#34;_blank&#34;&gt;
+    &amp;ldquo;Science - Media - Communication&amp;rdquo;&lt;/a&gt; of the Karlsruhe Institute of Technology (KIT) to write a term paper.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>rugby-trier.de</title>
+      <link>http://localhost:1313/posts/projects/rugby-trier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/rugby-trier/</guid>
+      <description>&lt;p&gt;Administration and maintenance of the homepage of the rugby department of &lt;a href=&#34;https://fsv-trier-tarforst.de/&#34;   target=&#34;_blank&#34;&gt;
+    FSV Trier-Tarforst&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Science for all</title>
+      <link>http://localhost:1313/posts/projects/science-for-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/science-for-all/</guid>
+      <description>Practice and research project about underserved audiences of science communication.</description>
+      
+    </item>
+    
+    <item>
+      <title>wissenschaftskommunikation.de</title>
+      <link>http://localhost:1313/posts/projects/wissenschaftskommunikation-de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/wissenschaftskommunikation-de/</guid>
+      <description>Responsible editor for the research section of the portal from 2016 to 2017.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

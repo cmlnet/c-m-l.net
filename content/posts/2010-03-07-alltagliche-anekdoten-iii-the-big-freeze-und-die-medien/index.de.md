@@ -15,6 +15,7 @@ tags:
   - panik
   - winter
 toc: false
+summary: "Schnee – das unbekannte und gefährliche Wesen. Diesen Eindruck konnte zumindest gewinnen, wer diesen Winter im Vereinigten Königreich verbrachte, insbesondere zwischen Weihnachten und Neujahr. In dieser Zeit schneite es dort nämlich länger als einen Tag – ein offenbar sehr seltenes und durch und durch furchteinflößendes Ereignis. Dies jedenfalls suggerierten die Medienberichte über _The Big Freeze_."
 ---
 Schnee – das unbekannte und gefährliche Wesen. Diesen Eindruck konnte zumindest gewinnen, wer diesen Winter im Vereinigten Königreich verbrachte, insbesondere zwischen Weihnachten und Neujahr. In dieser Zeit schneite es dort nämlich länger als einen Tag – ein offenbar sehr seltenes und durch und durch furchteinflößendes Ereignis. Dies jedenfalls suggerierten die Medienberichte über _The Big Freeze_.
 

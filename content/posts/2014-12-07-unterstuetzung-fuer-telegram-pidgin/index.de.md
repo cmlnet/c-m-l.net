@@ -13,10 +13,12 @@ tags:
   - ubuntu
 cover: cover.png
 vgwort: 13049f7fcaac404b98dc6a32aca58140
+summary: "Möchte man Telegram unter Linux benutzen, so gibt es mehrere Möglichkeiten. Entweder man greift zur universellen Webversion, zum offiziellen Desktopclient oder zu alternativen Clients wie Sigram. Noch ein zusätzliches Programm zum chatten? Och no, mögen vielleicht einige denken. Auch ich möchte nicht für jeden Messagingdienst ein eigenes Programm starten müssen &#8211; wozu gibt es schließlich Multiprotokoll-Messenger. Erfreulicherweise gibt es für Telegram ein Plugin für Pidgin, dessen Installation und Einrichtung ich im Folgenden kurz beschreiben möchte."
 ---
+
 Eine aktuell angesagt Alternative zu WhatsApp, Facebook Messenger & Co. ist [Telegram][1]. Den Messenger ist nicht nur auf vielen Platformen verfügbar und kostenlos, sondern legt zumindest nach außen hin auch großen Wert auf das Thema Sicherheit und Verschlüsselung.
 
-Möchte man Telegram unter Linux benutzen, so gibt es mehrere Möglichkeiten. Entweder man greift zur universellen [Webversion][2], zum [offiziellen Desktopclient][3] oder zu alternativen Clients wie [Sigram][4]. Noch ein zusätzliches Programm zum chatten? Och no, mögen vielleicht einige denken. Auch ich möchte nicht für jeden Messagingdienst ein eigenes Programm starten müssen &#8211; wozu gibt es schließlich Multiprotokoll-Messenger. Erfreulicherweise gibt es für Telegram ein Plugin für Pidgin, dessen Installation und Einrichtung ich im Folgenden kurz beschreiben möchte.<!--more-->
+Möchte man Telegram unter Linux benutzen, so gibt es mehrere Möglichkeiten. Entweder man greift zur universellen [Webversion][2], zum [offiziellen Desktopclient][3] oder zu alternativen Clients wie [Sigram][4]. Noch ein zusätzliches Programm zum chatten? Och no, mögen vielleicht einige denken. Auch ich möchte nicht für jeden Messagingdienst ein eigenes Programm starten müssen &#8211; wozu gibt es schließlich Multiprotokoll-Messenger. Erfreulicherweise gibt es für Telegram ein Plugin für Pidgin, dessen Installation und Einrichtung ich im Folgenden kurz beschreiben möchte.
 
 ## Telegram Purple
 
@@ -60,3 +62,5 @@ In der Buddy-Liste von Pidgin werden die eigenen Telegram-Kontakte nach erfolgre
  [6]: https://aur.archlinux.org/packages/telegram-purple-git/
  [7]: http://www.webupd8.org/2014/11/add-telegram-support-to-pidgin-with.html
  [8]: https://github.com/majn/telegram-purple/blob/master/README.md
+
+{{< vgwort "13049f7fcaac404b98dc6a32aca58140" >}}

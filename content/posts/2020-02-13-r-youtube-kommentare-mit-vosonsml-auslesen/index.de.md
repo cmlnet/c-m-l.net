@@ -13,14 +13,20 @@ tags:
 cover: cover.png
 licence: cc-by
 vgwort: 89d72ce261e94496b9064c2ac8df2ed3
+summary: "YouTube ist eine enorm populäre Seite und entsprechend interessant auch für die Forschung. Egal ob es dabei um Wissenschaftskommunikation, die Erforschung von Verschwörungstheorien oder Jugendkultur geht, nicht nur die Videos selbst sind relevant, sondern auch die Kommentarspalte unter selbigen.
+<br />
+In den Kommentaren reagieren die Nutzer:innen auf die Videos, interagieren und diskutieren mit deren Macher:innen und anderen User:innen. Doch um YouTube Kommentare zu analysieren, muss man sie erst einmal sichern.
+<br />
+Hierfür eignet sich [R] und das Paket [vosonSML] bestens. Wie man damit YouTube Kommentare sichert, zeige ich euch im Folgenden."
 ---
+
+{{< licence name="cc-by" >}}
+
 YouTube ist eine enorm populäre Seite und entsprechend interessant auch für die Forschung. Egal ob es dabei um Wissenschaftskommunikation, die Erforschung von Verschwörungstheorien oder Jugendkultur geht, nicht nur die Videos selbst sind relevant, sondern auch die Kommentarspalte unter selbigen.
 
-In den Kommentaren reagieren die Nutzer\*innen auf die Videos, interagieren und diskutieren mit deren Macher\*innen und anderen User*innen. Doch um YouTube Kommentare zu analysieren, muss man sie erst einmal sichern.
+In den Kommentaren reagieren die Nutzer:innen auf die Videos, interagieren und diskutieren mit deren Macher:innen und anderen User:innen. Doch um YouTube Kommentare zu analysieren, muss man sie erst einmal sichern.
 
 Hierfür eignet sich [R][1] und das Paket [vosonSML][2] bestens. Wie man damit YouTube Kommentare sichert, zeige ich euch im Folgenden.
-
-<!--more-->
 
 ## YouTube API Key besorgen
 
@@ -73,3 +79,5 @@ write.csv(youtubeData, "comments.csv")
  [1]: https://www.r-project.org/
  [2]: http://vosonlab.net/SocialMediaLab
  [3]: https://console.developers.google.com/apis/library
+
+{{< vgwort "89d72ce261e94496b9064c2ac8df2ed3" >}}

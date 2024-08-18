@@ -11,6 +11,7 @@ toc: false
 cover: cover.png
 draft: true
 vgwort: 1c859cc44cd1409ab45a169d46f99c56
+summary: "In meinem Bekannten- und Kollegenkreis wurde ich schon wiederholt gefragt, welcher Messenger denn nun &#8220;sicher&#8221; sei. Im Zuge der NSA-Affäre scheint Bewusstsein und Interesse für elektronische Kommunikationslösungen, die nicht von jedem halbwegs talentierten Scriptkiddie abgehört werden kann, gestiegen zu sein. Einen bestimmten Messenger zu empfehlen ist allerdings gar nicht so einfach. Zum einen, weil es inzwischen eine unüberschaubare Zahl an Programmen und Diensten gibt, deren Beurteilung selbst einem Experten, schon aus Zeitgründen, schwer fallen dürfte. Zum anderen spielen aber natürlich auch Faktoren eine Rolle, die erst einmal nichts mit der Sicherheit zu tun haben &#8211; etwa Kosten, Verbreitung oder Usability."
 ---
 In meinem Bekannten- und Kollegenkreis wurde ich schon wiederholt gefragt, welcher Messenger denn nun &#8220;sicher&#8221; sei. Im Zuge der NSA-Affäre scheint Bewusstsein und Interesse für elektronische Kommunikationslösungen, die nicht von jedem halbwegs talentierten Scriptkiddie abgehört werden kann, gestiegen zu sein. Einen bestimmten Messenger zu empfehlen ist allerdings gar nicht so einfach. Zum einen, weil es inzwischen eine unüberschaubare Zahl an Programmen und Diensten gibt, deren Beurteilung selbst einem Experten, schon aus Zeitgründen, schwer fallen dürfte. Zum anderen spielen aber natürlich auch Faktoren eine Rolle, die erst einmal nichts mit der Sicherheit zu tun haben &#8211; etwa Kosten, Verbreitung oder Usability.
 
@@ -37,3 +38,5 @@ Potenziell etwas weniger sicher, dafür weiter verbreitet und benutzerfreundlich
  [7]: https://securityinabox.org/pidgin_main
  [8]: https://telegram.org/
  [9]: https://threema.ch/de/
+
+{{< vgwort "1c859cc44cd1409ab45a169d46f99c56" >}}

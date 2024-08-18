@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server on c-m-l.net</title>
+    <link>http://localhost:1313/de/categories/server/</link>
+    <description>Recent content in Server on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sat, 08 Aug 2009 20:39:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/de/categories/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HowTo: WebDAV und Plesk 9</title>
+      <link>http://localhost:1313/2009/08/08/howto-webdav-und-plesk-9/</link>
+      <pubDate>Sat, 08 Aug 2009 20:39:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2009/08/08/howto-webdav-und-plesk-9/</guid>
+      <description>&lt;p&gt;Zwar unterstützt &lt;a href=&#34;http://www.parallels.com/de/products/plesk/&#34;  title=&#34;Offizielle Produktseite zu Parallels Plesk Panal&#34;  target=&#34;_blank&#34;&gt;
+    Plesk&lt;/a&gt; 9 offiziell kein &lt;a href=&#34;http://de.wikipedia.org/wiki/WebDAV&#34;  title=&#34;Wikipedia Artikel zu WebDAV&#34;  target=&#34;_blank&#34;&gt;
+    WebDAV&lt;/a&gt; und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und &lt;a href=&#34;http://de.wikipedia.org/wiki/Apache_HTTP_Server&#34;  title=&#34;Wikipedia Artikel zu dem HTTP-Server Apache&#34;  target=&#34;_blank&#34;&gt;
+    Apache2&lt;/a&gt; schnell von der Hand.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

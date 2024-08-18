@@ -10,11 +10,11 @@ tags:
   - Wissenschaft für alle
   - Wissenschaftskommunikation
 cover: cover.png
+
+summary: "Bei wissenschaftskommunikation.de haben Philipp Schrögel, Susanne Rauscher und ich praktische Erkenntnisse aus unserer bisherigen Arbeit im Projekt &#8220;Wissenschaft für alle&#8221; zusammengefasst."
 ---
 
-Drüben bei [wissenschaftskommunikation.    de][1] haben Philipp Schrögel, Susanne Rauscher und ich praktische Erkenntnisse aus unserer bisherigen Arbeit im Projekt [&#8220;Wissenschaft für alle&#8221;][2] zusammengefasst.
-
-<!--more-->
+Bei [wissenschaftskommunikation.de][1] haben Philipp Schrögel, Susanne Rauscher und ich praktische Erkenntnisse aus unserer bisherigen Arbeit im Projekt [&#8220;Wissenschaft für alle&#8221;][2] zusammengefasst.
 
 Wir haben Hürden und Herausforderungen für Kommunikatorinnen und Kommunikatoren identifiziert und eine Diversity-Scorecard als Checkliste für Maßnahmen erstellt.
 

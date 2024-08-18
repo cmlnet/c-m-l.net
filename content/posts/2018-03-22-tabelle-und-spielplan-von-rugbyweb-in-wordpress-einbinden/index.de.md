@@ -2,6 +2,7 @@
 title: Tabelle und Spielplan von Rugbyweb in WordPress einbinden
 author: Christian Humm
 date: 2018-03-22T10:39:48+00:00
+lastmod: 2024-05-05
 url: /2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/
 categories:
   - IT
@@ -13,12 +14,19 @@ tags:
 cover: cover.png
 vgwort: c57c01349d3a49dc8fb3b83aebe02bfd
 licence: cc-by
+
+summary: "Auf rugbyweb.de werden alle Ergebnisse und Spielpläne der verschiednen deutschen Rugby Union Ligen veröffentlicht. Leider hat die Seite den Charme der 90er Jahre und eine API zur Abfrage von Tabellensituationen, der Zusammensetzung von Ligen, Spielplänen oder Spielergebnissen gibt es nicht."
 ---
-{{< figure src="/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/images/logo_rugbyweb.gif" alt="Logo von rugbyweb.de" class="float-left" >}}
+
+{{< alert >}}
+Dieser Artikel ist veraltet. rugbyweb.de ist inzwischen eingestellt und es werden keine neuen Ergebnisse mehr eingepflegt.
+{{< /alert >}}
+
+{{< licence name="cc-by" >}}
+
+{{< figure src="/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/images/logo_rugbyweb.gif" alt="Logo von rugbyweb.de" class="float-right" nozoom=true >}}
 
 Auf [rugbyweb.de][2] werden alle Ergebnisse und Spielpläne der verschiednen deutschen Rugby Union Ligen veröffentlicht. Leider hat die Seite den Charme der 90er Jahre und eine API zur Abfrage von Tabellensituationen, der Zusammensetzung von Ligen, Spielplänen oder Spielergebnissen gibt es nicht.
-
-<!--more-->
 
 Will man diese Informationen zum Beispiel auf der Homepage des eigenen Clubs einbinden, dann gibt es im Grunde nur zwei Möglichkeiten:
 
@@ -56,3 +64,5 @@ Als Beispiel dient hierbei die [Seite der Rugbyabteilung des FSV Trier-Tarforst]
  [7]: http://www.rugbyweb.de/showdb.inc.php
  [8]: http://www.rugby-trier.de/de/herren/tabelle/
  [9]: https://www.c-m-l.net/blog/wp-content/uploads/2018/03/screenshot.png
+
+{{< vgwort "c57c01349d3a49dc8fb3b83aebe02bfd" >}}

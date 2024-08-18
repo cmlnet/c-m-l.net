@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IFrame on c-m-l.net</title>
+    <link>//localhost:1313/tags/iframe/</link>
+    <description>Recent content in IFrame on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Thu, 22 Mar 2018 10:39:48 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/iframe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tabelle und Spielplan von Rugbyweb in WordPress einbinden</title>
+      <link>//localhost:1313/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/</link>
+      <pubDate>Thu, 22 Mar 2018 10:39:48 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>//localhost:1313/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/</guid>
+      <description>Auf rugbyweb.de werden alle Ergebnisse und Spielpläne der verschiednen deutschen Rugby Union Ligen veröffentlicht. Leider hat die Seite den Charme der 90er Jahre und eine API zur Abfrage von Tabellensituationen, der Zusammensetzung von Ligen, Spielplänen oder Spielergebnissen gibt es nicht.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

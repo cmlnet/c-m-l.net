@@ -5,11 +5,6 @@ date: 2020-04-01T13:46:00+00:00
 url: "about"
 aliases: ["about-me"]
 
-type: page
-toc: false
-menu: main
-weight: 2
-
 layout: about
 ---
 
@@ -33,31 +28,27 @@ In my spare time I play rugby. Currently, rather sporadically at [Karlsruher SV]
 
 ### Business
 
-{{< fa xing fw >}} [XING](https://www.xing.com/profile/Christian_Humm4/)
+{{< icon "xing" >}} [XING](https://www.xing.com/profile/Christian_Humm4/)
 
-{{< fa linkedin fw >}} [LinkedIn](https://www.linkedin.com/in/christian-humm/)
+{{< icon "linkedin" >}} [LinkedIn](https://www.linkedin.com/in/christian-humm/)
 
 ### Academia
 
-{{< ai academia fw >}} [Academia.edu](https://www.researchgate.net/profile/Christian_Humm)
+{{< icon "researchgate" >}} [ResearchGate](https://www.researchgate.net/profile/Christian_Humm)
 
-{{< ai researchgate fw >}} [ResearchGate](https://www.researchgate.net/profile/Christian_Humm)
-
-{{< fa orcid fw >}} [ORCID](https://orcid.org/0000-0001-8789-530X)
-
-{{< ai zotero fw >}} [Zotero](https://www.zotero.org/cmlnet)
+{{< icon "orcid" >}} [ORCID](https://orcid.org/0000-0001-8789-530X)
 
 ### Social Networks
 
-{{< fa instagram fw >}} [Instagram](https://www.instagram.com/ch_humm)
+{{< icon "bluesky" >}} [Bluesky](https://bsky.app/profile/chumm.bsky.social)
 
-{{< fa mastodon fw >}} [Mastodon](https://social.tchncs.de/@cml_net)
+{{< icon "mastodon" >}} [Mastodon](https://social.tchncs.de/@cml_net)
 
-{{< fa twitter fw >}} [Twitter](https://twitter.com/ch_humm)
+{{< icon "x-twitter" >}} [X](https://x.com/ch_humm)
 
 ### Other Sites
 
-{{< fa wikipedia-w fw >}} [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:CML0815)
+{{< icon "wikipedia-w" >}} [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:CML0815)
 
 [1]: https://www.uni-trier.de/ "University Trier"
 [2]: https://www.lancaster.ac.uk/ "Lancaster University"

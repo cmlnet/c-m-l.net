@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on c-m-l.net</title>
+    <link>//localhost:1313/tags/android/</link>
+    <description>Recent content in Android on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Sat, 14 Jun 2014 08:03:58 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paranoid Android: Safe Headset Volume Bug umgehen</title>
+      <link>//localhost:1313/2014/06/14/paranoid-android-safe-headset-volumne-bug-umgehen/</link>
+      <pubDate>Sat, 14 Jun 2014 08:03:58 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>//localhost:1313/2014/06/14/paranoid-android-safe-headset-volumne-bug-umgehen/</guid>
+      <description>Momentan läuft auf meinem Smartphone das Custom Rom Paranoid Android. Eigentlich ein recht stabiles Rom, mit einigen netten Features wie Hover oder Peek und einer durchdachten Benutzeroberfläche. In der aktuellen Version 4.4 RC 1 hat sich allerdings ein fieser Bug eingeschlichen: Sobald man per Kopfhörer Musik oder ähnliches hört und die Lautstärke über das sog. “Safe Headset Volume” – was etwa der Hälfte der möglichen Lautstärke entspricht – angehoben wird, startet Android neu.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2014/06/14/paranoid-android-safe-headset-volumne-bug-umgehen/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>whistle.im unsicher – Mögliche Messenger-Alternativen</title>
+      <link>//localhost:1313/2013/08/19/whistle-im-unsicher-moegliche-messenger-alternativen/</link>
+      <pubDate>Mon, 19 Aug 2013 19:38:41 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>//localhost:1313/2013/08/19/whistle-im-unsicher-moegliche-messenger-alternativen/</guid>
+      <description>Während WhatsApp weiterhin als unsicherer Sofortnachrichtendienst gilt, versuchen sich momentan in der Bugwelle PRISM-Skandals diverse Anbieter mit angeblich sicheren Alternativen am Markt zu positionieren. Eine dieser Alternativen ist whistle.im, dass von zwei deutschen Studenten entwickelt wird. Laut eigener Aussage soll dieser Messenger Kinderleicht zu bedienen und dennoch abhörsicher sein. Allzu viel scheint an diesem Versprechen aber nicht dran zu sein, wie eine Analyse des CCC-Mitglieds &lt;em&gt;nexus&lt;/em&gt; zeigt.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

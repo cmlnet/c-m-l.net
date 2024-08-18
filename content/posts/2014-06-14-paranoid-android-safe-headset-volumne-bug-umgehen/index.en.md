@@ -12,12 +12,11 @@ tags:
   - Paranoid Android
 toc: false
 cover: cover.jpg
+summary: "At the moment I am running the Custom Rom Paranoid Android on my smartphone (a Nexus 4). Normally this is a fairly stable rom, with some nice features like Hover or Peek and a well-designed UI. However, in the latest version, 4.4 RC 1, there is an annoying bug: As soon as you listen to music via a headset and try to raise the volume over the so-called &#8220;Safe Headset Volume&#8221; Android reboots."
 ---
-At the moment I am running the Custom Rom [Paranoid Android][1] on my smart phone (a Nexus 4). Normally this is a fairly stable rom, with some nice features like Hover or Peek and a well designed UI. However, in the latest version, 4.4 RC 1, there is an annoying bug: As soon as you listen to music via a headset and try to raise the volume over the so-called &#8220;Safe Headset Volume&#8221; Android reboots.
+At the moment I am running the Custom Rom [Paranoid Android][1] on my smartphone (a Nexus 4). Normally this is a fairly stable rom, with some nice features like Hover or Peek and a well-designed UI. However, in the latest version, 4.4 RC 1, there is an annoying bug: As soon as you listen to music via a headset and try to raise the volume over the so-called &#8220;Safe Headset Volume&#8221; Android reboots.
 
-<!--more-->
-
-If you raise the volume the first time of the limit while having a headset attached, Android displays a warning. Pressing &#8220;okay&#8221; allows you then to rise  the volume over the limit. In Stock Android you have to do this again after each reboot of the device &#8211; which can be quiet annoying. Paranoid Android offers you the choice to disable the warning permanently and this is exactly where the &#8220;soft reboot&#8221; happens.
+If you raise the volume the first time of the limit while having a headset attached, Android displays a warning. Pressing &#8220;okay&#8221; allows you then to rise the volume over the limit. In Stock Android you have to do this again after each reboot of the device &#8211; which can be quiet annoying. Paranoid Android offers you the choice to disable the warning permanently and this is exactly where the &#8220;soft reboot&#8221; happens.
 
 {{< figure src="images/safe_headset_volumne_warning.png" title="Screenshot: Safe Headset Volume Warning in Android" >}}
 

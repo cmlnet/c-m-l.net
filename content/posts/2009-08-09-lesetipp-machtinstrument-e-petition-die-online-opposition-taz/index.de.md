@@ -11,9 +11,10 @@ tags:
   - Parlament
   - Petitionen
 toc: false
+summary: "Onlinepetitionen sind ein relativ neues Thema, ein Thema allerdings das durch die Debatte um die Netzsperren in jüngster Zeit einige Aufmerksamkeit in der Medienöffentlichkeit erhalten hat. _die tageszeitung_ hat jetzt einen Artikel über die sog. ePetitonen veröffentlicht, der versucht das Phänomen zu erklären und einzuordnen."
 ---
 
-[Onlinepetitionen][1] sind ein relativ neues Thema, ein Thema allerdings das durch die Debatte um die Netzsperren in jüngster Zeit einige Aufmerksamkeit in der Medienöffentlichkeit erhalten hat. _die tageszeitung_ hat jetzt [einen Artikel über die sog. ePetitonen veröffentlicht][2], der versucht das Phänomen zu erklären und einzuordnen.<!--more-->
+[Onlinepetitionen][1] sind ein relativ neues Thema, ein Thema allerdings das durch die Debatte um die Netzsperren in jüngster Zeit einige Aufmerksamkeit in der Medienöffentlichkeit erhalten hat. _die tageszeitung_ hat jetzt [einen Artikel über die sog. ePetitonen veröffentlicht][2], der versucht das Phänomen zu erklären und einzuordnen.
 
 Auch wenn ich der positiven Einschätzung des Autors Christian Rath skeptisch gegenüber stehe – muss sich doch erst einmal zeigen, ob außer der Erzeugung einer kurzen medialen Aufmerksamkeit für einige wenige Petitionen, wirklich etwas substantielles passiert, sprich politische Entscheidungen entscheidend beeinflusst werden – ist der Artikel dennoch lesenswert, bietet er doch eine gute Einführung und Zusammenfassung des aktuellen Stands der Dinge.
 

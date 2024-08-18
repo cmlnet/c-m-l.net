@@ -12,13 +12,15 @@ tags:
 toc: true
 cover: cover.png
 vgwort: 48323854f55547b08074cb23d44b9b60
+
+summary: "Wissenschaftskommunikation ist ein in den letzten Jahren stark gewachsenen Feld, sowohl was die Praxis angeht als auch deren Beforschung, die _Science of Science Communication_. Eine Frage wird dabei aber bisher vor allem im deutschsprachigen Raum eher stiefmütterlich behandelt: Wer wird eigentlich von Wissenschaftskommunikation erreicht und vor allem wer nicht?
+<br />
+Das Projekt „Wissenschaft für alle: Wie kann Wissenschaftskommunikation mit bisher nicht erreichten Zielgruppen gelingen?“, in dem auch in arbeite, möchte hier ein wenig Licht ins Dunkel bringen."
 ---
 
 Wissenschaftskommunikation ist ein in den letzten Jahren stark gewachsenen Feld, sowohl was die Praxis angeht als auch deren Beforschung, die _Science of Science Communication_. Eine Frage wird dabei aber bisher vor allem im deutschsprachigen Raum eher stiefmütterlich behandelt: Wer wird eigentlich von Wissenschaftskommunikation erreicht und vor allem wer nicht?
 
 Das Projekt [„Wissenschaft für alle: Wie kann Wissenschaftskommunikation mit bisher nicht erreichten Zielgruppen gelingen?“][1], in dem auch in arbeite, möchte hier ein wenig Licht ins Dunkel bringen.
-
-<!--more-->
 
 In einem ersten Schritt haben wir uns dazu die bisherige Forschungsliteratur zu nicht erreichten Gruppen angeschaut und zwar nicht nur im Bereich der Wissenschaftskommunikation, sondern auch zu Politischer Bildung bzw. Partizipation, Gesundheitskommunikation, Inklusion, ... Also in Bereichen die vor ähnlichen Herausforderungen wie die Wissenschaftskommunikation stehen.
 
@@ -44,3 +46,5 @@ Wem die fast 100 Seiten zu viel sind, der kann auch einen Blick auf das [Factshe
  [1]: http://www.geistsoz.kit.edu/germanistik/1054.php
  [2]: https://www.c-m-l.net/blog/wp-content/uploads/2018/12/Zwischenbericht_Wissenschaft_fuer_alle.pdf
  [3]: https://www.c-m-l.net/blog/wp-content/uploads/2018/12/181106_WfA-Factsheet_final.pdf
+
+{{< vgwort "48323854f55547b08074cb23d44b9b60" >}}

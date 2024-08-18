@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YouTube on c-m-l.net</title>
+    <link>//localhost:1313/en/tags/youtube/</link>
+    <description>Recent content in YouTube on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Science communication on YouTube: Case study on the Earth Overshoot Day</title>
+      <link>//localhost:1313/en/posts/2020-12-14-frontiers-earthovershootday/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>//localhost:1313/en/posts/2020-12-14-frontiers-earthovershootday/</guid>
+      <description>Cooperations with influencers have now also arrived in science communication - but have not been given much scientific attention so far. Lena Kaul, Philipp Schrögel and I want to contribute to closing this research gap with our case study „Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“. To do this, we took a closer look at YouTube videos from WWF&amp;rsquo;s #EarthOvershootDay campaign.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/2020-12-14-frontiers-earthovershootday/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
