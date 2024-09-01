@@ -1,2 +1,5 @@
 .hugo_build.lock
-/resources/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+.fuse_hidden*
