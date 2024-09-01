@@ -13,7 +13,7 @@ title = "c-m-l.net"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
    name = "Christian Humm"
    image = "img/christian_humm.jpg"
    email = "mail@c-m-l.net"
