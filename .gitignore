@@ -3,3 +3,4 @@
 /assets/jsconfig.json
 hugo_stats.json
 .fuse_hidden*
+/public
