@@ -1,8 +1,6 @@
-node_modules
-.DS_Store
-public
-themes/hugo-notice
-themes/blogwind
-themes/highcharts
-resources
-assets/js/highcharts.js
+.hugo_build.lock
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+.fuse_hidden*
+/public

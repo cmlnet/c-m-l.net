@@ -18,11 +18,10 @@ tags:
 toc: false
 cover: "img/labour_cameron_audi.jpg"
 vgwort: 2404bc1bdc134a928bc458f389327585
+summary: "Nachdem die Queen am 6. April der Bitte von Premierminister Gordon Browns nachgekommen ist und das britische Unterhaus auflöste steht fest, dass am 6. Mai zusammen mit den Kommunalwahlen auch die Unterhauswahlen in Großbritannien stattfinden. Gleichzeitig startete auch der Wahlkampf, der schon seit längerem auf kleiner Flamme stattfand, in die heiße Phase und, ähnlich wie im letzten Bundestagswahlkampf, spielt diesmal auch das Internet eine wichtig(ere) Rolle. Dabei geht es nicht gerade zimperlich zu, sowohl off- als auch online."
 ---
 
 Nachdem die Queen am 6. April der Bitte von Premierminister Gordon Browns nachgekommen ist und das britische Unterhaus auflöste steht fest, dass am 6. Mai zusammen mit den Kommunalwahlen auch die Unterhauswahlen in Großbritannien stattfinden. Gleichzeitig startete auch der Wahlkampf, der schon seit längerem auf kleiner Flamme stattfand, in die heiße Phase und, ähnlich wie im letzten Bundestagswahlkampf, spielt diesmal auch das Internet eine wichtig(ere) Rolle. Dabei geht es nicht gerade zimperlich zu, sowohl off- als auch online.
-
-<!--more-->
 
 Insbesondere die [Tories][1] tun sich in Sachen _negative campaigning_ hervor. Zum Beispiel mit einer Plakatkampagne die den lächelnden Premier neben Slogans wie &#8220;Ich habe die nationale Verschuldung verdoppelt, wählt mich&#8221; zeigt.
 
@@ -50,3 +49,5 @@ Aussagen die auf einer Partei- bzw. Wahlkampfveranstaltung wahrscheinlich ohne K
  [8]: http://twitter.com/stuartmaclennan "ehemaliger Twitteraccound von Stuart MacLennan"
  [9]: http://webcache.googleusercontent.com/search?q=cache:u5ldtbaNY4oJ:twitter.com/stuartmaclennan+Stuart+MacLennan&cd=8&hl=en&ct=clnk&gl=us&client=firefox-a "archivierte Version von MacLennans Twitteraccount"
  [10]: http://www.stuartmaclennan.co.uk/ "ehemalige Homepage von Stuart MacLennan"
+
+{{< vgwort "2404bc1bdc134a928bc458f389327585" >}}

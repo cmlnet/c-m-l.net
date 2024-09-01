@@ -6,8 +6,6 @@ url: "datenschutzerklaerung"
 
 type: page
 toc: false
-
-menu: main
 ---
 
 ## Einleitung
@@ -20,21 +18,25 @@ Stand: 22\. August 2020
 
 ## Inhaltsübersicht
 
-*   [Einleitung](#einleitung)
-*   [Verantwortlicher](#verantwortlicher)
-*   [Übersicht der Verarbeitungen](#übersicht-der-verarbeitungen)
-*   [Maßgebliche Rechtsgrundlagen](#maßgebliche-rechtsgrundlagen)
-*   [Sicherheitsmaßnahmen](#sicherheitsmaßnahmen)
-*   [Übermittlung und Offenbarung von personenbezogenen Daten](#übermittlung-und-offenbarung-von-personenbezogenen-daten)
-*   [Blogs und Publikationsmedien](#blogs-und-publikationsmedien)
-*   [Kontaktaufnahme](#kontaktaufnahme)
-*   [Affiliate-Programme und Affiliate-Links](#affiliate-programme-und-affiliate-links)
-*   [Präsenzen in sozialen Netzwerken (Social Media)](#präsenzen-in-sozialen-netzwerken-social-media)
-*   [Plugins und eingebettete Funktionen sowie Inhalte](#plugins-und-eingebettete-funktionen-sowie-inhalte)
-*   [Löschung von Daten](#löschung-von-daten)
-*   [Änderung und Aktualisierung der Datenschutzerklärung](#änderung-und-aktualisierung-der-datenschutzerklärung)
-*   [Rechte der betroffenen Personen](#rechte-der-betroffenen-personen)
-*   [Begriffsdefinitionen](#begriffsdefinitionen)
+- [Einleitung](#einleitung)
+- [Inhaltsübersicht](#inhaltsübersicht)
+- [Verantwortlicher](#verantwortlicher)
+- [Übersicht der Verarbeitungen](#übersicht-der-verarbeitungen)
+  - [Arten der verarbeiteten Daten](#arten-der-verarbeiteten-daten)
+  - [Kategorien betroffener Personen](#kategorien-betroffener-personen)
+  - [Zwecke der Verarbeitung](#zwecke-der-verarbeitung)
+  - [Maßgebliche Rechtsgrundlagen](#maßgebliche-rechtsgrundlagen)
+- [Sicherheitsmaßnahmen](#sicherheitsmaßnahmen)
+- [Übermittlung und Offenbarung von personenbezogenen Daten](#übermittlung-und-offenbarung-von-personenbezogenen-daten)
+- [Blogs und Publikationsmedien](#blogs-und-publikationsmedien)
+- [Kontaktaufnahme](#kontaktaufnahme)
+- [Affiliate-Programme und Affiliate-Links](#affiliate-programme-und-affiliate-links)
+- [Präsenzen in sozialen Netzwerken (Social Media)](#präsenzen-in-sozialen-netzwerken-social-media)
+- [Plugins und eingebettete Funktionen sowie Inhalte](#plugins-und-eingebettete-funktionen-sowie-inhalte)
+- [Löschung von Daten](#löschung-von-daten)
+- [Änderung und Aktualisierung der Datenschutzerklärung](#änderung-und-aktualisierung-der-datenschutzerklärung)
+- [Rechte der betroffenen Personen](#rechte-der-betroffenen-personen)
+- [Begriffsdefinitionen](#begriffsdefinitionen)
 
 ## Verantwortlicher
 

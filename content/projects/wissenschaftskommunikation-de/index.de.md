@@ -3,8 +3,11 @@ title: wissenschaftskommunikation.de
 author: Christian Humm
 categories:
   - Wissenschaft
-cover: img/wiskom-logo.png
 summary: Verantwortlicher Redakteur für die Forschungsrubrik des Portals von 2016 bis 2017.
+heroStyle: big
+showDate: false
+showWordCount: false
+showReadingTime: false
 ---
 
 Von 2016 bis Ende 2017 war ich als Redakteur bei [wissenschaftskommunikation.de](https://www.wissenschaftskommunikation.de/) tätig und habe den Aufbau des Portals begleitet, bevor ich zum Projekt [Wissenschaft für alle](/projects/science-for-all/) gewechselt bin.
@@ -17,6 +20,6 @@ Ende 2020 habe ich, zusammen mit [Lena Puttfarcken](https://lenaputtfarcken.de/)
 
 - [Kurz vorgestellt: Neues aus der Forschung im September 2020](https://www.wissenschaftskommunikation.de/kurz-vorgestellt-neues-aus-der-forschung-im-september-2020-42491/)
 - [Kurz vorgestellt: Neues aus der Forschung im Oktober 2020](https://www.wissenschaftskommunikation.de/kurz-vorgestellt-neues-aus-der-forschung-im-oktober-2020-43253/)
-- Kurz vorgestellt: Neues aus der Forschung im November 2020 (noch nicht veröffentlicht)
+- [Kurz vorgestellt: Neues aus der Forschung im November 2020](https://www.wissenschaftskommunikation.de/kurz-vorgestellt-neues-aus-der-forschung-im-november-2020-44147/)
 
 Für alle weiteren Artikel, die ich für *wissenschaftskommunikation.de* geschrieben habe, bitte [hier entlang](https://www.wissenschaftskommunikation.de/author/christianhumm/).

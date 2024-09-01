@@ -13,11 +13,10 @@ tags:
   - GTK3
   - Theme
 cover: cover.png
+summary: "Auf meinem Desktop benutzte ich zum arbeiten Linux, genauer gesagt Arch Linux und als Desktop-Environment kommt dort, nach Ausflügen zu XFCE und Cinnamon, schon länger die GNOME Shell zum Einsatz. Das Standardtheme der GNOME Shell &#8211; Adwaita &#8211; gefällt  mir dabei allerdings nicht wirklich, also bin ich immer auf der Suche nach alernativen Themes für die Shell."
 ---
 
 Auf meinem Desktop benutzte ich zum arbeiten Linux, genauer gesagt <a href="https://www.archlinux.org">Arch Linux</a> und als Desktop-Environment kommt dort, nach Ausflügen zu XFCE und Cinnamon, schon länger die <a href="https://wiki.gnome.org/Projects/GnomeShell">GNOME Shell</a> zum Einsatz. Das Standardtheme der GNOME Shell &#8211; Adwaita &#8211; gefällt  mir dabei allerdings nicht wirklich, also bin ich immer auf der Suche nach alernativen Themes für die Shell.
-
-<!--more-->
 
 Dank <a href="http://www.omgubuntu.co.uk/2015/06/arc-gtk-theme">OMG! Ubuntu!</a> bin ich vor kurzem auf einen neuen, sehr hübschen Vertreter seiner Art gestoßen: das <a href="https://github.com/horst3180/Arc-theme">Arc Theme</a>. Ein Theme das auf eine flache, teil-transparentes Aussehen setzt. Das Theme unterstützt GTK 3, GTK 2 und die Gnome-Shell (Version 3.14 & 3.16), sowie auf GTK basierende Desktop-Environments wie Unity, Budgie, Pantheon, etc.
 

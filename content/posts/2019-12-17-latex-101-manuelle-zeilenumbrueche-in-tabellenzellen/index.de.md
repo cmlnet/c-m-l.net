@@ -16,6 +16,7 @@ toc: true
 cover: cover.png
 vgwort: 05b86b09fbd64206865c5ab76678b460
 ---
+
 Manchmal braucht man manuelle Textumbrüche in Tabellenzellen. Was in Word oder LibreOffice selbstverständlich und einfach funktioniert, ist in LaTeX gar nicht so einfach. Die herkömmliche Methode mittels `\\` oder `\linebreak` einen Zeilenumbruch zu setzen, kann in Tabellenumgebungen nämlich nicht benutzt werden. Aber wie für alles gibt es auch hierfür natürlich eine Lösung in LaTeX – in Wirklichkeit gibt es natürlich wahrscheinlich zig Lösungen, aber das sind die zwei von mir benutzten.
 
 <!--more-->
@@ -99,3 +100,5 @@ Folgendes Beispiel zeigt, wie der Code für eine Tabelle aussieht, in der der Te
 {{< figure src="images/latex_tabelle_makecell_ausrichtung.png" title="Ergebnis des Beispielcodes" >}}
 
  [1]: https://www.ctan.org/pkg/makecell
+
+{{< vgwort "05b86b09fbd64206865c5ab76678b460" >}}

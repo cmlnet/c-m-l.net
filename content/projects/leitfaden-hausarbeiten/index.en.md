@@ -2,7 +2,12 @@
 title: Guideline for the Preparation of a Term Paper
 categories:
  - Teaching
-cover: img/wmk-tagcloud.png
+heroStyle: big
+showDate: false
+showWordCount: false
+showReadingTime: false
+draft: true
+summary: "Leitfaden für Studierende der Bachelor- und Masterstudiengänge „Wissenschaft – Medien – Kommunikation“ des KIT zum Erstellen einer Hausarbeit."
 ---
 
 The guideline is intended to help students of the Bachelor's and Master's programs ["Science - Media - Communication"](https://www.wmk-karlsruhe.de) of the Karlsruhe Institute of Technology (KIT) to write a term paper.

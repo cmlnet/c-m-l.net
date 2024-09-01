@@ -3,9 +3,12 @@ title: Wissenschaft für alle
 author: Christian Humm
 categories:
   - Wissenschaft
-cover: img/wfa-logo.png
 summary: Praxis- und Forschungsprojekt zu nicht erreichten Zielgruppen der Wissenschaftskommunikation.
 toc: true
+heroStyle: big
+showDate: false
+showWordCount: false
+showReadingTime: false
 ---
 
 Im Projekt **Wissenschaft für alle** widme ich mich seit Ende 2017 nicht erreichten Gruppen in der Wissenschaftskommunikation. Gemeinsam mit Kolleg:innen des [Departments für Wissenschaftskommunikation](https://www.wmk-karlsruhe.de/) am KIT und von [Wissenschaft im Dialog](https://www.wissenschaft-im-dialog.de/) gehen wir der Frage nach, wen Wissenschaftskommunikation nicht erreicht, warum das so ist und was praktisch dagegen getan werden kann.
@@ -49,4 +52,4 @@ Im Projekt **Wissenschaft für alle** widme ich mich seit Ende 2017 nicht erreic
 ## Links
 
 * [Projektseite beim Department für Wissenschaftskommunikation (KIT)](https://wmk.itz.kit.edu/2943.php)
-* [Projektseite bei Wissenschaft im Dialog (WiD)](https://www.wissenschaft-im-dialog.de/projekte/wissenschaft-fuer-alle/)
+* [Projektseite bei Wissenschaft im Dialog (WiD)](https://wissenschaft-im-dialog.de/projekte/ehemalige-projekte/#wissenschaft-fuer-alle)

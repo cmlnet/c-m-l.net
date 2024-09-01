@@ -11,7 +11,9 @@ tags:
   - schweinegrippe
   - seuchen
 toc: false
+draft: true
 cover: "img/nytimes_seuchen.jpg"
+summary: "Die New York Times hat auf ihrer Internetpräsenz ein hübsches Schaubild veröffentlicht auf dem diverse Seuchen mitsamt Opferzahl, Übertragungsweg, Symptomen und Gegenstrategie verzeichnet sind. Die Aufstellung beginnt im Jahre 1892 mit der Cholera und endet 2003 mit SARS. Die Vogelgrippe H5N1 und die 'Mexikanische Grippe' fehlen allerdings. Interessant ist vor allem die Nennung der jeweiligen Sündenböcke: In der Mehrzahl waren es Migranten die für den Ausbruch der Seuche verantwortlich gemacht wurden. Einzig zweimal – bei der 'Spanischen Gruppe' und Poli – kann die NYT keine Sündenböcke nennen."
 ---
 
 Die [New York Times][1] hat auf ihrer Internetpräsenz ein hübsches [Schaubild][2] veröffentlicht auf dem diverse Seuchen mitsamt Opferzahl, Übertragungsweg, Symptomen und Gegenstrategie verzeichnet sind. Die Aufstellung beginnt im Jahre 1892 mit der [Cholera][3] und endet 2003 mit [SARS][4]. Die [Vogelgrippe H5N1][5] und die ["Mexikanische Grippe"][6] fehlen allerdings. Interessant ist vor allem die Nennung der jeweiligen Sündenböcke: In der Mehrzahl waren es Migranten die für den Ausbruch der Seuche verantwortlich gemacht wurden. Einzig zweimal – bei der ["Spanischen Gruppe&#8221;][7] und [Polio][8] – kann die NYT keine Sündenböcke nennen.

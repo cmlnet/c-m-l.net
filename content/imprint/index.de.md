@@ -5,7 +5,6 @@ date: 2008-12-26T10:32:14+00:00
 slug: "impressum"
 
 type: page
-menu: main
 ---
 ## Diensteanbieter (Angaben gemäß § 5 TMG)
 

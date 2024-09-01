@@ -12,10 +12,9 @@ tags:
   - Security
   - Verschlüsselung
 vgwort: 4528bc224fa744c7b650475faa1f570c
+summary: "Möchte man seine Daten sicher in bei Dropbox, Google Drive, OneDrive oder sonst irgendeinem Clouddienst speichern, hat man prinzipiell mehrere Möglichkeiten. Man kann den Beteuerungen der Anbieter, dass sie ihre Dienste und Daten sicher speichern glauben schenken (Copy etwa wirbt damit, dass die Daten mit 256 AES verschlüsselt würden). Man kann selbst einen Cloudspeicher hosten, etwa mittels ownCloud. Allerdings sollte dabei beachtet werden, dass das ganze dann natürlich nicht kostenlos ist und auch nur sicher, wenn man entsprechende Ahnung von Serveradministration und -absicherung hat. Man kann aber einen der großen Dienste nutzen und die Daten dabei nochmal extra verschlüsseln."
 ---
 Möchte man seine Daten sicher in bei [Dropbox][1], Google Drive, [OneDrive][2] oder sonst irgendeinem Clouddienst speichern, hat man prinzipiell mehrere Möglichkeiten. Man kann den Beteuerungen der Anbieter, dass sie ihre Dienste und Daten sicher speichern glauben schenken ([Copy][3] etwa wirbt damit, dass die Daten mit 256 AES verschlüsselt würden). Man kann selbst einen Cloudspeicher hosten, etwa mittels [ownCloud][4]. Allerdings sollte dabei beachtet werden, dass das ganze dann natürlich nicht kostenlos ist und auch nur sicher, wenn man entsprechende Ahnung von Serveradministration und -absicherung hat. Man kann aber einen der großen Dienste nutzen und die Daten dabei nochmal extra verschlüsseln.
-
-<!--more-->
 
 Prinzipiell gibt es dafür mehrere Möglichkeiten: Eine der bekannteren dürfte das anlegen eines TrueCrypt-Containers sein, den man dann mittels Dropbox oder ähnlichem in die Cloud verfrachtet. Seit der [Einstellung des TrueCrypt-Projekts][5] sollte man die Software aber sofern möglich nicht weiter einsetzen. Was tun also, um seine Dateien in der Cloud verschlüsselt zu speichern? Die Lösung heißt [EncFS][6].
 
@@ -100,3 +99,5 @@ Nun mag vielleicht nicht jeder, ständig mit dem Terminal hantieren nur um den E
  [8]: http://www.c-m-l.net/blog/wp-content/uploads/2014/06/kernel-extension-warning.png
  [9]: http://macfusionapp.org/
  [10]: http://thenakedman.wordpress.com/encfs/
+
+{{< vgwort "4528bc224fa744c7b650475faa1f570c" >}}

@@ -2,6 +2,7 @@
 title: Synchronisierungsprobleme zwischen Zotero und Papership (temporär) beheben
 author: Christian Humm
 date: 2019-05-03T07:16:10+00:00
+lastmod: 2024-05-05
 url: /2019/05/03/synchronisierungsprobleme-zwischen-zotero-und-papership-temporaer-beheben/
 categories:
   - iOS
@@ -14,12 +15,21 @@ tags:
 cover: cover.png
 vgwort: 3840a8f9e9b7439a86428bbfa57869f4
 licence: cc-by
+
+summary: "Zotero ist ein ziemlich großartiges Literaturverwaltungsprogramm, dem es allerdings an tauglichen Apps für Tablets fehlt. Eine Ausnahme ist Papership für iOS. Mit dieser App ist es möglich nicht nur möglich die in Zotero angelegte Literatursammlung zu verwalten, sondern auch Texte zu annotieren.
+<br />
+Umso schmerzlicher also, dass Papership nicht mehr aktiv gepflegt wird und es mit der aktuellen Version von Zotero zu Problemen bei Synchronisierung von angehängten Dateien, ergo Texten, kommt. Glücklicherweise lässt sich das Problem relativ schnell lösen – zumindest vorübergehend."
 ---
+
+{{< alert >}}
+Dieser Artikel ist veraltet. Inzwischen gibt es eine eigene [App von Zotero für iOS](https://apps.apple.com/us/app/zotero/id1513554812).
+{{< /alert >}}
+
+{{< licence name="cc-by" >}}
+
 [Zotero][1] ist ein ziemlich großartiges Literaturverwaltungsprogramm, dem es allerdings an tauglichen Apps für Tablets fehlt. Eine Ausnahme ist [Papership][2] für iOS. Mit dieser App ist es möglich nicht nur möglich die in Zotero angelegte Literatursammlung zu verwalten, sondern auch Texte zu annotieren.
 
 Umso schmerzlicher also, dass Papership [nicht mehr aktiv gepflegt wird][3] und es mit der aktuellen Version von Zotero zu Problemen bei Synchronisierung von angehängten Dateien, ergo Texten, kommt. Glücklicherweise lässt sich das Problem relativ schnell lösen – zumindest vorübergehend.
-
-<!--more-->
 
 Gestestet habe ich das ganze nur mit der Dateisynchronisierung via WebDAV. Papership bietet darüberhinaus noch eine Synchronisierung via _box.com<_ oder über Zotero selbst an. Zumindest bei erster Möglichkeit taucht das Problem wohl auch auf.
 
@@ -47,3 +57,5 @@ Die Lösung ist leider nicht dauerhaft, da Zotero die Datei von Zeit zu Zeit wie
  [1]: https://www.zotero.org/
  [2]: https://www.papershipapp.com/
  [3]: https://forums.zotero.org/discussion/comment/289064/
+
+{{< vgwort "3840a8f9e9b7439a86428bbfa57869f4" >}}

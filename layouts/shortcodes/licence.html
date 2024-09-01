@@ -1,0 +1,59 @@
+<style>
+    .licence-div  {
+        margin: 0.25em;
+        border: 1px solid black;
+        background-color:transparent;
+    }
+
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+    
+    .licence-img {
+        float: left;
+        padding: 0.5em;
+        margin: auto;
+    }
+
+    .licence-txt {
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+        text-align: justify;
+        margin: auto;
+    }
+</style>
+
+{{- with .Get "name" -}}
+    {{ $icon := "" }}
+    {{ $url := "" }}
+        {{ if eq . "cc-zero" }}
+            {{ $icon = "cc/cc-zero.svg" }}
+            {{ $url = "https://creativecommons.org/publicdomain/zero/1.0/" }}
+        {{ else if eq . "cc-by" }}
+            {{ $icon = "cc/by.svg" }}
+            {{ $url = "https://creativecommons.org/licenses/by/4.0/" }}
+        {{ else if eq . "cc-by-sa" }}
+            {{ $icon = "cc/by-sa.svg" }}
+            {{ $url = "https://creativecommons.org/licenses/by-sa/4.0/" }}
+        {{ else if eq . "cc-by-nd" }}
+            {{ $icon = "cc/by-nd.svg" }}
+            {{ $url = "https://creativecommons.org/licenses/by-nd/4.0/" }}
+        {{ else if eq . "cc-by-nc" }}
+            {{ $icon = "cc/by-nc.svg" }}
+            {{ $url = "https://creativecommons.org/licenses/by-nc/4.0/" }}
+        {{ else if eq . "cc-by-nc-nd" }}
+            {{ $icon = "cc/by-nc-nd.svg" }}
+            {{ $url = "https://creativecommons.org/licenses/by-nc-nd/4.0/" }}
+        {{ end }}
+
+        <div class="clearfix licence-div">
+            <a rel="license" href="{{ $url }}">
+                <img class="licence-img" alt="Creative Commons Licence" src="/licence-icons/{{ $icon }}" width="120px" height="42px" />
+            </a>
+            <p class="licence-txt">{{ i18n "licenced_under" }} <a rel="license" href="{{ $url }}" target="_blank">{{ i18n . }}</a>.</p>
+        </div>
+{{- else -}}
+    {{- errorf "The %q shortcode requires a single positional parameter, the name of the licence. See %s" .Name .Position -}}
+{{- end -}}

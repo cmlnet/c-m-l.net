@@ -14,10 +14,14 @@ tags:
 cover: cover.png
 licence: cc-by
 vgwort: 6690f70ef2f7432193b2ccf6e3f43bb7
----
-In the project [&#8220;Science for All&#8221;][1], my colleagues and I look at who science communication actually does not reach, what the causes are and what possible solutions there are. A first evaluation of our data has just been published in the magazine [Media and Communication][2].
 
-<!--more-->
+summary: "In the project &#8220;Science for All&#8221;, my colleagues and I look at who science communication actually does not reach, what the causes are and what possible solutions there are. A first evaluation of our data has just been published in the magazine Media and Communication."
+
+---
+
+{{< licence name="cc-by" >}}
+
+In the project [&#8220;Science for All&#8221;][1], my colleagues and I look at who science communication actually does not reach, what the causes are and what possible solutions there are. A first evaluation of our data has just been published in the magazine [Media and Communication][2].
 
 {{< figure src="images/WfA_icon-RGB-Groß.png" alt="Logo of the project &quot;Science for All&quot;" caption="Logo of the project &quot;Science for All&quot;" class="float-right" >}}
 
@@ -27,15 +31,9 @@ The paper is Open Access, licensed under a Creative Commons License (CC-BY-4.0) 
 
 ## Abstract
 
-{{< blockquote cite="Humm, C., Schrögel, P., & Leßmöllmann. (2020). Feeling left out: Underserved audiences in science communication. Media and Communication, 8(1), 164–176. https://doi.org/10.17645/mac.v8i1.2480" footer="Humm, C., Schrögel, P., & Leßmöllmann. (2020). Feeling left out: Underserved audiences in science communication. Media and Communication, 8(1), 164–176. https://doi.org/10.17645/mac.v8i1.2480" >}}
-  <p>
-    Science communication only reaches certain segments of society. Various underserved audiences are detached from it and feel left out, which is a challenge for democratic societies that build on informed participation in deliberative processes. While only recently researchers and practitioners have addressed the question on the detailed composition of the not reached groups, even less is known about the emotional impact on underserved audiences: feelings and emotions can play an important role in how science communication is received, and “feeling left out” can be an important aspect of exclusion.
-  </p>
-
-  <p>
-    In this exploratory study, we provide insights from interviews and focus groups with three different underserved audiences in Germany. We found that on the one hand, material exclusion factors such as available infrastructure or financial means as well as specifically attributable factors such as language skills, are influencing the audience composition of science communication. On the other hand, emotional exclusion factors such as fear, habitual distance, and self- as well as outside-perception also play an important role. Therefore, simply addressing material aspects can only be part of establishing more inclusive science communication practices. Rather, being aware of emotions and feelings can serve as a point of leverage for science communication in reaching out to underserved audiences.
-  </p>
-{{< /blockquote >}}
+> Science communication only reaches certain segments of society. Various underserved audiences are detached from it and feel left out, which is a challenge for democratic societies that build on informed participation in deliberative processes. While only recently researchers and practitioners have addressed the question on the detailed composition of the not reached groups, even less is known about the emotional impact on underserved audiences: feelings and emotions can play an important role in how science communication is received, and “feeling left out” can be an important aspect of exclusion.
+> In this exploratory study, we provide insights from interviews and focus groups with three different underserved audiences in Germany. We found that on the one hand, material exclusion factors such as available infrastructure or financial means as well as specifically attributable factors such as language skills, are influencing the audience composition of science communication. On the other hand, emotional exclusion factors such as fear, habitual distance, and self- as well as outside-perception also play an important role. Therefore, simply addressing material aspects can only be part of establishing more inclusive science communication practices. Rather, being aware of emotions and feelings can serve as a point of leverage for science communication in reaching out to underserved audiences.
+> — <cite>Humm, C., Schrögel, P., & Leßmöllmann. (2020). Feeling left out: Underserved audiences in science communication. Media and Communication, 8(1), 164–176. https://doi.org/10.17645/mac.v8i1.2480" footer="Humm, C., Schrögel, P., & Leßmöllmann. (2020). Feeling left out: Underserved audiences in science communication. Media and Communication, 8(1), 164–176. https://doi.org/10.17645/mac.v8i1.2480</cite>
 
 ## Download article
 
@@ -53,3 +51,5 @@ Humm, C., Schrögel, P., & Leßmöllmann. (2020). Feeling left out: Underserved 
  [1]: https://wmk.itz.kit.edu/2943.php
  [2]: https://www.cogitatiopress.com/mediaandcommunication/
  [3]: https://www.cogitatiopress.com/mediaandcommunication/article/view/2480
+
+{{< vgwort "6690f70ef2f7432193b2ccf6e3f43bb7" >}}

@@ -12,10 +12,9 @@ tags:
   - Verschlüsselung
 toc: false
 vgwort: 12c962fc2fde4c179bb1e76141330634
+summary: "Während WhatsApp weiterhin als unsicherer Sofortnachrichtendienst gilt, versuchen sich momentan in der Bugwelle PRISM-Skandals diverse Anbieter mit angeblich sicheren Alternativen am Markt zu positionieren. Eine dieser Alternativen ist whistle.im, dass von zwei deutschen Studenten entwickelt wird. Laut eigener Aussage soll dieser Messenger Kinderleicht zu bedienen und dennoch abhörsicher sein. Allzu viel scheint an diesem Versprechen aber nicht dran zu sein, wie eine Analyse des CCC-Mitglieds _nexus_ zeigt."
 ---
 Während WhatsApp weiterhin [als unsicherer Sofortnachrichtendienst gilt][1], versuchen sich momentan in der Bugwelle PRISM-Skandals diverse Anbieter mit angeblich sicheren Alternativen am Markt zu positionieren. Eine dieser Alternativen ist [whistle.im][2], dass von zwei deutschen Studenten entwickelt wird. Laut eigener Aussage soll dieser Messenger Kinderleicht zu bedienen und dennoch abhörsicher sein. Allzu viel scheint an diesem Versprechen aber nicht dran zu sein, wie eine [Analyse des CCC-Mitglieds _nexus_][3] zeigt.
-
-<!--more-->
 
 _nexus_ bescheinigt whistle.im &#8220;alles in allem ein vollkommen undurchdachtes Konzept&#8221; zu haben und nur eines tatsächlich zu leisten, nämlich seinem Vorbild WhatsApp in Sachen Sicherheitsmängeln in nichts nach zu stehen. Konkret nennt der Hacker acht problematische Punkte, die tatsächlich große Zweifel am Konzept der Software wecken:
 
@@ -48,3 +47,5 @@ Zu empfehlen sind aktuell nur Kontalk und Jabber/XMPP. Ersteres hat bisher keine
  [7]: http://miranda-im.org
  [8]: http://www.xabber.com/
  [9]: https://itunes.apple.com/us/app/chatsecure-encrypted-secure/id464200063?mt=8
+
+{{< vgwort "12c962fc2fde4c179bb1e76141330634" >}}

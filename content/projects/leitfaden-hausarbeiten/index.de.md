@@ -2,12 +2,15 @@
 title: Leitfaden zur Erstellung einer wissenschaftlichen Hausarbeit
 categories:
  - Lehre
-cover: img/wmk-tagcloud.png
+heroStyle: big
+showDate: false
+showWordCount: false
+showReadingTime: false
+draft: true
+summary: "Leitfaden für Studierende der Bachelor- und Masterstudiengänge „Wissenschaft – Medien – Kommunikation“ des KIT zum Erstellen einer Hausarbeit."
 ---
 
 Der Leitfaden soll Studierenden der Bachelor- bzw. Master-Studiengänge [„Wissenschaft – Medien – Kommunikation“](https://www.wmk-karlsruhe.de) des Karlsruher Instituts für Technologie (KIT) beim Erstellen einer Hausarbeit helfen.
-
-<!--more-->
 
 Nachdem der Leitfaden lange Zeit nur als PDF-Datei existiert hat, habe ich ihn Ende 2020 in eine [Webversion](https://docs.wmk-karlsruhe.de) umgewandelt. Diese wurde mit [MkDocs](https://www.mkdocs.org/) erstellt. Der Quellcode wird auf der [GitLab-Instanz des KIT](https://git.scc.kit.edu/cq3208/wmk-leitfaden-wissenschaftliche-hausarbeiten) gehostet.
 

@@ -9,10 +9,10 @@ tags:
   - Open Access
 cover: cover.jpg
 vgwort: c96d453399264cd7ab5446bdf70e84e9
+summary: "Open Access boomt und auch wir befassen uns mit diesem neuen Publikationsmodell in Lehre und Forschung: Etwa wenn wir mit Studierenden besprechen, wie neue Publikationsweisen die Wissenschaftskommunikation insgesamt verändern. Ein neues Projekt liefert jetzt Daten, die spannende Einblicke in diese Veränderungen versprechen."
 ---
-<a href="https://de.wikipedia.org/wiki/Open_Access" target="_blank">Open Access</a> boomt und auch wir befassen uns mit diesem neuen Publikationsmodell in Lehre und Forschung: Etwa wenn wir mit Studierenden besprechen, wie neue Publikationsweisen die Wissenschaftskommunikation insgesamt verändern. Ein neues Projekt liefert jetzt Daten, die spannende Einblicke in diese Veränderungen versprechen.
 
-<!--more-->
+[Open Access](https://de.wikipedia.org/wiki/Open_Access) boomt und auch wir befassen uns mit diesem neuen Publikationsmodell in Lehre und Forschung: Etwa wenn wir mit Studierenden besprechen, wie neue Publikationsweisen die Wissenschaftskommunikation insgesamt verändern. Ein neues Projekt liefert jetzt Daten, die spannende Einblicke in diese Veränderungen versprechen.
 
 Immer mehr wissenschaftliche Zeitschriften stellen auf das Modell um. Damit steht auch das bisherige Geschäftsmodell der Zeitschriftenverlage auf der Kippe. Diese finanzierten sich bisher über hohe Gebühren für die Abonnements der Zeitschriften, größtenteils gezahlt von Hochschulen und Forschungseinrichtungen und damit finanziert aus öffentlichen Mitteln &#8211; den gleichen Mitteln, die die Forschung selbst zuvor erst ermöglicht haben. Die genaue Höhe der Gebühren ist schwierig einzuschätzen, da die geschlossenen Verträge meist nicht öffentlich sind. Die Gewinnmargen der Verlage liegen aber normalerweise bei <a href="http://www.nature.com/news/open-access-the-true-cost-of-science-publishing-1.12676" target="_blank">20</a> bis <a href="http://www.laborjournal.de/editorials/840.lasso" target="_blank">40%</a> und man geht von einem <a href="http://www.nature.com/news/open-access-the-true-cost-of-science-publishing-1.12676" target="_blank">Durchschnittspreis von 5000$ pro Artikel</a> aus. Das klassischen Publikationsmodell scheint also für die Verlage ein sehr lohnendes Geschäft zu sein.
 
@@ -47,3 +47,5 @@ So löblich die Initiative von OpenAPC auch ist, vollständige Transparenz wird 
 <hr />
 
 <em>Der <a href="http://wmk-blog.de/2015/03/20/openapc-gibt-einblicke-kosten-fuer-open-access/" target="_blank">Beitrag</a> erschien zu erst auf dem <a href="http://www.wmk-blog.de/" target="_blank">Blog des Studiengangs &#8220;Wissenschaft &#8211; Medien &#8211; Kommunikation&#8221; </a>der Abteilung Wissenschaftskommunikation (Institut für Germanistik) des Karlsruher Instituts für Technologie (KIT).</em>
+
+{{< vgwort "c96d453399264cd7ab5446bdf70e84e9" >}}

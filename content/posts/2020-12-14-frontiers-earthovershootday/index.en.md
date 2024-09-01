@@ -15,11 +15,13 @@ toc: true
 # Cover picture
 cover: cover.png
 vgwort: dd41249d2e694dfa83ec6daea0f98287
+
+summary: "Cooperations with influencers have now also arrived in science communication - but have not been given much scientific attention so far. Lena Kaul, Philipp Schrögel and I want to contribute to closing this research gap with our case study „Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“. To do this, we took a closer look at YouTube videos from WWF's #EarthOvershootDay campaign."
 ---
 
-Cooperations with influencers have now also arrived in science communication - but have not been given much scientific attention so far. Lena Kaul, Philipp Schrögel and I want to contribute to closing this research gap with our case study [„Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“](https://www.frontiersin.org/articles/10.3389/fcomm.2020.601177/full). To do this, we took a closer look at YouTube videos from WWF's #EarthOvershootDay campaign.
+{{< licence name="cc-by" >}}
 
-<!--more-->
+Cooperations with influencers have now also arrived in science communication - but have not been given much scientific attention so far. Lena Kaul, Philipp Schrögel and I want to contribute to closing this research gap with our case study [„Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“](https://www.frontiersin.org/articles/10.3389/fcomm.2020.601177/full). To do this, we took a closer look at YouTube videos from WWF's #EarthOvershootDay campaign.
 
 Specifically, we examined three of the nine videos that were published as part of the campaign between 2018 and 2019. Lena Kaul also conducted interviews with the producers and one of the YouTubers involved. In addition, Philipp Schrögel and I subjected the comments on the three videos to a quantitative content analysis.
 
@@ -51,7 +53,7 @@ We examined the following three videos from the campaign:
 |     Average views per video       |     90 650                                                        |     38 659                                                                   |     156 785                                                           |
 |     Date                          |     18.01.2019                                                    |     07.11.2018                                                               |     13.09.2018                                                        |
 |     Length                        |     05m 18s                                                       |     09m 02s                                                                  |     07m 11s                                                           |
-|     Views                         |     125 293                                                       |     15 322                                                                   |     29 821                                                            |
+|     Views                         |    dd41249d2e694dfa83ec6daea0f98287                      |
 |     Likes / Dislikes   (ratio)    |     12330 / 375 (32,88)                                           |     785 / 20 (39,25)                                                         |     3982 / 16 (248,88)                                                |
 |     Number of comments            |     1057                                                          |     87                                                                       |     221                                                               |
 |     Video URL                     |     <https://www.youtube.com/watch?v=Fwz4T63IHmA>                   |     <https://www.youtube.com/watch?v=iwhe6qtTP9k>                              |     <https://www.youtube.com/watch?v=Ja1JSLQGDr8>                       |
@@ -71,3 +73,5 @@ We examined the following three videos from the campaign:
 ## Full text (PDF)
 
 Kaul, L., Schrögel, P., & Humm, C. (2020). Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube. *Frontiers in Communication, 5,* 1–17. <https://doi.org/10.3389/fcomm.2020.601177>
+
+{{< vgwort "dd41249d2e694dfa83ec6daea0f98287" >}}

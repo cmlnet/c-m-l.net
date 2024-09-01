@@ -2,6 +2,7 @@
 title: Neuen Skype-Client auf Arch Linux installieren
 author: Christian Humm
 date: 2016-07-13T17:57:21+00:00
+lastmod: 2020-02-13
 url: /2016/07/13/neuen-skype-client-auf-arch-linux-installieren/
 categories:
   - IT
@@ -12,13 +13,15 @@ tags:
   - Linux
   - Skype
 cover: cover.png
+
+summary: "Heute hat Microsoft endlich einen neuen Skype-Client für Linux veröffentlicht. Die bisherige Version wurde sehr stiefmütterlich gepflegt und hinkte den Versionen für Mac und Windows sichtbar hinterher. Nun also ein neuer Client, basierend auf WebRTC und bisland noch ohne Videotelefonie."
 ---
 
 Heute hat Microsoft endlich einen [neuen Skype-Client für Linux veröffentlicht][1]. Die bisherige Version wurde sehr stiefmütterlich gepflegt und hinkte den Versionen für Mac und Windows sichtbar hinterher. Nun also ein neuer Client, basierend auf WebRTC und bisland noch ohne Videotelefonie ([weitere Details bei heise online][2]). Trotzdem lief das Programm in einem ersten Test bei mir stabil und vor allem optisch deutlich besser aus.
 
-{{< notice note >}}
+{{< alert >}}
 Dieser Beitrag wurde zuletzt am _13. Februar 2020_ aktualisiert. Dabei wurden der Paketname aktualisiert, so dass die Anleitung wieder funktionieren sollte.
-{{< /notice >}}
+{{< /alert >}}
 
 Erfreulicherweise gibt es [im Arch User Repository (AUR) auch schon ein Paket][3] mit dem sich der Client schnell und unkompliziert auf Arch Linux installieren lässt. Dazu einfach folgende Befehle ausführen:
 
