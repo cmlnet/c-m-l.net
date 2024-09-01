@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Administration on c-m-l.net</title>
+    <link>/tags/administration/</link>
+    <description>Recent content in Administration on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <atom:link href="/tags/administration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rugby-trier.de</title>
+      <link>/projects/rugby-trier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/projects/rugby-trier/</guid>
+      <description>Administration und inhatliche Betreuung der Homepage der Rugbyabteilung des FSV Trier-Tarforst.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/rugby-trier/cover_rugby-trier-logo.png" />
+    </item>
+    
+  </channel>
+</rss>

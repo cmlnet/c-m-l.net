@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Access on c-m-l.net</title>
+    <link>/tags/open-access/</link>
+    <description>Recent content in Open Access on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Tue, 31 Mar 2015 08:23:35 +0000</lastBuildDate><atom:link href="/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAPC gibt Einblicke in Kosten für Open Access</title>
+      <link>/2015/03/31/openapc-gibt-einblicke-in-kosten-fuer-open-access/</link>
+      <pubDate>Tue, 31 Mar 2015 08:23:35 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2015/03/31/openapc-gibt-einblicke-in-kosten-fuer-open-access/</guid>
+      <description>Open Access boomt und auch wir befassen uns mit diesem neuen Publikationsmodell in Lehre und Forschung: Etwa wenn wir mit Studierenden besprechen, wie neue Publikationsweisen die Wissenschaftskommunikation insgesamt verändern. Ein neues Projekt liefert jetzt Daten, die spannende Einblicke in diese Veränderungen versprechen.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2015/03/31/openapc-gibt-einblicke-in-kosten-fuer-open-access/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Präsentation: Euroskeptizismus im Europäischen Parlament</title>
+      <link>/2009/07/06/prasentation-euroskeptizismus-im-europaischen-parlament/</link>
+      <pubDate>Mon, 06 Jul 2009 12:40:30 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2009/07/06/prasentation-euroskeptizismus-im-europaischen-parlament/</guid>
+      <description>Im Sinne von Open Access möchte ich in an dieser Stelle in loser Folge der Öffentlichkeit Präsentationen und Hausarbeiten zur Verfügung stellen, die ich im Rahmen von Seminaren an der Universität Trier angefertigt habe.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

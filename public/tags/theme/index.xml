@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme on c-m-l.net</title>
+    <link>/tags/theme/</link>
+    <description>Recent content in Theme on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Sun, 07 Jun 2015 09:40:05 +0000</lastBuildDate><atom:link href="/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arc Theme – ein schönes GTK3, GTK2 und GNOME Shell Design</title>
+      <link>/2015/06/07/arc-theme-ein-schoenes-gtk3-gtk2-und-gnome-shell-design/</link>
+      <pubDate>Sun, 07 Jun 2015 09:40:05 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2015/06/07/arc-theme-ein-schoenes-gtk3-gtk2-und-gnome-shell-design/</guid>
+      <description>Auf meinem Desktop benutzte ich zum arbeiten Linux, genauer gesagt Arch Linux und als Desktop-Environment kommt dort, nach Ausflügen zu XFCE und Cinnamon, schon länger die GNOME Shell zum Einsatz. Das Standardtheme der GNOME Shell – Adwaita – gefällt  mir dabei allerdings nicht wirklich, also bin ich immer auf der Suche nach alernativen Themes für die Shell.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2015/06/07/arc-theme-ein-schoenes-gtk3-gtk2-und-gnome-shell-design/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1335 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
+  data-auto-appearance="true"><head>
+  <meta charset="utf-8" />
+  
+  <meta http-equiv="content-language" content="de" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  
+  <title>HowTo: WebDAV und Plesk 9 &middot; c-m-l.net</title>
+  <meta name="title" content="HowTo: WebDAV und Plesk 9 &middot; c-m-l.net" />
+  
+  <meta name="description" content="Zwar unterstützt Plesk 9 offiziell kein WebDAV und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und Apache2 schnell von der Hand." />
+  <meta name="keywords" content="Apache2, Howto, Plesk, WebDAV, " />
+  
+  
+  <link rel="canonical" href="/2009/08/08/howto-webdav-und-plesk-9/" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.77784b10468bd057620af781c97a06d3aa271b4b4b9f990d9dcb0ac7708d3ae36156343edbd9dc6e631199747b98240baadf08fe9836cc7a39e8586ae4cc2e5a.css"
+    integrity="sha512-d3hLEEaL0FdiCveByXoG06onG0tLn5kNncsKx3CNOuNhVjQ&#43;29ncbmMRmXR7mCQLqt8I/pg2zHo56Fhq5MwuWg==" />
+  
+  
+  <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
+    integrity="sha512-UWoWdFvqWpvQERONJUzA/TlzzVXObhXz3sdj58fCx0SPj&#43;e1TMqBHLghsMfhLNFhyqzh3XlKw9NNQJN8vMnuEg=="></script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.b3e22525a7c62c7b8e4c7c002546ab6498031635fa2d07802d593d476d7ab1262ec61b0cec0fe9f5653e1c9e6c256cbd0b66e5a8421b4f82a7bd2c1d5c901638.js"
+    integrity="sha512-s&#43;IlJafGLHuOTHwAJUarZJgDFjX6LQeALVk9R216sSYuxhsM7A/p9WU&#43;HJ5sJWy9C2blqEIbT4KnvSwdXJAWOA==" data-copy="" data-copied=""></script>
+  
+  
+  
+  <script src="/lib/zoom/zoom.min.37d2094687372da3f7343a221a470f6b8806f7891aa46a5a03966af7f0ebd38b9fe536cb154e6ad28f006d184b294525a7c4054b6bbb4be62d8b453b42db99bd.js" integrity="sha512-N9IJRoc3LaP3NDoiGkcPa4gG94kapGpaA5Zq9/Dr04uf5TbLFU5q0o8AbRhLKUUlp8QFS2u7S&#43;Yti0U7QtuZvQ=="></script>
+  
+  
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:url" content="/2009/08/08/howto-webdav-und-plesk-9/">
+  <meta property="og:site_name" content="c-m-l.net">
+  <meta property="og:title" content="HowTo: WebDAV und Plesk 9">
+  <meta property="og:description" content="Zwar unterstützt Plesk 9 offiziell kein WebDAV und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und Apache2 schnell von der Hand.">
+  <meta property="og:locale" content="de">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2009-08-08T20:39:29+00:00">
+    <meta property="article:modified_time" content="2009-08-08T20:39:29+00:00">
+    <meta property="article:tag" content="Apache2">
+    <meta property="article:tag" content="Howto">
+    <meta property="article:tag" content="Plesk">
+    <meta property="article:tag" content="WebDAV">
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="HowTo: WebDAV und Plesk 9">
+  <meta name="twitter:description" content="Zwar unterstützt Plesk 9 offiziell kein WebDAV und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und Apache2 schnell von der Hand.">
+
+  
+  <script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "articleSection": "Blogposts",
+    "name": "HowTo: WebDAV und Plesk 9",
+    "headline": "HowTo: WebDAV und Plesk 9",
+    
+    "abstract": "Zwar unterstützt Plesk 9 offiziell kein WebDAV und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und Apache2 schnell von der Hand.",
+    "inLanguage": "de",
+    "url" : "\/2009\/08\/08\/howto-webdav-und-plesk-9\/",
+    "author" : {
+      "@type": "Person",
+      "name": "Christian Humm"
+    },
+    "copyrightYear": "2009",
+    "dateCreated": "2009-08-08T20:39:29\u002b00:00",
+    "datePublished": "2009-08-08T20:39:29\u002b00:00",
+    
+    "dateModified": "2009-08-08T20:39:29\u002b00:00",
+    
+    "keywords": ["Apache2","Howto","Plesk","WebDAV"],
+    
+    "mainEntityOfPage": "true",
+    "wordCount": "810"
+  }]
+  </script>
+
+
+  
+  
+  <meta name="author" content="Christian Humm" />
+  
+  
+  
+  <link href="mailto:mail@c-m-l.net" rel="me" />
+  
+  
+  <link href="https://github.com/cmlnet" rel="me" />
+  
+  
+  <link href="https://www.linkedin.com/in/christian-humm/" rel="me" />
+  
+  
+  <link href="https://social.tchncs.de/@cml_net" rel="me" />
+  
+  
+  <link href="https://orcid.org/0000-0001-8789-530X" rel="me" />
+  
+  
+  <link href="https://www.researchgate.net/profile/Christian_Humm" rel="me" />
+  
+  
+  
+  
+
+<script src="/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js" integrity="sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj&#43;KsslFkCOt3TvJrX2AV/Gc3wOqA=="></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  <meta name="theme-color"/>
+  
+  
+</head>
+<body
+  class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
+  <div id="the-top" class="absolute flex self-center">
+    <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
+      href="#main-content"><span
+        class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>Zum Hauptinhalt springen</a>
+  </div>
+  
+  
+  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+    class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
+    
+    
+    
+    <div>
+        <a href="/" class="flex">
+            <span class="sr-only">c-m-l.net</span>
+
+            
+            <img src="/logo_cml.png" width="356" height="356"
+                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="c-m-l.net" />
+            
+
+        </a>
+    </div>
+    
+    <div class="flex flex-1 items-center justify-between">
+        <nav class="flex space-x-3">
+
+            
+            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">c-m-l.net</a>
+            
+
+        </nav>
+        <nav class="hidden md:flex items-center space-x-5 md:ml-12 h-12">
+
+            
+            
+            
+  <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="">
+        Blog
+    </p>
+</a>
+
+
+
+            
+            
+  <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="">
+        Projekte
+    </p>
+</a>
+
+
+
+            
+            
+  <a href="/publikationen/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="">
+        Publikationen &amp; Vorträge
+    </p>
+</a>
+
+
+
+            
+             
+  <div>
+  <div class="cursor-pointer flex items-center nested-menu">
+    
+    <a  href="/ueber/"   class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="">
+      Über mich
+    </a>
+    <span>
+      
+
+  <span class="relative block icon">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+
+  </span>
+
+
+    </span>
+  </div>
+  <div class="absolute menuhide">
+    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
+      <div class="flex flex-col space-y-3">
+        
+        <a href="/kontakt/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            Kontakt
+          </p>
+        </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+            
+            
+
+            
+
+
+            
+            <button id="search-button" aria-label="Search" class="text-base hover:text-primary-600 dark:hover:text-primary-400"
+                title="">
+                
+
+  <span class="relative block icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+            </button>
+            
+
+
+            
+            
+            <div
+                class="ltr:mr-14 rtl:ml-14 flex items-center">
+                <button id="appearance-switcher" aria-label="Dark mode switcher" type="button" class="text-base hover:text-primary-600 dark:hover:text-primary-400">
+                    <div class="flex items-center justify-center dark:hidden">
+                        
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
+
+  </span>
+
+
+                    </div>
+                    <div class="items-center justify-center hidden dark:flex">
+                        
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
+
+  </span>
+
+
+                    </div>
+                </button>
+            </div>
+            
+
+        </nav>
+        <div class="flex md:hidden items-center space-x-5 md:ml-12 h-12">
+
+            <span></span>
+
+            
+
+
+            
+            <button id="search-button-mobile" aria-label="Search" class="text-base hover:text-primary-600 dark:hover:text-primary-400"
+                title="">
+                
+
+  <span class="relative block icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+            </button>
+            
+
+            
+            
+            <button id="appearance-switcher-mobile" aria-label="Dark mode switcher" type="button" class="text-base hover:text-primary-600 dark:hover:text-primary-400" style="margin-right:5px">
+                <div class="flex items-center justify-center dark:hidden">
+                    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
+
+  </span>
+
+
+                </div>
+                <div class="items-center justify-center hidden dark:flex">
+                    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
+
+  </span>
+
+
+                </div>
+            </button>
+            
+
+        </div>
+    </div>
+    <div class="-my-2 -mr-2 md:hidden">
+
+        <label id="menu-button" for="menu-controller" class="block">
+            <input type="checkbox" id="menu-controller" class="hidden" />
+            
+            <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
+                
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"/></svg>
+
+  </span>
+
+
+            </div>
+            <div id="menu-wrapper" style="padding-top:5px;"
+                class="fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50">
+                <ul
+                    class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
+
+                    <li>
+                        <span
+                            class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
+
+  </span>
+
+</span>
+                    </li>
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            Blog
+        </p>
+    </a>
+</li>
+
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            Projekte
+        </p>
+    </a>
+</li>
+
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/publikationen/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            Publikationen &amp; Vorträge
+        </p>
+    </a>
+</li>
+
+
+
+
+                    
+
+                     
+  <li class="mt-1">
+    <a class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            Über mich
+        </p>
+        <span>
+            
+
+  <span class="relative block icon">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+
+  </span>
+
+
+        </span>
+    </a>
+</li>
+
+<li class="mt-1">
+    <a href="/kontakt/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            Kontakt
+        </p>
+    </a>
+</li>
+
+<li class="mb-2"></li>
+
+
+
+
+                    
+
+                </ul>
+                
+                
+
+            </div>
+        </label>
+    </div>
+</div>
+
+
+
+
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
+
+  
+  <div class="relative flex flex-col grow">
+    <main id="main-content" class="grow">
+      
+
+
+<article>
+  
+  
+  
+  
+  
+  
+ 
+
+  
+  
+
+  <header id="single_header" class="mt-5 max-w-prose">
+    
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+      HowTo: WebDAV und Plesk 9
+    </h1>
+    <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+      
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2009-08-08 20:39:29 &#43;0000 &#43;0000">8 August 2009</time><span class="px-2 text-primary-500">&middot;</span><span>810 Wörter</span><span class="px-2 text-primary-500">&middot;</span><span title="Lesezeit">4 min</span><span class="px-2 text-primary-500">&middot;</span>
+
+
+  
+  
+
+<span class="mb-[2px]">
+  <a
+    href="https://github.com/cmlnet/repo/posts/2009-08-08-howto-webdav-und-plesk-9/index.de.md"
+    class="text-lg hover:text-primary-500"
+    rel="noopener noreferrer"
+    target="_blank"
+    title="Inhalt bearbeiten"
+    ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path fill="currentColor" d="M441 58.9L453.1 71c9.4 9.4 9.4 24.6 0 33.9L424 134.1 377.9 88 407 58.9c9.4-9.4 24.6-9.4 33.9 0zM209.8 256.2L344 121.9 390.1 168 255.8 302.2c-2.9 2.9-6.5 5-10.4 6.1l-58.5 16.7 16.7-58.5c1.1-3.9 3.2-7.5 6.1-10.4zM373.1 25L175.8 222.2c-8.7 8.7-15 19.4-18.3 31.1l-28.6 100c-2.4 8.4-.1 17.4 6.1 23.6s15.2 8.5 23.6 6.1l100-28.6c11.8-3.4 22.5-9.7 31.1-18.3L487 138.9c28.1-28.1 28.1-73.7 0-101.8L474.9 25C446.8-3.1 401.2-3.1 373.1 25zM88 64C39.4 64 0 103.4 0 152V424c0 48.6 39.4 88 88 88H360c48.6 0 88-39.4 88-88V312c0-13.3-10.7-24-24-24s-24 10.7-24 24V424c0 22.1-17.9 40-40 40H88c-22.1 0-40-17.9-40-40V152c0-22.1 17.9-40 40-40H200c13.3 0 24-10.7 24-24s-10.7-24-24-24H88z"/></svg>
+  </span>
+
+</span></a
+  >
+</span><span class="px-2 text-primary-500">&middot;</span>
+
+
+<script type="text/javascript" src="/js/zen-mode.min.63c8a202661f4a2063fdc2706685d668e8ea3da613da2224e9da527e5876e4f53dcac39ab60732626fb4151feae5d430d0cf44731e5d3c726522fcc1519c1547.js" integrity="sha512-Y8iiAmYfSiBj/cJwZoXWaOjqPaYT2iIk6dpSflh25PU9ysOatgcyYm&#43;0FR/q5dQw0M9Ecx5dPHJlIvzBUZwVRw=="></script>
+
+<span class="mb-[2px]">
+    <span id="zen-mode-button"
+          class="text-lg hover:text-primary-500"
+          title=""
+          data-title-i18n-disable=""
+          data-title-i18n-enable="">
+        <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50px" height="50px">
+    <path fill="currentColor" d="M 12.980469 4 C 9.1204688 4 5.9804688 7.14 5.9804688 11 L 6 26 L 9.9804688 26 L 9.9804688 11 C 9.9804688 9.35 11.320469 8 12.980469 8 L 40.019531 8 C 41.679531 8 43.019531 9.35 43.019531 11 L 43.019531 39 C 43.019531 40.65 41.679531 42 40.019531 42 L 29 42 C 29 43.54 28.420938 44.94 27.460938 46 L 40.019531 46 C 43.879531 46 47.019531 42.86 47.019531 39 L 47.019531 11 C 47.019531 7.14 43.879531 4 40.019531 4 L 12.980469 4 z M 7 28 C 4.794 28 3 29.794 3 32 L 3 42 C 3 44.206 4.794 46 7 46 L 23 46 C 25.206 46 27 44.206 27 42 L 27 32 C 27 29.794 25.206 28 23 28 L 7 28 z M 7 32 L 23 32 L 23.001953 42 L 7 42 L 7 32 z"/>
+</svg>
+  </span>
+
+</span>
+    </span>
+</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/server/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Server
+  </span>
+</span>
+  </span>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/apache2/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Apache2
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/howto/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Howto
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/plesk/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Plesk
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/webdav/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    WebDAV
+  </span>
+</span>
+  </span>
+  
+  
+  
+  
+</div>
+
+
+
+    </div>
+
+    
+    
+    
+    
+    
+
+    
+
+    
+      
+      
+
+      
+
+      
+
+    
+
+  </header>
+  
+  <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-10">
+
+         <details open id="TOCView"
+  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Inhaltsverzeichnis
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-aktivieren-des-apache-moduls">1. Aktivieren des Apache-Moduls</a></li>
+    <li><a href="#2-anlegen-der-lockdb">2. Anlegen der LockDB</a></li>
+    <li><a href="#3-anlegen-des-webdav-verzeichnisses">3. Anlegen des WebDAV-Verzeichnisses</a></li>
+    <li><a href="#4-konfiguration-des-verzeichnisses">4. Konfiguration des Verzeichnisses</a></li>
+    <li><a href="#5-schutz-des-verzeichnisses-in-plesk-9">5. Schutz des Verzeichnisses in Plesk 9</a></li>
+    <li><a href="#6-neustart-des-apache">6. Neustart des Apache</a></li>
+    <li><a href="#hinweise">Hinweise</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Inhaltsverzeichnis
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-aktivieren-des-apache-moduls">1. Aktivieren des Apache-Moduls</a></li>
+    <li><a href="#2-anlegen-der-lockdb">2. Anlegen der LockDB</a></li>
+    <li><a href="#3-anlegen-des-webdav-verzeichnisses">3. Anlegen des WebDAV-Verzeichnisses</a></li>
+    <li><a href="#4-konfiguration-des-verzeichnisses">4. Konfiguration des Verzeichnisses</a></li>
+    <li><a href="#5-schutz-des-verzeichnisses-in-plesk-9">5. Schutz des Verzeichnisses in Plesk 9</a></li>
+    <li><a href="#6-neustart-des-apache">6. Neustart des Apache</a></li>
+    <li><a href="#hinweise">Hinweise</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+<script>
+
+  var margin = 200;
+  var marginError = 50;
+
+  (function () {
+    var $window = $(window);
+    var $toc = $('#TOCView');
+    var tocHeight = $toc.height();
+
+    function onResize() {
+      var windowAndMarginHeight = $window.height() - margin;
+      if(tocHeight >= windowAndMarginHeight) {
+        $toc.css("overflow-y", "scroll")
+        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
+      } else {
+        $toc.css("overflow-y", "hidden")
+        $toc.css("max-height", "9999999px")
+      }
+    }
+
+    $window.on('resize', onResize);
+    $(document).ready(onResize);
+  })();
+
+
+
+</script>
+   </div>
+      </div>
+      
+
+      <div class="min-w-0 min-h-0 max-w-fit">
+        
+        
+
+
+        <div class="article-content max-w-prose mb-20">
+          <p>Zwar unterstützt <a href="http://www.parallels.com/de/products/plesk/"title="Offizielle Produktseite zu Parallels Plesk Panal" target="_blank">Plesk</a> 9 offiziell kein <a href="http://de.wikipedia.org/wiki/WebDAV"title="Wikipedia Artikel zu WebDAV" target="_blank">WebDAV</a> und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und <a href="http://de.wikipedia.org/wiki/Apache_HTTP_Server"title="Wikipedia Artikel zu dem HTTP-Server Apache" target="_blank">Apache2</a> schnell von der Hand.</p>
+
+
+<h2 class="relative group">1. Aktivieren des Apache-Moduls 
+    <div id="1-aktivieren-des-apache-moduls" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-aktivieren-des-apache-moduls" aria-label="Anker">#</a>
+    </span>        
+    
+</h2>
+<p>Bevor man WebDAV benutzen kann, müssen zuerst einmal die beiden Module mod_dav und mod_davfs für den Apache2 aktiviert werden. Dazu gehe ich im folgenden von Ubuntu 8.04 LTS als zugrundeliegender Distribution aus, bei anderen Distributionen kann sich das Vorgehen stark unterscheiden.</p>
+<p>Normalerweise müssten die beiden benötigten Mods schon mit dem Apache2 mitgeliefert werden, d.h.  es müssen keine neuen Pakete installiert werden.</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><p><strong>UPDATE 10. August 2009</strong></p>
+<p>Noch einfacher geht das ganz mit dem kleinen Tool <code>a2enmod</code>, welches zumindest bei mir schon mit den Apache2 Paketen installiert wurde. Es genügt einfach folgende 2 Befehle auszuführen und man spart sich das Anlegen von symbolischen Verknüpfungen (auch die in Schritt 2):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">a2enmod dav
+</span></span><span class="line"><span class="cl">a2enmod dav_fs
+</span></span></code></pre></div></span>
+</div>
+
+<p>Alle für Apache momentan verfügbaren Mods werden im Verzeichnis <code>/etc/apache2/mods-available</code> aufgelistet. Dort sollten sich auch die beiden Dateien <code>dav.load</code> und <code>dav_fs.load</code> finden lassen. Um diese nun zu aktivieren gilt es eine symbolische Verknüpfung zu ihnen im Verzeichnis <code>/etc/apache2/mods-enabled</code> anzulegen:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">ln -s /etc/apache2/mods-available/dav.load /etc/apache2/mods-enabled/dav.load
+</span></span><span class="line"><span class="cl">ln -s /etc/apache2/mods-available/dav_fs.load /etc/apache2/mods-enabled/dav_fs.load
+</span></span></code></pre></div><p>Nachdem der Apache neu gestartet wurde, lädt er die beiden Module. Um das zu überprüfen kann man auf der Konsole <em>apache2ctl -M</em> eingeben, dort werden dann alle geladenen Module ausgegeben.</p>
+
+
+<h2 class="relative group">2. Anlegen der LockDB 
+    <div id="2-anlegen-der-lockdb" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-anlegen-der-lockdb" aria-label="Anker">#</a>
+    </span>        
+    
+</h2>
+<p>Jetzt muss noch die sogenannte LockDB angelegt werden. Hierzu muss zuerst ein Verzeichnis angelegt und mit den richtigen Zugriffsrechten ausgestattet werden:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">mkdir /var/lock/dav
+</span></span><span class="line"><span class="cl">chmod <span class="m">755</span> /var/lock/dav
+</span></span><span class="line"><span class="cl">chown www-data /var/lock/dav
+</span></span></code></pre></div><p><em>www-data</em> ist dabei durch den Benutzer zu ersetzen unter dem Apache läuft und ist von Distribution zu Distribution unterschiedlich.</p>
+<p>Nun muss der Ort der LockDB noch dem Apache mitgeteilt werden. Dazu öffnet man die Datei <em>/etc/apache2/mods-available/dav_fs.conf</em> bzw. legt sie an falls sie noch nicht existiert und schreibt folgendes hinein:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">DAVLockDB <span class="s2">&#34;/var/lock/dav/lockdb&#34;</span>
+</span></span></code></pre></div><p><em>lockdb</em> bezeichnet dabei eine Datei die der Server selbst anlegt. Die Konfigurationsdatei muss jetzt wieder mit Hilfe eines Symlinks so verknüpft werden, dass sie beim Start des Servers berücksichtigt wird:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">ln -s /etc/apache2/mods-available/dav_fs.conf /etc/apache2/mods-enabled/dav_fs.conf
+</span></span></code></pre></div>
+
+<h2 class="relative group">3. Anlegen des WebDAV-Verzeichnisses 
+    <div id="3-anlegen-des-webdav-verzeichnisses" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-anlegen-des-webdav-verzeichnisses" aria-label="Anker">#</a>
+    </span>        
+    
+</h2>
+<p>Nun sind alle Vorarbeiten abgeschlossen und es geht an die eigentliche Einrichtung des WebDAV-Verzeichnisses. Zuerst muss dabei wieder der Ordner selbst angelegt und mit den richtigen Zugriffsrechten ausgerichtet werden:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">mkdir /var/www/vhosts/meinedomain.tld/httpdocs/webdav
+</span></span><span class="line"><span class="cl">chmod <span class="m">755</span> /var/www/vhosts/meinedomain.tld/httpdocs/webdav
+</span></span><span class="line"><span class="cl">chown www-data /var/www/vhosts/meinedomain.tld/httpdocs/webdav
+</span></span></code></pre></div>
+
+<h2 class="relative group">4. Konfiguration des Verzeichnisses 
+    <div id="4-konfiguration-des-verzeichnisses" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-konfiguration-des-verzeichnisses" aria-label="Anker">#</a>
+    </span>        
+    
+</h2>
+<p>Die Konfiguration geschieht über die Datei <em>vhost_ssl.conf</em> unter <em>/var/www/vhosts/meinedomain.tld/conf/</em> . In diese Datei gehört dabei mindestens folgende Angabe:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">&lt;Directory /var/www/vhosts/meinedomain.tld/httpdocs/webdav&gt;
+</span></span><span class="line"><span class="cl">DAV on
+</span></span><span class="line"><span class="cl">&lt;/Directory&gt;
+</span></span></code></pre></div><p>Weitere sinnvolle Konfigurationsoptionen die nach “DAV on” eingefügten werden können sind zum Beispiel:</p>
+<ul>
+<li><strong>AllowOverride none</strong><br />
+Sorgt dafür, dass eine .htaccess im WebDAV-Verzeichnis nicht interpretiert wird.</li>
+<li><strong>RewriteEngine Off</strong><br />
+Sorgt dafür, dass etwaige Rewrite Rules nicht zur Anwendung kommen. Dies ist insbesondere dann sinnvoll, wenn WebDAV nicht funktioniert und im ErrorLog des Apache die Fehlermeldung <em>“Cannot create collection; intermediate collection does not exist.”</em> auftaucht.</li>
+<li><strong>ForceType text/plain</strong><br />
+Sorgt dafür, dass Skripte im WebDAV-Ordner nicht interpretiert werden.</li>
+<li><strong>Options Indexes</strong><br />
+Erlaubt das Auflisten des Verzeichnisinhalts.</li>
+</ul>
+
+
+<h2 class="relative group">5. Schutz des Verzeichnisses in Plesk 9 
+    <div id="5-schutz-des-verzeichnisses-in-plesk-9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-schutz-des-verzeichnisses-in-plesk-9" aria-label="Anker">#</a>
+    </span>        
+    
+</h2>
+<p>Jetzt funktioniert zwar WebDAV, aber jeder kann in das Verzeichnis schreiben, was natürlich möglichst vermieden werden sollte. Deshalb gilt es einen Verzeichnisschutz einzurichten, sodass nur nach Eingabe des richtigen Usernamens und Passworts ein Zugriff möglich ist. Am einfachsten lässt sich dies über Plesk selbst erledigen.</p>
+<p>Hierzu ruft man in Plesk die Übersichtsseite für die jeweilige Domain auf und klickt dort auf <em>Password Protected Directories</em> (1):</p>
+
+<figure>
+        <img
+          class="my-0 rounded-md"
+          srcset="
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_01_hu8d831537fe598345d3d54fa03343cd33_32028_330x0_resize_box_3.png 330w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_01_hu8d831537fe598345d3d54fa03343cd33_32028_660x0_resize_box_3.png 660w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_01_hu8d831537fe598345d3d54fa03343cd33_32028_1024x0_resize_box_3.png 1024w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_01_hu8d831537fe598345d3d54fa03343cd33_32028_1320x0_resize_box_3.png 2x"
+          src="/2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_01_hu8d831537fe598345d3d54fa03343cd33_32028_660x0_resize_box_3.png"
+          alt=""
+        />
+  <figcaption>Aufruf <em>Password Protected Directories</em></figcaption>
+  
+  </figure>
+<p>Im zweiten Schritt muss dann <em>Add Protected Directory</em> angeklickt werden (2):</p>
+
+<figure>
+        <img
+          class="my-0 rounded-md"
+          srcset="
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_02_huc185a137389ca2aa4faf36c296fba6ff_13170_330x0_resize_box_3.png 330w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_02_huc185a137389ca2aa4faf36c296fba6ff_13170_660x0_resize_box_3.png 660w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_02_huc185a137389ca2aa4faf36c296fba6ff_13170_1024x0_resize_box_3.png 1024w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_02_huc185a137389ca2aa4faf36c296fba6ff_13170_1320x0_resize_box_3.png 2x"
+          src="/2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_02_huc185a137389ca2aa4faf36c296fba6ff_13170_660x0_resize_box_3.png"
+          alt=""
+        />
+  <figcaption>Aufruf <em>Add Protected Directory</em></figcaption>
+  
+  </figure>
+<p>Auf der sich nun öffneten Seite muss das WebDAV-Verzeichnis eingeben werden und zwar relativ zum Order <em>httpdocs</em> der Domain. In unserem Fall muss also <em>/webdav</em> eingetragen werden (3). Dann heißt es nochmal auf <em>OK</em> klicken (3):</p>
+
+<figure>
+        <img
+          class="my-0 rounded-md"
+          srcset="
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_03_hufe7ec4028c2ecc139ba18572d235e432_9972_330x0_resize_box_3.png 330w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_03_hufe7ec4028c2ecc139ba18572d235e432_9972_660x0_resize_box_3.png 660w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_03_hufe7ec4028c2ecc139ba18572d235e432_9972_1024x0_resize_box_3.png 1024w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_03_hufe7ec4028c2ecc139ba18572d235e432_9972_1320x0_resize_box_3.png 2x"
+          src="/2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_03_hufe7ec4028c2ecc139ba18572d235e432_9972_660x0_resize_box_3.png"
+          alt=""
+        />
+  <figcaption>Angeben des zu schützenden Verzeichnisses</figcaption>
+  
+  </figure>
+<p>Nun wird man auf eine weitere Seite weitergeleitet. Hier gilt es nun einen neuen Benutzer für dieses Verzeichnis anzulegen. Wie zu vermuten sollte man dazu auf Add New User klicken (5):</p>
+
+<figure>
+        <img
+          class="my-0 rounded-md"
+          srcset="
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_04_hu7431ef97f385bcb519df41c4cf87fadc_8911_330x0_resize_box_3.png 330w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_04_hu7431ef97f385bcb519df41c4cf87fadc_8911_660x0_resize_box_3.png 660w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_04_hu7431ef97f385bcb519df41c4cf87fadc_8911_1024x0_resize_box_3.png 1024w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_04_hu7431ef97f385bcb519df41c4cf87fadc_8911_1320x0_resize_box_3.png 2x"
+          src="/2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_04_hu7431ef97f385bcb519df41c4cf87fadc_8911_660x0_resize_box_3.png"
+          alt=""
+        />
+  <figcaption>Aufruf <em>Add New User</em></figcaption>
+  
+  </figure>
+<p>Jetzt muss nur noch ein Username (1) und zweimal ein Passwort eingetragen werden (2):</p>
+
+<figure>
+        <img
+          class="my-0 rounded-md"
+          srcset="
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_05_hu78b5c53efd091f1833089638d8f7f3fa_9790_330x0_resize_box_3.png 330w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_05_hu78b5c53efd091f1833089638d8f7f3fa_9790_660x0_resize_box_3.png 660w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_05_hu78b5c53efd091f1833089638d8f7f3fa_9790_1024x0_resize_box_3.png 1024w,
+          /2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_05_hu78b5c53efd091f1833089638d8f7f3fa_9790_1320x0_resize_box_3.png 2x"
+          src="/2009/08/08/howto-webdav-und-plesk-9/img/plesk_webdav_screenshot_05_hu78b5c53efd091f1833089638d8f7f3fa_9790_660x0_resize_box_3.png"
+          alt=""
+        />
+  <figcaption>Festlegen von Benutzername und Passwort</figcaption>
+  
+  </figure>
+<p>Jetzt ist das Verzeichniss vor unbefugten Zugriff geschützt und wir können mit dem letzten Schritt weitermachen.</p>
+
+
+<h2 class="relative group">6. Neustart des Apache 
+    <div id="6-neustart-des-apache" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#6-neustart-des-apache" aria-label="Anker">#</a>
+    </span>        
+    
+</h2>
+<p>Nun müssen die zahlreichen Konfigurationsänderungen noch Plesk respektive dem Apache2 mitgeteilt werden. Dazu dient folgender Befehl:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">/usr/local/psa/admin/sbin/websrvmng -v -a
+</span></span></code></pre></div><p>Jetzt sollte das Verzeichnis unter <code>https://meinedomain.tld/webdav/</code> angesprochen werden können. Wer gerne testen möchte, ob alles klappt, dem sei <a href="http://www.webdav.org/cadaver/" target="_blank">cadaver</a> empfohlen, ein kleiner WebDAV-Client für die Konsole.</p>
+<p>Wenn es nicht klappt, dann ist oftmals ein Blick in das Fehlerprotokoll des Apache hilfreich. Dieses sollte sich bei Webservern mit Plesk üblicherweise unter <code>/var/www/vhosts/meinedomain.tld/statistics/logs</code> zu finden.</p>
+
+
+<h2 class="relative group">Hinweise 
+    <div id="hinweise" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#hinweise" aria-label="Anker">#</a>
+    </span>        
+    
+</h2>
+<p>Besonderer Dank gilt an dieser Stelle Otto Berger der in seinem Blog bergercity.de bereits <a href="http://www.bergercity.de/linux/plesk-webdav-nutzen/"title="Plesk: WebDAV nutzen" target="_blank">eine ähnliche Anleitung veröffentlicht</a> hat, die mir beim experimentieren mit Plesk und WebDAV eine große Hilfe war.</p>
+
+
+
+
+
+<img src="https://vg08.met.vgwort.de/na/3ae1af2ce63244a0ae184a92c8ef0081" width="0" height="0" alt="VG Wort tracking pixel">
+
+          
+          
+          
+            <strong class="block mt-8">
+              <a target="_blank" 
+              class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+              href="mailto:mail@c-m-l.net?subject=Reply%20to%20HowTo%3a%20WebDAV%20und%20Plesk%209">
+                Reply by Email
+              </a>
+            </strong>
+          
+        </div>
+        
+        
+
+        
+        
+
+          
+      </div>
+     
+      
+      
+        
+        
+          
+          
+        
+      <script>
+        var oid = "views_posts\/2009-08-08-howto-webdav-und-plesk-9\/index.md"
+        var oid_likes = "likes_posts\/2009-08-08-howto-webdav-und-plesk-9\/index.md"
+      </script>
+      
+      
+      <script type="text/javascript" src="/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
+      
+  
+    </section>
+  <footer class="pt-8 max-w-prose print:hidden">
+
+    
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="flex justify-between pt-3">
+        <span>
+          
+            <a class="flex group mr-3" href="/2009/08/01/sieh-um-dich-lokales-fernsehmagazin-der-trierer-medienwissenschaft-folge-2/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Sieh um Dich – Lokales Fernsehmagazin der Trierer Medienwissenschaft (Folge 2)</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2009-08-01 20:26:49 &#43;0000 &#43;0000">1 August 2009</time>
+                  
+                </span>
+              </span>
+            </a>
+          
+        </span>
+        <span>
+          
+            <a class="flex text-right group ml-3" href="/2009/08/09/lesetipp-machtinstrument-e-petition-die-online-opposition-taz/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Lesetipp: Machtinstrument E-Petition – Die Online-Opposition (taz)</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2009-08-09 09:10:06 &#43;0000 &#43;0000">9 August 2009</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
+  
+
+
+    
+  </footer>
+</article>
+
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Zum Anfang scrollen" title="Zum Anfang scrollen">
+    &uarr;
+  </a>
+</div>
+    </main><footer id="site-footer" class="py-10 print:hidden">
+  
+  
+    
+    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
+      <ul class="flex flex-col list-none sm:flex-row">
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/impressum/"
+            title="">
+            
+            Impressum
+          </a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/datenschutzerklaerung/"
+            title="">
+            
+            Datenschutzerklärung
+          </a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/categories/"
+            title="">
+            
+            Kategorien
+          </a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/tags/"
+            title="">
+            
+            Tags
+          </a>
+        </li>
+        
+      </ul>
+    </nav>
+    
+  
+  <div class="flex items-center justify-between">
+
+    
+    
+    <p class="text-sm text-neutral-500 dark:text-neutral-400">
+      &copy;
+      2024
+      Christian Humm
+    </p>
+    
+
+    
+    
+    <p class="text-xs text-neutral-500 dark:text-neutral-400">
+      
+      
+      Erstellt mit <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
+    </p>
+    
+
+  </div>
+  <script>
+    
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
+    
+  </script>
+  
+  
+  <script type="text/javascript" src="/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js" integrity="sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh&#43;sCQ0E53ghYrxgYqw&#43;0GCRyIEpA=="></script>
+  
+  
+</footer>
+<div
+  id="search-wrapper"
+  class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
+  data-url="/"
+  style="z-index:500"
+>
+  <div
+    id="search-modal"
+    class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+  >
+    <header class="relative z-10 flex items-center justify-between flex-none px-2">
+      <form class="flex items-center flex-auto min-w-0">
+        <div class="flex items-center justify-center w-8 h-8 text-neutral-400">
+          
+
+  <span class="relative block icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+        </div>
+        <input
+          type="search"
+          id="search-query"
+          class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
+          placeholder="Suchen"
+          tabindex="0"
+        />
+      </form>
+      <button
+        id="close-search-button"
+        class="flex items-center justify-center w-8 h-8 text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+        title="Schließen (Esc)"
+      >
+        
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
+
+  </span>
+
+
+      </button>
+    </header>
+    <section class="flex-auto px-2 overflow-auto">
+      <ul id="search-results">
+        
+      </ul>
+    </section>
+  </div>
+</div>
+
+  </div>
+</body>
+
+</html>

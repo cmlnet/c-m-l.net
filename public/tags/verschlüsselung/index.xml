@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verschlüsselung on c-m-l.net</title>
+    <link>/tags/verschl%C3%BCsselung/</link>
+    <description>Recent content in Verschlüsselung on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Sat, 21 Jun 2014 12:56:22 +0000</lastBuildDate><atom:link href="/tags/verschl%C3%BCsselung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HowTo: EncFS unter Mac OS X 10.9 (Mavericks)</title>
+      <link>/2014/06/21/encfs-unter-mac-os-x-10-9-mavericks/</link>
+      <pubDate>Sat, 21 Jun 2014 12:56:22 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2014/06/21/encfs-unter-mac-os-x-10-9-mavericks/</guid>
+      <description>Möchte man seine Daten sicher in bei Dropbox, Google Drive, OneDrive oder sonst irgendeinem Clouddienst speichern, hat man prinzipiell mehrere Möglichkeiten. Man kann den Beteuerungen der Anbieter, dass sie ihre Dienste und Daten sicher speichern glauben schenken (Copy etwa wirbt damit, dass die Daten mit 256 AES verschlüsselt würden). Man kann selbst einen Cloudspeicher hosten, etwa mittels ownCloud. Allerdings sollte dabei beachtet werden, dass das ganze dann natürlich nicht kostenlos ist und auch nur sicher, wenn man entsprechende Ahnung von Serveradministration und -absicherung hat. Man kann aber einen der großen Dienste nutzen und die Daten dabei nochmal extra verschlüsseln.</description>
+      
+    </item>
+    
+    <item>
+      <title>whistle.im unsicher – Mögliche Messenger-Alternativen</title>
+      <link>/2013/08/19/whistle-im-unsicher-moegliche-messenger-alternativen/</link>
+      <pubDate>Mon, 19 Aug 2013 19:38:41 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2013/08/19/whistle-im-unsicher-moegliche-messenger-alternativen/</guid>
+      <description>Während WhatsApp weiterhin als unsicherer Sofortnachrichtendienst gilt, versuchen sich momentan in der Bugwelle PRISM-Skandals diverse Anbieter mit angeblich sicheren Alternativen am Markt zu positionieren. Eine dieser Alternativen ist whistle.im, dass von zwei deutschen Studenten entwickelt wird. Laut eigener Aussage soll dieser Messenger Kinderleicht zu bedienen und dennoch abhörsicher sein. Allzu viel scheint an diesem Versprechen aber nicht dran zu sein, wie eine Analyse des CCC-Mitglieds &lt;em&gt;nexus&lt;/em&gt; zeigt.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

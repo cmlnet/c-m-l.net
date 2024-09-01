@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Offene Wissenschaft on c-m-l.net</title>
+    <link>/tags/offene-wissenschaft/</link>
+    <description>Recent content in Offene Wissenschaft on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/offene-wissenschaft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wissenschaftskommunikation auf YouTube: Fallstudie zum Earth Overshoot Day</title>
+      <link>/posts/2020-12-14-frontiers-earthovershootday/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/posts/2020-12-14-frontiers-earthovershootday/</guid>
+      <description>Kooperationen mit Influencern sind inzwischen auch in der Wissenschaftskommunikation angekommen – wurden aber bisher wissenschaftlich wenig in den Blick genommen. Lena Kaul, Philipp Schrögel und ich wollen mit unserer Fallstudie „Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube“ zur Schließung dieser Forschungslücke beitragen. Dazu haben wir uns YouTube-Videos aus der WWF-Kampagne zum #EarthOvershootDay näher angeschaut.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/2020-12-14-frontiers-earthovershootday/cover.png" />
+    </item>
+    
+    <item>
+      <title>Seminarplan zum Propädeutikum im BA-Studiengang „Wissenschaft – Medien – Kommunikation“</title>
+      <link>/2020/05/09/seminarplan-zum-propaedeutikum-im-ba-studiengang-wissenschaft-medien-kommunikation/</link>
+      <pubDate>Sat, 09 May 2020 16:52:41 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2020/05/09/seminarplan-zum-propaedeutikum-im-ba-studiengang-wissenschaft-medien-kommunikation/</guid>
+      <description>Seit einigen Semestern lehre ich regelmäßig das Propädeutikum im Bachelor-Studiengang „Wissenschaft – Medien – Kommunikation“ am &lt;em&gt;Department für Wissenschaftskommunikation&lt;/em&gt; des Karlsruher Instituts für Technologie (KIT). &lt;br /&gt; Das Propädeutikum dient dort als Einführung in das wissenschaftliche Arbeiten für die Studierenden im ersten Semester. Ob es seinen Zweck erfüllt ist natürlich etwas schwierig zu beurteilen, aber da das Seminar bisher immer von den Teilnehmer*innen sehr gut evaluiert wurde, mag der folgende Seminarplan vielleicht als Inspirationsquelle für ähnliche Lehrveranstaltungen ganz interessant sein.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2020/05/09/seminarplan-zum-propaedeutikum-im-ba-studiengang-wissenschaft-medien-kommunikation/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

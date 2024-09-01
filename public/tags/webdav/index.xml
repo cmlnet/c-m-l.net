@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebDAV on c-m-l.net</title>
+    <link>/tags/webdav/</link>
+    <description>Recent content in WebDAV on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Sat, 08 Aug 2009 20:39:29 +0000</lastBuildDate><atom:link href="/tags/webdav/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HowTo: WebDAV und Plesk 9</title>
+      <link>/2009/08/08/howto-webdav-und-plesk-9/</link>
+      <pubDate>Sat, 08 Aug 2009 20:39:29 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2009/08/08/howto-webdav-und-plesk-9/</guid>
+      <description>Zwar unterstützt Plesk 9 offiziell kein WebDAV und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und Apache2 schnell von der Hand.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

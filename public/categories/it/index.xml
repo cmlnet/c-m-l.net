@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on c-m-l.net</title>
+    <link>/categories/it/</link>
+    <description>Recent content in IT on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 17:00:00 +0000</lastBuildDate><atom:link href="/categories/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R: YouTube Kommentare mit vosonSML auslesen</title>
+      <link>/2020/02/13/r-youtube-kommentare-mit-vosonsml-auslesen/</link>
+      <pubDate>Thu, 13 Feb 2020 17:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2020/02/13/r-youtube-kommentare-mit-vosonsml-auslesen/</guid>
+      <description>YouTube ist eine enorm populäre Seite und entsprechend interessant auch für die Forschung. Egal ob es dabei um Wissenschaftskommunikation, die Erforschung von Verschwörungstheorien oder Jugendkultur geht, nicht nur die Videos selbst sind relevant, sondern auch die Kommentarspalte unter selbigen. &lt;br /&gt; In den Kommentaren reagieren die Nutzer:innen auf die Videos, interagieren und diskutieren mit deren Macher:innen und anderen User:innen. Doch um YouTube Kommentare zu analysieren, muss man sie erst einmal sichern. &lt;br /&gt; Hierfür eignet sich [R] und das Paket [vosonSML] bestens. Wie man damit YouTube Kommentare sichert, zeige ich euch im Folgenden.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2020/02/13/r-youtube-kommentare-mit-vosonsml-auslesen/cover.png" />
+    </item>
+    
+    <item>
+      <title>LaTeX 101: Manuelle Zeilenumbrüche in Tabellenzellen</title>
+      <link>/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/</link>
+      <pubDate>Tue, 17 Dec 2019 19:39:49 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/</guid>
+      <description>&lt;p&gt;Manchmal braucht man manuelle Textumbrüche in Tabellenzellen. Was in Word oder LibreOffice selbstverständlich und einfach funktioniert, ist in LaTeX gar nicht so einfach. Die herkömmliche Methode mittels &lt;code&gt;\\&lt;/code&gt; oder &lt;code&gt;\linebreak&lt;/code&gt; einen Zeilenumbruch zu setzen, kann in Tabellenumgebungen nämlich nicht benutzt werden. Aber wie für alles gibt es auch hierfür natürlich eine Lösung in LaTeX – in Wirklichkeit gibt es natürlich wahrscheinlich zig Lösungen, aber das sind die zwei von mir benutzten.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/cover.png" />
+    </item>
+    
+    <item>
+      <title>Synchronisierungsprobleme zwischen Zotero und Papership (temporär) beheben</title>
+      <link>/2019/05/03/synchronisierungsprobleme-zwischen-zotero-und-papership-temporaer-beheben/</link>
+      <pubDate>Fri, 03 May 2019 07:16:10 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2019/05/03/synchronisierungsprobleme-zwischen-zotero-und-papership-temporaer-beheben/</guid>
+      <description>Zotero ist ein ziemlich großartiges Literaturverwaltungsprogramm, dem es allerdings an tauglichen Apps für Tablets fehlt. Eine Ausnahme ist Papership für iOS. Mit dieser App ist es möglich nicht nur möglich die in Zotero angelegte Literatursammlung zu verwalten, sondern auch Texte zu annotieren. &lt;br /&gt; Umso schmerzlicher also, dass Papership nicht mehr aktiv gepflegt wird und es mit der aktuellen Version von Zotero zu Problemen bei Synchronisierung von angehängten Dateien, ergo Texten, kommt. Glücklicherweise lässt sich das Problem relativ schnell lösen – zumindest vorübergehend.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2019/05/03/synchronisierungsprobleme-zwischen-zotero-und-papership-temporaer-beheben/cover.png" />
+    </item>
+    
+    <item>
+      <title>Tabelle und Spielplan von Rugbyweb in WordPress einbinden</title>
+      <link>/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/</link>
+      <pubDate>Thu, 22 Mar 2018 10:39:48 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/</guid>
+      <description>Auf rugbyweb.de werden alle Ergebnisse und Spielpläne der verschiednen deutschen Rugby Union Ligen veröffentlicht. Leider hat die Seite den Charme der 90er Jahre und eine API zur Abfrage von Tabellensituationen, der Zusammensetzung von Ligen, Spielplänen oder Spielergebnissen gibt es nicht.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/cover.png" />
+    </item>
+    
+    <item>
+      <title>Neuen Skype-Client auf Arch Linux installieren</title>
+      <link>/2016/07/13/neuen-skype-client-auf-arch-linux-installieren/</link>
+      <pubDate>Wed, 13 Jul 2016 17:57:21 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2016/07/13/neuen-skype-client-auf-arch-linux-installieren/</guid>
+      <description>Heute hat Microsoft endlich einen neuen Skype-Client für Linux veröffentlicht. Die bisherige Version wurde sehr stiefmütterlich gepflegt und hinkte den Versionen für Mac und Windows sichtbar hinterher. Nun also ein neuer Client, basierend auf WebRTC und bisland noch ohne Videotelefonie.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2016/07/13/neuen-skype-client-auf-arch-linux-installieren/cover.png" />
+    </item>
+    
+    <item>
+      <title>uBlock Origin – Alternative zu Adblock Plus, Adblock Edge, uBlock etc.</title>
+      <link>/2015/05/10/ublock-neue-alternative-zu-adblock-plus-adblock-edge-etc/</link>
+      <pubDate>Sun, 10 May 2015 15:43:16 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2015/05/10/ublock-neue-alternative-zu-adblock-plus-adblock-edge-etc/</guid>
+      <description>Adblock Plus ist der unangefochtene Platzhirsch unter den Werbeblockern. Die für alle wichtigen Browser erhältliche Erweiterung ist allerdings nicht unumstritten. Größter Stein des Anstoßes sind die sogenannten Acceptable Ads. Auf diese Liste können sich Unternehmen gegen Geld setzen lassen, wenn ihre Werbebanner bestimmte Standards einhält. Diese Banner werden von Adblock Plus per Voreinstellung nicht blockiert. Kritiker sprechen gar von einem “einmalige[n] Werbenetzwerk mit Erpressungs-Potential”.</description>
+      
+    </item>
+    
+    <item>
+      <title>Unterstützung für Telegram in Pidgin</title>
+      <link>/2014/12/07/unterstuetzung-fuer-telegram-pidgin/</link>
+      <pubDate>Sun, 07 Dec 2014 14:18:26 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2014/12/07/unterstuetzung-fuer-telegram-pidgin/</guid>
+      <description>Möchte man Telegram unter Linux benutzen, so gibt es mehrere Möglichkeiten. Entweder man greift zur universellen Webversion, zum offiziellen Desktopclient oder zu alternativen Clients wie Sigram. Noch ein zusätzliches Programm zum chatten? Och no, mögen vielleicht einige denken. Auch ich möchte nicht für jeden Messagingdienst ein eigenes Programm starten müssen – wozu gibt es schließlich Multiprotokoll-Messenger. Erfreulicherweise gibt es für Telegram ein Plugin für Pidgin, dessen Installation und Einrichtung ich im Folgenden kurz beschreiben möchte.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2014/12/07/unterstuetzung-fuer-telegram-pidgin/cover.png" />
+    </item>
+    
+    <item>
+      <title>Evernote für Linux: NixNote2 Beta 1 erschienen</title>
+      <link>/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/</link>
+      <pubDate>Tue, 15 Apr 2014 19:58:44 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/</guid>
+      <description>Ich benutze den Notizdienst Evernote eigentlich sehr gerne, lassen sich mit ihm doch Dokumente, Geistesblitze, (handschriftliche) Mitschriften etc. sehr einfach verwalten und organisieren. Zudem gibt es gute Apps für iOS und Android, sowohl Desktopclients für Windows und MacOS vom Hersteller. Nur Linux bleibt mal wieder leider außen vor.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/cover.png" />
+    </item>
+    
+    <item>
+      <title>whistle.im unsicher – Mögliche Messenger-Alternativen</title>
+      <link>/2013/08/19/whistle-im-unsicher-moegliche-messenger-alternativen/</link>
+      <pubDate>Mon, 19 Aug 2013 19:38:41 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2013/08/19/whistle-im-unsicher-moegliche-messenger-alternativen/</guid>
+      <description>Während WhatsApp weiterhin als unsicherer Sofortnachrichtendienst gilt, versuchen sich momentan in der Bugwelle PRISM-Skandals diverse Anbieter mit angeblich sicheren Alternativen am Markt zu positionieren. Eine dieser Alternativen ist whistle.im, dass von zwei deutschen Studenten entwickelt wird. Laut eigener Aussage soll dieser Messenger Kinderleicht zu bedienen und dennoch abhörsicher sein. Allzu viel scheint an diesem Versprechen aber nicht dran zu sein, wie eine Analyse des CCC-Mitglieds &lt;em&gt;nexus&lt;/em&gt; zeigt.</description>
+      
+    </item>
+    
+    <item>
+      <title>rugby-trier.de</title>
+      <link>/projects/rugby-trier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/projects/rugby-trier/</guid>
+      <description>Administration und inhatliche Betreuung der Homepage der Rugbyabteilung des FSV Trier-Tarforst.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/rugby-trier/cover_rugby-trier-logo.png" />
+    </item>
+    
+  </channel>
+</rss>

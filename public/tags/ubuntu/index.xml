@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on c-m-l.net</title>
+    <link>/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Sun, 07 Dec 2014 14:18:26 +0000</lastBuildDate><atom:link href="/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unterstützung für Telegram in Pidgin</title>
+      <link>/2014/12/07/unterstuetzung-fuer-telegram-pidgin/</link>
+      <pubDate>Sun, 07 Dec 2014 14:18:26 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2014/12/07/unterstuetzung-fuer-telegram-pidgin/</guid>
+      <description>Möchte man Telegram unter Linux benutzen, so gibt es mehrere Möglichkeiten. Entweder man greift zur universellen Webversion, zum offiziellen Desktopclient oder zu alternativen Clients wie Sigram. Noch ein zusätzliches Programm zum chatten? Och no, mögen vielleicht einige denken. Auch ich möchte nicht für jeden Messagingdienst ein eigenes Programm starten müssen – wozu gibt es schließlich Multiprotokoll-Messenger. Erfreulicherweise gibt es für Telegram ein Plugin für Pidgin, dessen Installation und Einrichtung ich im Folgenden kurz beschreiben möchte.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2014/12/07/unterstuetzung-fuer-telegram-pidgin/cover.png" />
+    </item>
+    
+    <item>
+      <title>Evernote für Linux: NixNote2 Beta 1 erschienen</title>
+      <link>/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/</link>
+      <pubDate>Tue, 15 Apr 2014 19:58:44 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/</guid>
+      <description>Ich benutze den Notizdienst Evernote eigentlich sehr gerne, lassen sich mit ihm doch Dokumente, Geistesblitze, (handschriftliche) Mitschriften etc. sehr einfach verwalten und organisieren. Zudem gibt es gute Apps für iOS und Android, sowohl Desktopclients für Windows und MacOS vom Hersteller. Nur Linux bleibt mal wieder leider außen vor.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2014/04/15/evernote-fuer-linux-nixnote2-beta-1-erschienen/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

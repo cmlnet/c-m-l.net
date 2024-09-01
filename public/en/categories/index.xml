@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on c-m-l.net</title>
+    <link>/en/categories/</link>
+    <description>Recent content in Categories on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Science</title>
+      <link>/en/categories/science/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/en/categories/science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>/en/categories/android/</link>
+      <pubDate>Mon, 16 Jun 2014 08:29:07 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/en/categories/android/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IT</title>
+      <link>/en/categories/it/</link>
+      <pubDate>Mon, 16 Jun 2014 08:29:07 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/en/categories/it/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wissenschaft</title>
+      <link>/en/categories/wissenschaft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/en/categories/wissenschaft/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

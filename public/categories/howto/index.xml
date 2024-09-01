@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HowTo on c-m-l.net</title>
+    <link>/categories/howto/</link>
+    <description>Recent content in HowTo on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 17:00:00 +0000</lastBuildDate><atom:link href="/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R: YouTube Kommentare mit vosonSML auslesen</title>
+      <link>/2020/02/13/r-youtube-kommentare-mit-vosonsml-auslesen/</link>
+      <pubDate>Thu, 13 Feb 2020 17:00:00 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2020/02/13/r-youtube-kommentare-mit-vosonsml-auslesen/</guid>
+      <description>YouTube ist eine enorm populäre Seite und entsprechend interessant auch für die Forschung. Egal ob es dabei um Wissenschaftskommunikation, die Erforschung von Verschwörungstheorien oder Jugendkultur geht, nicht nur die Videos selbst sind relevant, sondern auch die Kommentarspalte unter selbigen. &lt;br /&gt; In den Kommentaren reagieren die Nutzer:innen auf die Videos, interagieren und diskutieren mit deren Macher:innen und anderen User:innen. Doch um YouTube Kommentare zu analysieren, muss man sie erst einmal sichern. &lt;br /&gt; Hierfür eignet sich [R] und das Paket [vosonSML] bestens. Wie man damit YouTube Kommentare sichert, zeige ich euch im Folgenden.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2020/02/13/r-youtube-kommentare-mit-vosonsml-auslesen/cover.png" />
+    </item>
+    
+    <item>
+      <title>LaTeX 101: Manuelle Zeilenumbrüche in Tabellenzellen</title>
+      <link>/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/</link>
+      <pubDate>Tue, 17 Dec 2019 19:39:49 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/</guid>
+      <description>&lt;p&gt;Manchmal braucht man manuelle Textumbrüche in Tabellenzellen. Was in Word oder LibreOffice selbstverständlich und einfach funktioniert, ist in LaTeX gar nicht so einfach. Die herkömmliche Methode mittels &lt;code&gt;\\&lt;/code&gt; oder &lt;code&gt;\linebreak&lt;/code&gt; einen Zeilenumbruch zu setzen, kann in Tabellenumgebungen nämlich nicht benutzt werden. Aber wie für alles gibt es auch hierfür natürlich eine Lösung in LaTeX – in Wirklichkeit gibt es natürlich wahrscheinlich zig Lösungen, aber das sind die zwei von mir benutzten.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

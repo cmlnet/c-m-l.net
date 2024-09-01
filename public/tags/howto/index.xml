@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on c-m-l.net</title>
+    <link>/tags/howto/</link>
+    <description>Recent content in Howto on c-m-l.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@c-m-l.net (Christian Humm)</managingEditor>
+    <webMaster>mail@c-m-l.net (Christian Humm)</webMaster>
+    <copyright>© 2024 Christian Humm</copyright>
+    <lastBuildDate>Tue, 17 Dec 2019 19:39:49 +0000</lastBuildDate><atom:link href="/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaTeX 101: Manuelle Zeilenumbrüche in Tabellenzellen</title>
+      <link>/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/</link>
+      <pubDate>Tue, 17 Dec 2019 19:39:49 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/</guid>
+      <description>&lt;p&gt;Manchmal braucht man manuelle Textumbrüche in Tabellenzellen. Was in Word oder LibreOffice selbstverständlich und einfach funktioniert, ist in LaTeX gar nicht so einfach. Die herkömmliche Methode mittels &lt;code&gt;\\&lt;/code&gt; oder &lt;code&gt;\linebreak&lt;/code&gt; einen Zeilenumbruch zu setzen, kann in Tabellenumgebungen nämlich nicht benutzt werden. Aber wie für alles gibt es auch hierfür natürlich eine Lösung in LaTeX – in Wirklichkeit gibt es natürlich wahrscheinlich zig Lösungen, aber das sind die zwei von mir benutzten.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2019/12/17/latex-101-manuelle-zeilenumbrueche-in-tabellenzellen/cover.png" />
+    </item>
+    
+    <item>
+      <title>Neuen Skype-Client auf Arch Linux installieren</title>
+      <link>/2016/07/13/neuen-skype-client-auf-arch-linux-installieren/</link>
+      <pubDate>Wed, 13 Jul 2016 17:57:21 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2016/07/13/neuen-skype-client-auf-arch-linux-installieren/</guid>
+      <description>Heute hat Microsoft endlich einen neuen Skype-Client für Linux veröffentlicht. Die bisherige Version wurde sehr stiefmütterlich gepflegt und hinkte den Versionen für Mac und Windows sichtbar hinterher. Nun also ein neuer Client, basierend auf WebRTC und bisland noch ohne Videotelefonie.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/2016/07/13/neuen-skype-client-auf-arch-linux-installieren/cover.png" />
+    </item>
+    
+    <item>
+      <title>HowTo: WebDAV und Plesk 9</title>
+      <link>/2009/08/08/howto-webdav-und-plesk-9/</link>
+      <pubDate>Sat, 08 Aug 2009 20:39:29 +0000</pubDate>
+      <author>mail@c-m-l.net (Christian Humm)</author>
+      <guid>/2009/08/08/howto-webdav-und-plesk-9/</guid>
+      <description>Zwar unterstützt Plesk 9 offiziell kein WebDAV und bringt entsprechend auch keine Oberfläche zur Aktivierung und Administration mit. Dennoch geht die Einrichtung von WebDAV auch auf Servern mit Plesk und Apache2 schnell von der Hand.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
