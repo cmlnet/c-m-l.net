@@ -26,12 +26,20 @@ Liste meiner (wissenschaftlichen) Publikationen und Vorträge bzw. Workshops.
 - Humm, C., Schrögel, P., & Leßmöllmann. (2020). [**Feeling left out: Underserved audiences in science communication.**](https://doi.org/10.17645/mac.v8i1.2480) Media and Communication, 8(1), 164–176.
 - Humm, L., & Humm, C. (2020). **Der deutsche Einwanderungsdiskurs. Ein Vergleich von Junger Freiheit und Zeit.** In H.-J. Bucher (Hrsg.), Medienkritik zwischen ideologischer Instrumentalisierung und kritischer Aufklärung (S. 334–356). Köln: Halem.
 - Schrögel, P., & Humm, C. (2020). [**23. Science communication, advising, and advocacy in public debates.**](https://doi.org/10.1515/9783110255522-023) In A. Leßmöllmann, M. Dascal, & T. Gloning (Hrsg.), Science Communication (S. 485–514). Berlin, Boston: De Gruyter.
-- Schrögel, P., Humm, C., Leßmöllmann, A., Kremer, B., Adler, J., & Weißkopf, M. (2018). [**Nicht erreichte Zielgruppen in der Wissenschaftskommunikation: Literatur-Review zu Exklusionsfaktoren und Analyse von Fallbeispielen [Zwischenbericht des Projekts „Wissenschaft für alle“].**](https://nbn-resolving.org/urn:nbn:de:0168-ssoar-66846-1) Berlin; Karlsruhe.
+- Schrögel, P., Humm, C., Leßmöllmann, A., Kremer, B., Adler, J., & Weißkopf, M. (2018). [**Nicht erreichte Zielgruppen in der Wissenschaftskommunikation: Literatur-Review zu Exklusionsfaktoren und Analyse von Fallbeispielen Zwischenbericht des Projekts „Wissenschaft für alle“.**](https://nbn-resolving.org/urn:nbn:de:0168-ssoar-66846-1) Berlin; Karlsruhe.
 - Schrögel, P., Humm, C., & Rauscher, S. (2019). [**Wissenschaft für alle?! Zehn Erkenntnisse zur Ansprache neuer Zielgruppen.**](https://www.wissenschaftskommunikation.de/wissenschaft-fuer-alle-zehn-erkenntnisse-zur-ansprache-neuer-zielgruppen-25287/) Wissenschaftskommunikation.de.
 - Schrögel, P., Humm, C., Rauscher, S., & Kremer, B. (2019). [**Science for all – Interim Report (Executive Summary).**](http://wmk.itz.kit.edu/downloads/Science_for_all_Factsheet_English.pdf)
 - Humm, C., & Schrögel, P. (2018). [**Wissenschaft für alle?! Das sagt die Forschung.**](https://www.wissenschaftskommunikation.de/wissenschaft-fuer-alle-das-sagt-die-forschung-12907/) Wissenschaftskommunikation.de.
 
 ## Vorträge
+
+- **Roundtable: What do emotions ‘do’ in science communication?**
+  - 11.-14. April 2023
+  - [PCST2023](https://www.pcst.network/conferences/past-conferences/pcst-2023/)
+
+- **Roundtable: Communicating science to young people – can we do better?**
+  - 11.-14. April 2023
+  - [PCST2023](https://www.pcst.network/conferences/past-conferences/pcst-2023/)
 
 - **„People like us“ – A Science Poetry Slam for Young Muslims**
   - 14.-16. Oktober 2021
