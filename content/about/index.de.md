@@ -22,7 +22,7 @@ Am KIT lehrte ich im [Studiengang][5] _[Wissenschaft &#8211; Medien &#8211; Komm
 
 Außerdem war ich am Aufbau des Portals _[wissenschaftskommunikation.de][7]_ als Redakteur für die Rubrik Forschung beteiligt.
 
-In meiner Freizeit spiele ich Rugby. Aktuelle bei [Stade Sarrois](https://stade-sarrois.de/), früher beim [Karlsruher SV][8] und bei [Rugby Trier][9], deren Homepage ich auch hoste und betreue.
+In meiner Freizeit spiele ich Rugby. Aktuell bei [Stade Sarrois](https://stade-sarrois.de/), früher beim [Karlsruher SV][8] und bei [Rugby Trier][9], deren Homepage ich weiterhin hoste und betreue.
 
 ## Anderswo im Netz
 
@@ -43,8 +43,6 @@ In meiner Freizeit spiele ich Rugby. Aktuelle bei [Stade Sarrois](https://stade-
 {{< icon "bluesky" >}} [Bluesky](https://bsky.app/profile/chumm.bsky.social)
 
 {{< icon "mastodon" >}} [Mastodon](https://social.tchncs.de/@cml_net)
-
-{{< icon "x-twitter" >}} [X](https://x.com/ch_humm)
 
 ### Andere Seiten
 

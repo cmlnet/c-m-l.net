@@ -22,7 +22,7 @@ At KIT, I taught in the study program _[Science – Media – Communication][5]_
 
 Furthermore, I was also involved in setting up the portal _[wissenschaftskommunikation.de][7]_ as editor for the research section.
 
-In my spare time I play rugby. Currently, rather sporadically at [Karlsruher SV][8], in the past for [Rugby Trier][9], of which I also host and maintain the homepage.
+In my spare time I play rugby. Currently, at [Stade Sarrois](https://stade-sarrois.de/), in the past for that at [Karlsruher SV][8] add [Rugby Trier][9], of which I still host and maintain the homepage.
 
 ## Elsewhere on the web
 
@@ -43,8 +43,6 @@ In my spare time I play rugby. Currently, rather sporadically at [Karlsruher SV]
 {{< icon "bluesky" >}} [Bluesky](https://bsky.app/profile/chumm.bsky.social)
 
 {{< icon "mastodon" >}} [Mastodon](https://social.tchncs.de/@cml_net)
-
-{{< icon "x-twitter" >}} [X](https://x.com/ch_humm)
 
 ### Other Sites
 

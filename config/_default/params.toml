@@ -150,3 +150,8 @@ replyByEmail = true
   # bing = ""
   # pinterest = ""
   # yandex = ""
+  fediverse = "@cml_net@social.tchncs.de"
+
+[rssnext]
+  feedId = "97709606237065216"
+  userId = "fbSsICnXftJBfpx-8fu4S"

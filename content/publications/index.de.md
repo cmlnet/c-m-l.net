@@ -12,6 +12,7 @@ toc: true
 Liste meiner (wissenschaftlichen) Publikationen und Vorträge bzw. Workshops.
 
 ## Publikationen
+- Humm, C., Schrögel, P., & Welz, M. (2024). [**Exklusion in der Wissenschaftskommunikation: Fehlende Diversität und Barrieren**](https://transferunit.de/thema/exklusion-in-der-wissenschaftskommunikation-fehlende-diversitaet-und-barrieren/). Transfer Unit Wissenschaftskommunikation.
 - Humm, C., & Niemann, P. (2023). [**Praxisbeitrag: Physiologische Messungen in der evaluatorischen Praxis: Eine Eyetracking-Studie zum virtuellen KATRIN-Experiment.**](https://doi.org/10.1007/978-3-658-39582-7_13) In P. Niemann, V. van den Bogaert, & R. Ziegler (Hrsg.), Evaluationsmethoden der Wissenschaftskommunikation (S. 203–219). Springer Fachmedien Wiesbaden.
 - Klein, M., Humm, C., Köllenberger, L., Niemann, P., Scheuermann, Y., Schrögel, P., & Valerius, K. (2021). [**Virtual tours to the KATRIN experiment**](https://doi.org/10.22323/1.395.1376). Proceedings of 37th International Cosmic Ray Conference — PoS(ICRC2021), 1376. 
 - Humm, C., Niemann, P., Schrögel, P., & Hauser, C. (2021). [**Ringvorlesung: Eine klassische Präsentationsform der Wissenschaftskommunikation.**](https://doi.org/10.5445/IR/1000132256) Karlsruhe: Karlsruher Institut für Technologie (KIT).
