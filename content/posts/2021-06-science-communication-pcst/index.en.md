@@ -16,7 +16,7 @@ toc: false
 cover: cover.png
 vgwort: 55a19eb8ef0a4c6684a2f3305a28fc2d
 
-summary: "I spoke at the **Public Communication of Science and Technology Conference 2020+1** (PCST 2020+1) about not reached audiences in science communication. In the five-minute *Insight Talk*, I present the results from the project **Science for All*. The focus is on the typology of exclusion factors we have developed and the qualitative and quantitative data that underpins it."
+summary: "I spoke at the **Public Communication of Science and Technology Conference 2020+1** (PCST 2020+1) about not reached audiences in science communication. In the five-minute *Insight Talk*, I present the results from the project *Science for All*. The focus is on the typology of exclusion factors we have developed and the qualitative and quantitative data that underpins it."
 ---
 
 {{< licence name="cc-by" >}}
