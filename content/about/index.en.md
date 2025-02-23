@@ -38,6 +38,8 @@ In my spare time I play rugby. Currently, at [Stade Sarrois](https://stade-sarro
 
 {{< icon "orcid" >}} [ORCID](https://orcid.org/0000-0001-8789-530X)
 
+{{< icon "google">}} [Google Scholar](https://scholar.google.de/citations?user=SuVVSRoAAAAJ)
+
 ### Social Networks
 
 {{< icon "bluesky" >}} [Bluesky](https://bsky.app/profile/chumm.bsky.social)
