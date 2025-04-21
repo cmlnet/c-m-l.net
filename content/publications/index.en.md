@@ -1,6 +1,9 @@
 ---
 title: Publications & Presentations
 date: 2021-12-22
+showDate: no
+lastmod: 2025-04-21
+showDateUpdated: yes
 url: "publications"
 aliases: ["publications-lectures"]
 
@@ -32,6 +35,10 @@ List of my (scientific) publications, lectures and workshops.
 - Humm, C., & Schrögel, P. (2018). [**Wissenschaft für alle?! Das sagt die Forschung.**](https://www.wissenschaftskommunikation.de/wissenschaft-fuer-alle-das-sagt-die-forschung-12907/) Wissenschaftskommunikation.de.
 
 ## Talks & Presentations
+
+- **Wo stehen wir heute? Wissenschaftskommunikation und (nicht-)erreichte Zielgruppen**
+  - 11\. September 2024
+  - [Wisskomm Connected](https://transferunit.de/thema/wisskomm-connected-konferenz-forschung-und-praxis-der-wissenschaftskommunikation-gemeinsam-gestalten/)
 
 - **Roundtable: What do emotions ‘do’ in science communication?**
   - 11.-14. April 2023

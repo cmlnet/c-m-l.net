@@ -4,4 +4,4 @@ replace github.com/cmlnet/hugo-creativecommons => /home/cmh/Dokumente/Developmen
 
 go 1.22.2
 
-require github.com/nunocoracao/blowfish/v2 v2.83.0 // indirect
+require github.com/nunocoracao/blowfish/v2 v2.84.0 // indirect
