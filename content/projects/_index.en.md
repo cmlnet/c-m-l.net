@@ -3,5 +3,5 @@ title: "Projects"
 groupByYear: false
 showHero: true
 showDate: false
-cardView: true
+cardView: false
 ---

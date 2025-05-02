@@ -1,7 +1,8 @@
 ---
 title: "Projekte"
 groupByYear: false
-showHero: true
+showHero: false
 showDate: false
-cardView: true
+cardView: false
+heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
 ---
