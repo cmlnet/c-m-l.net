@@ -29,6 +29,10 @@ highlightCurrentMenuArea = true
 
 replyByEmail = true
 
+# config for hugo-responsive-images
+[image]
+  render_hook = true
+
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
