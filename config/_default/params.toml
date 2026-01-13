@@ -32,11 +32,11 @@ replyByEmail = true
 # config for hugo-responsive-images
 [image]
   render_hook = true
-  widths = [600, 900, 1300] # widths to generate if widths not specified
+  widths = [300, 600, 900, 1300] # widths to generate if widths not specified
   # shortcode_widths = [600, 900, 1300] # custom widths for shortcode use in markdown files. If unset defaults to widths
   # render_hook_widths = [600, 900, 1300] # custom widths for render hook use in markdown files. If unset defaults to shortcode widths
   densities = [1,2] # densities which are output when an image width is specified
-  # formats = [webp, original] # set output formats. options are `original`, `bmp`, `gif`, `jpeg`, `jpg`, `png`, `tif`, `tiff`, and `webp`. In order of least supported to most supported. For "image_only" the first format will be used.
+  formats = ["webp", "original"] # set output formats. options are `original`, `bmp`, `gif`, `jpeg`, `jpg`, `png`, `tif`, `tiff`, and `webp`. In order of least supported to most supported. For "image_only" the first format will be used.
   # class = img-fluid # default image class if no class is specified
   figure_class = "figure img-fluid" # default figure class
   figure_image_class = "figure-img img-fluid" # default figure image class (appended to image class) ## USE .class to override outside of config
@@ -44,7 +44,7 @@ replyByEmail = true
   figcaption_title_h = 4 # heading level for figure title
   # render_hook_wrapper_class = img-wrapper # image wrapper class for render hook
   # shortcode_wrapper_class = img-wrapper # image wrapper class for shortcode
-  # loading = lazy # or auto/lazysizes # lazy/auto are for stock browser behavior, lazysizes will use lazysizes.js
+  loading = "lazy" # or auto/lazysizes # lazy/auto are for stock browser behavior, lazysizes will use lazysizes.js
   # render_hook = false # set to false to disable included markdown image render hook
                       # override by setting imageRenderHook = true/false in front matter
   # output = partial # img, figure # partial called by render-hook
@@ -54,18 +54,7 @@ replyByEmail = true
   # lqip_div_amount = 5 # lqip is 5x smaller than the smallest image in srcset
   # gif_div_amount = 10 # single color gif placeholder is 10x smaller than smallest image in srcset
   # provider = netlify # currently only supports netlify image processing.
-  # suppress_width_warning = false # turn of warning that image cannot be resized to the widths specified
-
-[imagesConfig]
-  command = "resize"
-  #sizes = [300, 710, 850]
-  sizes = "100vw"
-  responsive = true
-  formats = ["jpg","webp"]
-  useResources = true
-  compress = true
-  format = "webp"
-  quality = 85
+  suppress_width_warning = true # turn of warning that image cannot be resized to the widths specified
 
 [header]
   layout = "basic" # valid options = basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur

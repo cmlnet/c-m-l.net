@@ -39,7 +39,7 @@ Wie das nachher aussieht, zeigt folgendes Beispiel mit einer Zelle deren vertika
 \end{tabular}
 ```
 
-{{< figure src="images/latex_tabelle_parbox.png" title="Ergebnis des Beispielcodes" >}}
+{{< picture src="images/latex_tabelle_parbox.png" title="Ergebnis des Beispielcodes" >}}
 
 Neben `c` gibt es noch die in der Tabelle aufgeführten Parameter für die vertikale Ausrichtung:
 
