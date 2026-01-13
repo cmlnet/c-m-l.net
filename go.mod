@@ -7,5 +7,5 @@ go 1.22.2
 require (
 	github.com/future-wd/hugo-imaging-common v0.0.9 // indirect
 	github.com/future-wd/hugo-responsive-images v1.4.2 // indirect
-	github.com/nunocoracao/blowfish/v2 v2.91.0 // indirect
+	github.com/nunocoracao/blowfish/v2 v2.96.0 // indirect
 )
