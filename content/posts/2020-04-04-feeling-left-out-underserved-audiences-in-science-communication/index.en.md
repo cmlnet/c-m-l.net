@@ -23,7 +23,7 @@ summary: "In the project &#8220;Science for All&#8221;, my colleagues and I look
 
 In the project [&#8220;Science for All&#8221;][1], my colleagues and I look at who science communication actually does not reach, what the causes are and what possible solutions there are. A first evaluation of our data has just been published in the magazine [Media and Communication][2].
 
-{{< figure src="images/WfA_icon-RGB-Groß.png" alt="Logo of the project &quot;Science for All&quot;" caption="Logo of the project &quot;Science for All&quot;" class="float-right" >}}
+{{< picture src="images/WfA_icon-RGB-Groß.png" alt="Logo of the project &quot;Science for All&quot;" title="Logo of the project &quot;Science for All&quot;" class="float-right" >}}
 
 In [the article][3], we look at the factors responsible for excluding people from science communication and whether these factors are purely material – such as financial hurdles – or emotional. The data are based on interviews and focus groups that we conducted with three groups that are typically not reached by science communication.
 

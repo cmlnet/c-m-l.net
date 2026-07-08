@@ -73,7 +73,7 @@ Dies erlaubt uns nun ebenfalls einzelne Zellen anzupassen. Die Syntax ist dabei 
 \end{tabular}
 ```
 
-{{< figure src="images/latex_tabelle_umbruch_1.png" title="Ergebnis des Beispielcodes" >}}
+{{< picture src="images/latex_tabelle_umbruch_1.png" title="Ergebnis des Beispielcodes" >}}
 
 ### Weitere Optionen: Ausrichtung von Text in Zellen
 
@@ -97,7 +97,7 @@ Folgendes Beispiel zeigt, wie der Code für eine Tabelle aussieht, in der der Te
 \end{tabular}
 ```
 
-{{< figure src="images/latex_tabelle_makecell_ausrichtung.png" title="Ergebnis des Beispielcodes" >}}
+{{< picture src="images/latex_tabelle_makecell_ausrichtung.png" title="Ergebnis des Beispielcodes" >}}
 
  [1]: https://www.ctan.org/pkg/makecell
 

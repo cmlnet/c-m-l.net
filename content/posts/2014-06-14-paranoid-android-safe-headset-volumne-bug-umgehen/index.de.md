@@ -19,7 +19,7 @@ Momentan läuft auf meinem Smartphone das Custom Rom [Paranoid Android][1]. Eige
 
 Wenn man die Lautstärke zum ersten Mal über diese Lautsstärkegrenze anhebt und dabei einen Kopfhörer eingesteckt hat, blendet Android eine Warnung ein. Bestätigt man diese mit &#8220;OK&#8221;, dann kann man die Lautstärke weiter anheben. Der Vorgang muss unter normalen Androidversionen nach jedem Neustart wiederholt werden &#8211; was ziemlich nervig sein kann. Paranoid Android bietet deshalb nach der Warnung die Möglichkeit diese dauerhaft auszuschalten und genau an dieser Stelle kommt es zum &#8220;Soft Reboot&#8221;.
 
-{{< figure src="images/safe_headset_volumne_warning.png" title="Screenshot: Safe Headset Volume Warning unter Android" >}}
+{{< picture src="images/safe_headset_volumne_warning.png" title="Screenshot: Safe Headset Volume Warning unter Android" >}}
 
 Zwar ist davon auszugehen, dass der [Bug][2] in der nächsten Version behoben ist und prinzipiell nicht viele Nutzer betrifft, da die meisten die Warnung wahrscheinlich schon in einer früheren Version ausgestellt haben. Wer aber von dem Bug betroffen ist und nicht bis zum nächsten Build warten will, der kann ihn relativ einfach beheben:
 
@@ -29,7 +29,7 @@ Zwar ist davon auszugehen, dass der [Bug][2] in der nächsten Version behoben is
   3. Nun gibt man folgenden Befehl ein:`settings put system safe_headset_volume 1`
   Damit wird die Lautstärkewarnung permanent abgeschaltet. Ersetzt man die 1 durch eine 2, dann wird die Warnung wieder eingeschaltet.
 
-  {{< figure src="images/Screenshot_2014-06-13-23-40-01.png" title="Terminal Emulator mit den Befehlen zum Ausschalten der Lautstärkewarnung" >}}
+  {{< picture src="images/Screenshot_2014-06-13-23-40-01.png" title="Terminal Emulator mit den Befehlen zum Ausschalten der Lautstärkewarnung" >}}
 
  [1]: https://plus.google.com/+ParanoidAndroidCorner/
  [2]: https://paranoidandroid.atlassian.net/browse/AOSPA-527 "Bug im Tracker von Paranoid Android"

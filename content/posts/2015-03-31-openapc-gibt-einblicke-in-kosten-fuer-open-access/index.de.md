@@ -26,7 +26,7 @@ Das Projekt will die bezahlten Publikationsgebühren deutscher Universitäten of
 
 Ein erster, flüchtiger Blick auf die Daten, anhand des aktuellen Datenbestands und der von OpenAPC mitgelieferten <a href="https://github.com/OpenAPC/openapc-de/blob/master/README.Rmd" target="_blank">Beispielauswertungen</a>, zeigt dabei Folgendes:
 
-{{< figure src="images/plotAverageAPC.png" title="Durchschnittliche Publikationsgebühr nach Verlag" >}}
+{{< picture src="images/plotAverageAPC.png" title="Durchschnittliche Publikationsgebühr nach Verlag" >}}
 
 Die gezahlten Publikationsgebühren bewegen sich in einer relativ großen Spanne, von wenigen hundert Euro bis hin zu über 4000€. Durchschnittliche werden knapp 1226€ pro Artikel fällig und die durchschnittlichen Publikationsgebühren der einzelnen Verlage sind relativ nah beieinander.
 
@@ -36,7 +36,7 @@ Ob das gleichzeitig auch die Gewinnmargen der Verleger schmälert, ist allerding
 
 Zudem zeichnet sich ab, dass einige Big Player sich auch das Open Access Geschäft aufteilen könnten: In den OpenAPC-Daten dominiert mit großem Abstand <a href="https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media" target="_blank">Springer</a>, gefolgt von der Public Library of Science (PLoS). Springer gehört bereits auf dem Markt für klassische wissenschaftliche Zeitschriften zu einem der Marktführer, neben Wiley und Elsevier. Die beiden letzteren Verlage tauchen interessanterweise bisher nicht in nennenswertem Umfang in den Daten auf.
 
-{{< figure src="images/plotPublisherAPC.png" title="Verteilung der Publikationsgebühren auf die Verlage" >}}
+{{< picture src="images/plotPublisherAPC.png" title="Verteilung der Publikationsgebühren auf die Verlage" >}}
 
 Zwar gibt es (noch) einen relativ großen &#8220;Longtail&#8221;, dies könnte aber zum einen dem relativ kurzen Zeitraum, den die Daten der meisten Institutionen bisher abdecken, und zum anderen dem begrenzten Teilnehmerfeld geschuldet sein.
 

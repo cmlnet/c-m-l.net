@@ -26,19 +26,19 @@ _Dieser Beitrag wurde zuletzt am 21.02.2020 aktualisiert. Dabei wurden Informati
 
 ## AdBlock Edge
 
-{{< figure src="images/abe-logo.png" alt="Adblock Edge Logo" class="float-left" >}}
+{{< picture src="images/abe-logo.png" alt="Adblock Edge Logo" class="float-left" >}}
 
 Im Zuge der Kontroverse entstanden diverse Alternativen. Die beste war dabei in meinen Augen [Adblock Edge][3]. Konzentrierte man sich doch hier auf das wesentliche – das Blockieren von Werbeanzeigen – und hatte keinen unnötigen Schnickschnack an Bord. Leider wird nun aber zum Juni 2015 die Weiterentwicklung eingestellt. Zeit also sich wieder nach Alternativen umzuschauen.
 
 ## uBlock
 
-{{< figure src="images/ublock-logo.png" alt="uBlock Logo" class="float-left" >}}
+{{< picture src="images/ublock-logo.png" alt="uBlock Logo" class="float-left" >}}
 
 Meine Empfehlung – und die des Entwicklers von Adblock Edge – **war** uBlock. Die Erweiterung ist erhältlich für [Firefox][4], [Chrome][5], [Safari][6] und [Opera][7]. Sie **war** Open-Source und bietet eine sinnvolle Auswahl an per default aktivierten Filterlisten, sowie umfangreiche weitere Filterlisten, die zusätzliche aktiviert werden können. Gleichzeitig scheint die [Performance im Vergleich zu anderen Adblockern][8] besser zu sein und eine intuitive Möglichkeit eigene Filter zu erstellen.
 
 ## uBlock Origin
 
-{{< figure src="images/UBlock_Origin_Logo.png" alt="uBlock Origin Logo" class="float-left" >}}
+{{< picture src="images/UBlock_Origin_Logo.png" alt="uBlock Origin Logo" class="float-left" >}}
 
 Leider wurde uBlock 2018 von AdBlock übernommen und [zeigt nun auch sogenannte Acceptable Ads][9]. Deswegen empfehle ich den Einsatz von [uBlock Origin][10]. Die Erweiterung wird vom ursprünglichen Entwickler von uBlock entwickelt und hat inzwischen einen größeren Funktionsumfang als das Original. Erhältlich ist der Werbeblocker ebenfalls für alle gängigen Browser: [Chrome][11], [Opera][12], [Edge (Legacy)][13] bzw. [Edge (Chromium)][14] und [Firefox][15].
 

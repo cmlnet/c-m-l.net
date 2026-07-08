@@ -24,7 +24,7 @@ Dieser Artikel ist veraltet. rugbyweb.de ist inzwischen eingestellt und es werde
 
 {{< licence name="cc-by" >}}
 
-{{< figure src="/2018/03/22/tabelle-und-spielplan-von-rugbyweb-in-wordpress-einbinden/images/logo_rugbyweb.gif" alt="Logo von rugbyweb.de" class="float-right" nozoom=true >}}
+{{< picture src="images/logo_rugbyweb.gif" alt="Logo von rugbyweb.de" class="float-right" nozoom=true >}}
 
 Auf [rugbyweb.de][2] werden alle Ergebnisse und Spielpläne der verschiednen deutschen Rugby Union Ligen veröffentlicht. Leider hat die Seite den Charme der 90er Jahre und eine API zur Abfrage von Tabellensituationen, der Zusammensetzung von Ligen, Spielplänen oder Spielergebnissen gibt es nicht.
 

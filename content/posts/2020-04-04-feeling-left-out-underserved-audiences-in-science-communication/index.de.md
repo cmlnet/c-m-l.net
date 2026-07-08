@@ -23,7 +23,7 @@ summary: "Im Projekt &#8220;Wissenschaft für alle&#8221; schauen meine Kolleg*i
 
 Im Projekt [&#8220;Wissenschaft für alle&#8221;][1] schauen meine Kolleg*innen und ich uns an, wen Wissenschaftskommunikation eigentlich nicht erreicht, was die Ursachen dafür sind und welche mögliche Lösungen es gibt. Ganz frisch ist eine erste Auswertung unserer Daten in der Zeitschrift _[Media and Communication][2]_ erschienen.
 
-{{< figure src="images/WfA_icon-RGB-Groß.png" alt="Logo des Projekts &quot;Wissenschaft für alle&quot;" class="float-right" caption="Logo des Projekts &quot;Wissenschaft für alle&quot;" >}}
+{{< picture src="images/WfA_icon-RGB-Groß.png" alt="Logo des Projekts &quot;Wissenschaft für alle&quot;" class="float-right" title="Logo des Projekts &quot;Wissenschaft für alle&quot;" >}}
 
 In dem [englischsprachigen Beitrag][3] gehen wir der Frage nach, welche Faktoren Menschen von Wissenschaftskommunikation ausschließen und ob diese Faktoren rein materiell sind – wie bspw. finanzielle Hürden – oder auch emotional. Datengrundlage sind Interviews und Fokusgruppen, die wir mit drei typischerweise von Wissenschaftskommunikation nicht erreichten Gruppen geführt haben.
 

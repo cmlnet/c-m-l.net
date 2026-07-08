@@ -19,7 +19,7 @@ Dankenswerterweise hat die [Electronic Frontier Foundation (EFF)][1] nun eine �
 
 <!--more-->
 
-{{< figure src="images/scoreboard-eff.png" title= "Die Bewertung der wichtigsten Messenger durch die EFF (Stand: 21.11.2014)" >}}
+{{< picture src="images/scoreboard-eff.png" title= "Die Bewertung der wichtigsten Messenger durch die EFF (Stand: 21.11.2014)" >}}
 
 Die komplette Übersicht gibt es unter [Secure Messaging Scoreboard][2]. Es bleibt zu hoffen, dass das Angebot weiter gepflegt wird. Die von [Ende-zu-Ende-Verschlüsselung von WhatsApp][3] ist aktuell beispielsweise noch nicht berücksichtigt.
 

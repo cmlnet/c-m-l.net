@@ -34,15 +34,15 @@ Die neue Version wurde von Grund auf neu geschrieben und nutzt Java jetzt nur no
 
 Auch dass einige Features (selektive Synchronisation, Synchronisation von farbigen Notizen) bisher fehlen, bzw. nicht wieder eingebaut werden (verschlüsselte Datenbank), konnte ich gut verschmerzen. Sicherlich gibt es noch eine Dinge die sich optimieren ließen. Die Optik ist beispielsweise weiterhin etwas altbacken und das neue Trayicon ist auch nicht gerade das hübscheste, benutzen lässt sich das Programm allerdings trotzdem im Alltag.
 
-{{< figure src="images/NixNote-Default-Account_001.png" title="Hauptfenster von NixNote 2 Beta 1" >}}
+{{< picture src="images/NixNote-Default-Account_001.png" title="Hauptfenster von NixNote 2 Beta 1" >}}
 
 ## Fehlerhafte Textdarstellung im Editor
 
 Das einzige ernstzunehmende Problem, dass mir untergekommen ist, war eine falsch eingestellte Schriftart für den Editor, durch welche die Notizen nicht wirklich lesbar waren. Eingestellt war eine Schriftart namens &#8220;04b&#8221;. Der Fehler lässt sich aber einfach dadurch beheben, dass man in den Einstellungen den &#8220;Default Editor Font&#8221; ändert.
 
-{{< figure src="images/Selection_002.png" title="Fehlerhafte Textdarstellung" >}}
+{{< picture src="images/Selection_002.png" title="Fehlerhafte Textdarstellung" >}}
 
-{{< figure src="images/Selection_003.png" title="Korrigierte Textdarstellung" >}}
+{{< picture src="images/Selection_003.png" title="Korrigierte Textdarstellung" >}}
 
 ## Download & Installation
 

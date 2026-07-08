@@ -104,23 +104,23 @@ Jetzt funktioniert zwar WebDAV, aber jeder kann in das Verzeichnis schreiben, wa
 
 Hierzu ruft man in Plesk die Übersichtsseite für die jeweilige Domain auf und klickt dort auf _Password Protected Directories_ (1):
 
-{{< figure src="img/plesk_webdav_screenshot_01.png" caption="Aufruf _Password Protected Directories_" attr="" attrlink="" >}}
+{{< picture src="img/plesk_webdav_screenshot_01.png" title="Aufruf _Password Protected Directories_" >}}
 
 Im zweiten Schritt muss dann _Add Protected Directory_ angeklickt werden (2):
 
-{{< figure src="img/plesk_webdav_screenshot_02.png" caption="Aufruf _Add Protected Directory_" attr="" attrlink="" >}}
+{{< picture src="img/plesk_webdav_screenshot_02.png" title="Aufruf _Add Protected Directory_" >}}
 
 Auf der sich nun öffneten Seite muss das WebDAV-Verzeichnis eingeben werden und zwar relativ zum Order _httpdocs_ der Domain. In unserem Fall muss also _/webdav_ eingetragen werden (3). Dann heißt es nochmal auf _OK_ klicken (3):
 
-{{< figure src="img/plesk_webdav_screenshot_03.png" caption="Angeben des zu schützenden Verzeichnisses" attr="" attrlink="" >}}
+{{< picture src="img/plesk_webdav_screenshot_03.png" title="Angeben des zu schützenden Verzeichnisses" >}}
 
 Nun wird man auf eine weitere Seite weitergeleitet. Hier gilt es nun einen neuen Benutzer für dieses Verzeichnis anzulegen. Wie zu vermuten sollte man dazu auf Add New User klicken (5):
 
-{{< figure src="img/plesk_webdav_screenshot_04.png" caption="Aufruf _Add New User_" attr="" attrlink="" >}}
+{{< picture src="img/plesk_webdav_screenshot_04.png" title="Aufruf _Add New User_" >}}
 
 Jetzt muss nur noch ein Username (1) und zweimal ein Passwort eingetragen werden (2):
 
-{{< figure src="img/plesk_webdav_screenshot_05.png" caption="Festlegen von Benutzername und Passwort" attr="" attrlink="" >}}
+{{< picture src="img/plesk_webdav_screenshot_05.png" title="Festlegen von Benutzername und Passwort" >}}
 
 Jetzt ist das Verzeichniss vor unbefugten Zugriff geschützt und wir können mit dem letzten Schritt weitermachen.
 

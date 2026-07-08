@@ -55,6 +55,7 @@ replyByEmail = true
   # gif_div_amount = 10 # single color gif placeholder is 10x smaller than smallest image in srcset
   # provider = netlify # currently only supports netlify image processing.
   suppress_width_warning = true # turn of warning that image cannot be resized to the widths specified
+  ignoreLogs = ["alt-error"]
 
 [header]
   layout = "basic" # valid options = basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur

@@ -20,13 +20,13 @@ Auf meinem Desktop benutzte ich zum arbeiten Linux, genauer gesagt <a href="http
 
 Dank <a href="http://www.omgubuntu.co.uk/2015/06/arc-gtk-theme">OMG! Ubuntu!</a> bin ich vor kurzem auf einen neuen, sehr hübschen Vertreter seiner Art gestoßen: das <a href="https://github.com/horst3180/Arc-theme">Arc Theme</a>. Ein Theme das auf eine flache, teil-transparentes Aussehen setzt. Das Theme unterstützt GTK 3, GTK 2 und die Gnome-Shell (Version 3.14 & 3.16), sowie auf GTK basierende Desktop-Environments wie Unity, Budgie, Pantheon, etc.
 
-{{< figure src="images/arc_weather.png" title="GNOME Shell Extension Weather" >}}
+{{< picture src="images/arc_weather.png" title="GNOME Shell Extension Weather" >}}
 
-{{< figure src="images/arc_shell.png" title="GNOME Shell Aktivitätenübersicht" >}}
+{{< picture src="images/arc_shell.png" title="GNOME Shell Aktivitätenübersicht" >}}
 
-{{< figure src="images/arc_desktop.png" title="GNOME Shell mit Nautilus" >}}
+{{< picture src="images/arc_desktop.png" title="GNOME Shell mit Nautilus" >}}
 
-{{< figure src="images/arc_clock.png" title="GNOME Shell Uhrzeit/Kalender-Widget" >}}
+{{< picture src="images/arc_clock.png" title="GNOME Shell Uhrzeit/Kalender-Widget" >}}
 
 ## Installation
 

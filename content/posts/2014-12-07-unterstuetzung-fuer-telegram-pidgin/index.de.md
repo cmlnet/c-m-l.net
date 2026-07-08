@@ -44,15 +44,15 @@ Für andere Distributionen muss man etwas mehr Handarbeit betreiben. Im Reposito
 
 Nach der Installation fügt man in Pidigin ganz normal ein neues Konto hinzu, dabei dann als Protokoll &#8220;Telegram&#8221; auswählen. Ins Feld Benutzer einfach die Handynummer inklusive Landesvorwahl eintragen und auf &#8220;Hinzufügen&#8221; klicken:
 
-{{< figure src="images/Konto-hinzufügen_001.png" alt="Telegram Purple - Konto hinzufügen" title="'Konto hinzufügen'-Dialog" >}}
+{{< picture src="images/Konto-hinzufügen_001.png" alt="Telegram Purple - Konto hinzufügen" title="'Konto hinzufügen'-Dialog" >}}
 
 Telegram sendet danach zur Verifikation einen Code per SMS an die angegebene Handynummer. Diesen einfach in den aufpoppenden Dialog eintragen und damit ist die Einrichtung schon abgeschlossen:
 
-{{< figure src="images/Telegram-Code_002.png" alt="Telegram Code" title="Popup-Dialog zur Verifikation des Accounts" >}}
+{{< picture src="images/Telegram-Code_002.png" alt="Telegram Code" title="Popup-Dialog zur Verifikation des Accounts" >}}
 
 In der Buddy-Liste von Pidgin werden die eigenen Telegram-Kontakte nach erfolgreicher Einrichtung in einer eigenen Kategorie aufgeführt.
 
-{{< figure src="images/Buddy-Liste_003.png" alt="Telegram Purple Buddy-Liste" title="Buddy-Liste mit Telegram-Kontakten" >}}
+{{< picture src="images/Buddy-Liste_003.png" alt="Telegram Purple Buddy-Liste" title="Buddy-Liste mit Telegram-Kontakten" >}}
 
  [1]: https://telegram.org/
  [2]: https://web.telegram.org/

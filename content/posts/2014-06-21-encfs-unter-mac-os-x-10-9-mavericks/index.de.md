@@ -57,7 +57,7 @@ encfs ~/Dropbox/Private.enc/ ~/Private/
 
 Der Befehl sorgt dafür, dass das verschlüsselte Wurzelverzeichnis _.encrypted_ im Dropboxordner und der Mountpunkt _Private_ im Benutzerverzeichnis erstellt wird. Das Passwort mit dem die Dateien verschlüsselt werden, muss man im Lauf dieses Schritts eingeben. Falls dabei eine Warnung mit dem Text “Kernel extension is not from an identified developer” auftaucht, so bestätigt man diese mit &#8220;OK&#8221;.
 
-{{< figure src="images/kernel-extension-warning.png" >}}
+{{< picture src="images/kernel-extension-warning.png" title="Warnung" >}}
 
 Möchte man das EncFS-Verzeichnis später einbinden, so genügt es den gleichen Befehl einfach nochmals ins Terminal einzugeben und im Folgenden, dann das zuvor festgelegt Passwort einzugeben:
 
@@ -79,14 +79,14 @@ Nun mag vielleicht nicht jeder, ständig mit dem Terminal hantieren nur um den E
 
   1. Man lädt das Programm [Macfusion 2][9] sowie das zugehörige [EncFS-Plugin][10] und installiert beide.
   2. Nun startet man Macfusion und fügt per Klick auf das +-Symbol ein EncFS-Volumne hinzu
-  {{< figure src="images/Screenshot-Macfusion-1.png" >}}
+  {{< picture src="images/Screenshot-Macfusion-1.png" title="Screenshot von Macfusion" >}}
   3. Im folgenden Dialog kann man den verschlüsselten Ordner auswählen:
-  {{< figure src="images/Screenshot-Macfusion-2.png" >}}
+  {{< picture src="images/Screenshot-Macfusion-2.png" title="Screenshot von Macfusion" >}}
     Falls man noch keinen verschlüsselten Ordner angelegt hat, so fragt Macfusion direkt, ob es das auch noch erledigen sollen:
-  {{< figure src="images/Screenshot-Macfusion-3.png" >}}
-  {{< figure src="images/Screenshot-Macfusion-4.png" >}}
+  {{< picture src="images/Screenshot-Macfusion-3.png" title="Screenshot von Macfusion" >}}
+  {{< picture src="images/Screenshot-Macfusion-4.png" title="Screenshot von Macfusion" >}}
   4. Standardmäßig bindet Macfusion den Ordner unter einem zufälligen Namen ein. Da das eher unpraktisch ist, sollte man im Reiter &#8220;Macfusion&#8221; noch den gewünschten Mountpunkt angeben:
-  {{< figure src="images/Screenshot-Macfusion-5.png" >}}
+  {{< picture src="images/Screenshot-Macfusion-5.png" title="Screenshot von Macfusion" >}}
   5. Nun kann man den EncFS-Ordner im Hauptfenster von Macfusion durch einen Klick auf &#8220;Mount&#8221; einbinden. Damit Macfusion auf das gespeicherte Passwort zum Entschlüsseln zugreifen kann, muss man dem Programm beim ersten Einbinden noch erlauben immer auf den Schlüsselbund zugreifen zu dürfen.
 
  [1]: https://db.tt/u7LmdZP

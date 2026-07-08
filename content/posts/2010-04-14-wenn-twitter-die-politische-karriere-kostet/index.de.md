@@ -25,11 +25,11 @@ Nachdem die Queen am 6. April der Bitte von Premierminister Gordon Browns nachge
 
 Insbesondere die [Tories][1] tun sich in Sachen _negative campaigning_ hervor. Zum Beispiel mit einer Plakatkampagne die den lächelnden Premier neben Slogans wie &#8220;Ich habe die nationale Verschuldung verdoppelt, wählt mich&#8221; zeigt.
 
-{{< figure src="img/tories_gordon_debt.jpg" caption="Wahlplakat der Tories" >}}
+{{< picture src="img/tories_gordon_debt.jpg" title="Wahlplakat der Tories" >}}
 
  Während die [Labour Party][2] ein Plakat vorstellte, dass den konservativen Spitzenkandidaten David Cameron auf einem Audi Quattro sitzen zeigt, kombiniert mit der Aussage &#8220;Lass ihn nicht Britannien zurück in die 1980er führen&#8221;. Allerdings führte dieses Plakat nicht zu den intendierten Reaktionen und wurde stattdessen von den Tories als Vorlage für ein [eigenes Plakat][3] benutzt.
 
-{{< figure src="img/labour_cameron_audi.jpg" caption="Wahlplakat der Labour Party" >}}
+{{< picture src="img/labour_cameron_audi.jpg" title="Wahlplakat der Labour Party" >}}
 
 Auf [MyDavidCameron.com][4], einer nach eigenen Angaben parteiunabhängigen Seite, wird hingegen zum kreativen Umgestalten der Tory Wahlplakate aufgerufen, ähnlich dem [Schäuble Plakat-Remix Wettbewerb][5] bei Netzpolitik anlässlich der letzten Bundestagswahl.
 

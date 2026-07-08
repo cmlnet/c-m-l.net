@@ -39,7 +39,7 @@ Wie äußert sich das Problem bei der Dateisynchronisierung? Änderungen die man
 
 Verifizieren lässt es sich aber über die Einstellungen von Papership unter dem Punkt _Zotero File Hosting_: Wenn man dort auf _Verify Server_ klickt erhält man folgende Fehlermeldung:
 
-{{< figure src="images/papership_sync_fehlermeldung.png" caption="Fehlermeldung _Cannot Verify Server_ in Papership" >}}
+{{< picture src="images/papership_sync_fehlermeldung.png" title="Fehlermeldung _Cannot Verify Server_ in Papership" >}}
 
 ## Die Ursache
 
@@ -50,7 +50,7 @@ Der Grund für den Fehler liegt in der fehlenden Datei lastsync.txt. Diese Datei
 
 Die Lösung ist simpel: Es muss einfach nur die leere Datei _lastsync.txt_ im Dateiverzeichnis von Zotero, also dort wo die angehängten Texte gespeichert werden, angelegt werden. Danach funktioniert sowohl das hochladen von annotierten Texten als auch die Verifizierung des Servers wieder:
 
-{{< figure src="images/papership_erfolgreiche_serververifikation.png" caption="Erfolgreiche Serververifikation in Papership" >}}
+{{< picture src="images/papership_erfolgreiche_serververifikation.png" title="Erfolgreiche Serververifikation in Papership" >}}
 
 Die Lösung ist leider nicht dauerhaft, da Zotero die Datei von Zeit zu Zeit wieder löscht. Ein Muster wann dies der Fall ist, konnte ich allerdings nicht erkennen. Wenn es also wieder zu Problemen bei der Synchronisierung kommt, muss die Datei erneut angelegt werden.
 

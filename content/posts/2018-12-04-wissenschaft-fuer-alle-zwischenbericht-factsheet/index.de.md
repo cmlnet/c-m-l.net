@@ -41,7 +41,7 @@ Der komplette Zwischenbericht, inklusive Erklärungen der einzelne Exklusionsfak
 
 Wem die fast 100 Seiten zu viel sind, der kann auch einen Blick auf das [Factsheet zum Zwischenbericht (PDF)][3] werfen. Hier wurden die wichtigsten Ergebnisse des Bericht sehr knapp auf zwei Seiten zusammengefasst:
 
-{{< figure src="cover.png" link="pdf/181106_WfA-Factsheet_final.pdf" caption="Erste Seite des Factsheets zum Zwischenbericht. Ein Klick öffnet das Factsheet als PDF." >}}
+{{< picture src="cover.png" link="pdf/181106_WfA-Factsheet_final.pdf" title="Erste Seite des Factsheets zum Zwischenbericht. Ein Klick öffnet das Factsheet als PDF." >}}
 
  [1]: http://www.geistsoz.kit.edu/germanistik/1054.php
  [2]: https://www.c-m-l.net/blog/wp-content/uploads/2018/12/Zwischenbericht_Wissenschaft_fuer_alle.pdf
